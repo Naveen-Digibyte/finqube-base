@@ -6,8 +6,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.digibyte.midfinwealth.finqube.domain.User;
 
-
-
 /**
 * @author Sid
 *
