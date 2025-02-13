@@ -1,11 +1,22 @@
 package com.digibyte.midfinwealth.finqube.ecan.payload;
 
+import com.digibyte.midfinwealth.finqube.ecan.enums.Country;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 
 import lombok.Data;
 
+/**
+ * @author Sid
+ *
+ * History:
+ * -08-01-2025 <Sid> UserRepo
+ *      - InitialVersion
+ * -12-02-2025 <NaveenDhanasekaren>
+ *      - changed type of birthCountry, citizenship and nationality
+ */
+
 @Data
-class FATCADetail {
+public class FATCADetail {
 	
     @JacksonXmlProperty(localName = "GROSS_INCOME")
     private String grossIncome;
@@ -29,13 +40,13 @@ class FATCADetail {
     private String birthCity;
 
     @JacksonXmlProperty(localName = "BIRTH_COUNTRY")
-    private String birthCountry;
+    private Country birthCountry;
 
     @JacksonXmlProperty(localName = "CITIZENSHIP")
-    private String citizenship;
+    private Country citizenship;
 
     @JacksonXmlProperty(localName = "NATIONALITY")
-    private String nationality;
+    private Country nationality;
 
     @JacksonXmlProperty(localName = "TAX_RES_FLAG")
     private String taxResFlag;

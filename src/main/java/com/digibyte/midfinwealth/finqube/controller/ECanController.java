@@ -1,30 +1,36 @@
 package com.digibyte.midfinwealth.finqube.controller;
 
+import com.digibyte.midfinwealth.finqube.constants.Constants;
+import com.digibyte.midfinwealth.finqube.ecan.client.ECanRequestClientService;
+import com.digibyte.midfinwealth.finqube.model.ECanRequestModel;
+import com.digibyte.midfinwealth.finqube.model.ResponseModel;
+import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.digibyte.midfinwealth.finqube.ecan.client.ECanRequestClient;
-import com.digibyte.midfinwealth.finqube.ecan.payload.CanIndFillEezzReq;
+/**
+ * @author Sid, Naveen
+ *
+ * History:
+ * -08-01-2025 <Sid> SecurityConstants
+ *      - InitialVersion
+ * -12-02-2025 <NaveenDhanasekaran>
+ *     	- Removed submit api and added new method to create.
+ */
 
 @RestController
 @RequestMapping("/api/can")
 public class ECanController {
 	
 	@Autowired
-    private ECanRequestClient eCanRequestClient;
-
-	@PostMapping(value = "/submit", consumes = "application/json", produces = "application/json")
-    public ResponseEntity<String> submitRequest(@RequestBody CanIndFillEezzReq canIndFillEezzReq) {
-        try {
-            String response = eCanRequestClient.sendCanIndFillEezzRequest(canIndFillEezzReq);
-            return ResponseEntity.ok(response);
-        } catch (Exception e) {
-            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Error: " + e.getMessage());
-        }
+    private ECanRequestClientService eCanRequestClientService;
+    
+    @PostMapping("/create")
+    public ResponseModel createCan(@Valid @RequestBody ECanRequestModel eCanRequestModel){
+        return new ResponseModel(Constants.POSITIVE, null, eCanRequestClientService.createECanForIndividual(eCanRequestModel));
     }
 }
+

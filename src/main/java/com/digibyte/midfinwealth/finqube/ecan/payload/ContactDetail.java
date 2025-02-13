@@ -1,40 +1,36 @@
 package com.digibyte.midfinwealth.finqube.ecan.payload;
 
+import com.digibyte.midfinwealth.finqube.ecan.enums.PrimaryHolderDeclaration;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
+
+/**
+ * @author Sid
+ * 
+ * History:
+ * -08-01-2025 <Sid> UserRepo
+ *      - InitialVersion
+ * -12-02-2025 <NaveenDhanasekaran>
+ *      - changed type for priMobBelongsTo and priEmailBelongsTo
+ */
 
 @Data
-class ContactDetail {
+@AllArgsConstructor
+@NoArgsConstructor
+public class ContactDetail {
 	
     @JacksonXmlProperty(localName = "PRI_MOB_NO")
     private String priMobNo;
 
     @JacksonXmlProperty(localName = "PRI_MOB_BELONGSTO")
-    private String priMobBelongsTo;
+    private PrimaryHolderDeclaration priMobBelongsTo;
 
     @JacksonXmlProperty(localName = "PRI_EMAIL")
     private String priEmail;
 
     @JacksonXmlProperty(localName = "PRI_EMAIL_BELONGSTO")
-    private String priEmailBelongsTo;
-
-    @JacksonXmlProperty(localName = "PRI_MOB_VER_FLAG")
-    private String priMobVerFlag;
-
-    @JacksonXmlProperty(localName = "PRI_EMAIL_VER_FLAG")
-    private String priEmailVerFlag;
-
-    @JacksonXmlProperty(localName = "PRI_MOB_IP_ADDR")
-    private String priMobIpAddr;
-
-    @JacksonXmlProperty(localName = "PRI_EMAIL_IP_ADDR")
-    private String priEmailIpAddr;
-
-    @JacksonXmlProperty(localName = "PRI_MOB_VER_TS")
-    private String priMobVerTs;
-
-    @JacksonXmlProperty(localName = "PRI_EMAIL_VER_TS")
-    private String priEmailVerTs;
-    
+    private PrimaryHolderDeclaration priEmailBelongsTo;
 }

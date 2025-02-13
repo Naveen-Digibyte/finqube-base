@@ -2,12 +2,11 @@ server:
   port: 8080
 server.servlet.contextPath: /finqube
 spring.application.name: finqube
-spring.profiles.active: dev
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/finqube
-    username: finqube
-    password: February@2025
+    username: postgres
+    password: postgres
     driver-class-name: org.postgresql.Driver
     hikari:
           maximum-pool-size: 10
@@ -23,3 +22,15 @@ spring:
       hibernate:
         format_sql: true
         dialect: org.hibernate.dialect.PostgreSQLDialect
+eCAN:
+  api:
+    url: "https://test.mfuonline.com:4091/MFUCanFillEezzService"
+    
+finqube:
+  entityId: 40008J
+  uniqueId: 123456789012345
+  requestType: CANINDREG
+  loginUserId: MIDFINECUAT
+  version: 1.00
+  password: w73PEHWQKGCNNVsc/NiM5g==
+  entityEmail: naveen.d@digibytetechnologies.com

@@ -1,12 +1,12 @@
 package com.digibyte.midfinwealth.finqube.constants;
 
 /**
-* @author Sid
-*
-* History:
-* -08-01-2025 <Sid> SecurityConstants
-*      - InitialVersion
-*/
+ * @author Sid
+ * 
+ * History:
+ * -08-01-2025 <Sid> SecurityConstants
+ * - InitialVersion
+ */
 
 public class SecurityConstants {
 

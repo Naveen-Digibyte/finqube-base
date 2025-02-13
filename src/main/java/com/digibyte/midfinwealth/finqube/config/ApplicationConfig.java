@@ -1,5 +1,6 @@
 package com.digibyte.midfinwealth.finqube.config;
 
+import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -16,44 +17,52 @@ import com.digibyte.midfinwealth.finqube.constants.ErrorConstants;
 import com.digibyte.midfinwealth.finqube.repo.UserRepo;
 
 import lombok.RequiredArgsConstructor;
+import org.springframework.web.client.RestTemplate;
 
 /**
-* @author Sid
-*
-* History:
-* -08-01-2025 <Sid> ApplicationConfig
-*      - InitialVersion
-*/
+ * @author Sid
+ * 
+ * History:
+ * -08-01-2025 <Sid> ApplicationConfig
+ *      - InitialVersion
+ * -12-02-2025 <NaveenDhanasekaran>
+ *      - Added RestTemplate bean
+ */
 
 @Configuration
 @RequiredArgsConstructor
 public class ApplicationConfig {
 
-	@Autowired
-	UserRepo userRepository;
+    @Autowired
+    UserRepo userRepository;
 
-	@Bean
-	public UserDetailsService userDetailsService() {
-		return email -> userRepository.findByEmail(email)
-				.orElseThrow(() -> new UsernameNotFoundException(ErrorConstants.E_0002));
-	}
+    @Bean
+    public RestTemplate restTemplate() {
+        return new RestTemplate();
+    }
 
-	@Bean
-	public AuthenticationProvider authenticationProvider() {
-		DaoAuthenticationProvider authProvider = new DaoAuthenticationProvider();
-		authProvider.setUserDetailsService(userDetailsService());
-		authProvider.setPasswordEncoder(passwordEncoder());
-		return authProvider;
-	}
+    @Bean
+    public UserDetailsService userDetailsService() {
+        return email -> userRepository.findByEmail(email)
+                .orElseThrow(() -> new UsernameNotFoundException(ErrorConstants.E_0002));
+    }
 
-	@Bean
-	public AuthenticationManager authenticationManager(AuthenticationConfiguration config) throws Exception {
-		return config.getAuthenticationManager();
-	}
+    @Bean
+    public AuthenticationProvider authenticationProvider() {
+        DaoAuthenticationProvider authProvider = new DaoAuthenticationProvider();
+        authProvider.setUserDetailsService(userDetailsService());
+        authProvider.setPasswordEncoder(passwordEncoder());
+        return authProvider;
+    }
 
-	@Bean
-	public PasswordEncoder passwordEncoder() {
-		return new BCryptPasswordEncoder();
-	}
+    @Bean
+    public AuthenticationManager authenticationManager(AuthenticationConfiguration config) throws Exception {
+        return config.getAuthenticationManager();
+    }
+
+    @Bean
+    public PasswordEncoder passwordEncoder() {
+        return new BCryptPasswordEncoder();
+    }
 
 }

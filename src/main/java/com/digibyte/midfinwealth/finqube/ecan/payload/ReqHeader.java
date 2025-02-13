@@ -5,7 +5,7 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import lombok.Data;
 
 @Data
-class ReqHeader {
+public class ReqHeader {
 	
     @JacksonXmlProperty(localName = "ENTITY_ID")
     private String entityId;

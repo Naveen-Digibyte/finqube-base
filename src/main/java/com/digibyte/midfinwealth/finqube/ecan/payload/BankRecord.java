@@ -1,22 +1,39 @@
 package com.digibyte.midfinwealth.finqube.ecan.payload;
 
+import com.digibyte.midfinwealth.finqube.ecan.enums.AccountType;
+import com.digibyte.midfinwealth.finqube.ecan.enums.BankProof;
+import com.digibyte.midfinwealth.finqube.ecan.enums.ConfirmationStatus;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
+
+/**
+ * @author Sid
+ * 
+ * History:
+ * -08-01-2025 <Sid> BankRecord
+ *      - InitialVersion
+ * -12-02-2025 <NaveenDhanasekaran>
+ *      - Changed type for defaultAccFlag and accountType
+ */
 
 @Data
-class BankRecord {
+@AllArgsConstructor
+@NoArgsConstructor
+public class BankRecord {
     @JacksonXmlProperty(localName = "SEQ_NUM")
     private int seqNum;
 
     @JacksonXmlProperty(localName = "DEFAULT_ACC_FLAG")
-    private String defaultAccFlag;
+    private ConfirmationStatus defaultAccFlag;
 
     @JacksonXmlProperty(localName = "ACCOUNT_NO")
     private String accountNo;
 
     @JacksonXmlProperty(localName = "ACCOUNT_TYPE")
-    private String accountType;
+    private AccountType accountType;
 
     @JacksonXmlProperty(localName = "BANK_ID")
     private String bankId;
@@ -26,4 +43,7 @@ class BankRecord {
 
     @JacksonXmlProperty(localName = "IFSC_CODE")
     private String ifscCode;
+
+    @JacksonXmlProperty(localName = "PROOF")
+    private BankProof proof;  
 }
