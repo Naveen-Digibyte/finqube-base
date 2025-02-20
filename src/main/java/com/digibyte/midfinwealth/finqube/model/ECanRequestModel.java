@@ -20,6 +20,8 @@ import java.util.List;
  * History:
  * -13-01-2025 <NaveenDhanasekaran> ECanRequestModel
  *      - InitialVersion
+ * -19-02-2025 <NaveenDhanasekaran>
+ *      - Changed field name eCanNomineeDetails to nomineeDetails
  */
 
 @Data
@@ -103,5 +105,5 @@ public class ECanRequestModel {
 
     @NotEmpty(message = ErrorConstants.E_0035)
     @Valid
-    private List<ECanNomineeDetail> eCanNomineeDetails;
+    private List<ECanNomineeDetail> nomineeDetails;
 }

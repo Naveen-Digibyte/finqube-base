@@ -15,6 +15,8 @@ import java.util.Date;
  * History:
  * -12-01-2025 <NaveenDhanasekaran> NomineeRecord
  *      - InitialVersion
+ * -19-02-2025 <NaveenDhanasekaran>
+ *      - Changed data type for relation to string
  */
 
 @Data
@@ -27,7 +29,7 @@ public class NomineeRecord {
     private String nomineeName;
 
     @JacksonXmlProperty(localName = "RELATION")
-    private NomineeRelation relation;
+    private String relation;
 
     @JacksonXmlProperty(localName = "PERCENTAGE")
     private int percentage;

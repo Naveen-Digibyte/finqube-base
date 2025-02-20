@@ -34,6 +34,8 @@ import java.util.List;
  *      - InitialVersion
  * -12-02-2025 <NaveenDhanasekaran>
  *      - Alter sendCanIndFillEezzRequest method
+ * -19-02-2025 <NaveenDhanasekaran>
+ *      - Updated ECan registration method
  */
 
 @Service
@@ -96,7 +98,6 @@ public class ECanRequestClientService {
                     canIndFillEezzResp.getRespBody().getNomVerLinkH2(),
                     canIndFillEezzResp.getRespBody().getNomVerLinkH3()
             ));
-
         } catch (ECanException exception) {
             throw new ECanException(exception.getMessage());
         } catch (Exception ex) {
@@ -129,7 +130,7 @@ public class ECanRequestClientService {
         reqBody.setHolderCount(eCanRequestModel.getHolders());
         reqBody.setHolderRecords(new HolderRecords(createHolderRecords(eCanRequestModel)));
         reqBody.setBankDetails(getBankDetails(eCanRequestModel.getBankDetails()));
-        reqBody.setNomineeDetails(getNomineeDetails(eCanRequestModel.getECanNomineeDetails()));
+        reqBody.setNomineeDetails(getNomineeDetails(eCanRequestModel.getNomineeDetails()));
         return reqBody;
     }
 
@@ -147,15 +148,15 @@ public class ECanRequestClientService {
     private NomineeDetails getNomineeDetails(@NotEmpty(message = ErrorConstants.E_0035) @Valid List<ECanNomineeDetail> eCanNomineeDetails) {
         NomineeDetails nomineeDetails = new NomineeDetails();
         nomineeDetails.setNomDeclLvl(NomineeDeclaration.C);
-        nomineeDetails.setNominOptFlag(NomineeOptionFlag.CHECKED);
-        nomineeDetails.setNomVerifyType(NomineeVerificationType.NOMINEE_2FA);
+        nomineeDetails.setNominOptFlag(NomineeOptionFlag.CHECKED.getCode());
+        nomineeDetails.setNomVerifyType(NomineeVerificationType.NOMINEE_2FA.getCode());
 
         List<NomineeRecord> nomineeRecords = new ArrayList<>();
         for (ECanNomineeDetail nomineeDetail : eCanNomineeDetails) {
             NomineeRecord nomineeRecord = new NomineeRecord();
             nomineeRecord.setNomineeName(nomineeDetail.getName());
             nomineeRecord.setDob(String.valueOf(nomineeDetail.getDateOfBirth()));
-            nomineeRecord.setRelation(nomineeDetail.getNomineeRelation());
+            nomineeRecord.setRelation(nomineeDetail.getNomineeRelation().getCode());
             nomineeRecord.setPercentage(nomineeDetail.getPercentage());
             nomineeRecords.add(nomineeRecord);
         }
@@ -177,7 +178,7 @@ public class ECanRequestClientService {
                     .ifPresentOrElse(bank -> {
                         bankRecord.setBankId(bank.getBankId());
                     }, () -> {
-                        throw new ECanException(ErrorConstants.E_0033); // handle case when bank not found
+                        throw new ECanException(ErrorConstants.E_0033);
                     });
 
             bankRecord.setMicrCode(bankDetails.get(i).getMicrCode());

@@ -17,6 +17,8 @@ import java.util.List;
  * History:
  * -12-01-2025 <NaveenDhanasekaran> NomineeDetails
  *      - InitialVersion
+ * -19-02-2025 <NaveenDhanasekaran>
+ *      - Changed datatype for nominee type and flag to string
  */
 
 @Data
@@ -26,10 +28,10 @@ public class NomineeDetails {
     private NomineeDeclaration nomDeclLvl;
     
     @JacksonXmlProperty(localName = "NOMIN_OPT_FLAG")
-    private NomineeOptionFlag nominOptFlag;
+    private String nominOptFlag;
     
     @JacksonXmlProperty(localName = "NOM_VERIFY_TYPE")
-    private NomineeVerificationType nomVerifyType;
+    private String nomVerifyType;
     
     @JacksonXmlElementWrapper(localName = "NOMINEES_RECORDS")
     @JacksonXmlProperty(localName = "NOMINEE_RECORD")
