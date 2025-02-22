@@ -2,7 +2,7 @@ package com.digibyte.midfinwealth.finqube.service;
 
 import com.digibyte.midfinwealth.finqube.constants.Constants;
 import com.digibyte.midfinwealth.finqube.constants.ErrorConstants;
-import com.digibyte.midfinwealth.finqube.exceptions.AuthenticationException;
+import com.digibyte.midfinwealth.finqube.exception.AuthenticationException;
 import com.digibyte.midfinwealth.finqube.model.AuthResponse;
 import com.digibyte.midfinwealth.finqube.model.RegisterModel;
 import com.digibyte.midfinwealth.finqube.model.UserDto;
@@ -59,6 +59,7 @@ public class AuthService {
 		var user = userRepo.findByEmail(request.getEmail())
 				.orElseThrow(() -> new AuthenticationException(String.format(ErrorConstants.E_0001, request.getEmail())));
 		var jwtToken = jwtService.generateToken(user);
+		System.out.println(jwtToken);
 		responseHeaders.set(SecurityConstants.HEADER_STRING, SecurityConstants.TOKEN_PREFIX + jwtToken);
 		UserDto userDTO = new UserDto(
 				user.getUserId(),

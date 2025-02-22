@@ -17,6 +17,14 @@ import lombok.NoArgsConstructor;
  *      - changed type for priMobBelongsTo and priEmailBelongsTo
  */
 
+/**
+* @author Sid
+*
+* History:
+* -19=02-2025 <Sid> 
+*      - InitialVersion
+*/
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

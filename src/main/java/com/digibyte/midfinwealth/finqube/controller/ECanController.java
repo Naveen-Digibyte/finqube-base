@@ -1,15 +1,27 @@
 package com.digibyte.midfinwealth.finqube.controller;
 
+import com.digibyte.midfinwealth.finqube.model.ValidCanRequestModel;
+import org.apache.tomcat.util.bcel.Const;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+
 import com.digibyte.midfinwealth.finqube.constants.Constants;
-import com.digibyte.midfinwealth.finqube.ecan.client.ECanRequestClientService;
+import com.digibyte.midfinwealth.finqube.ecan.service.ECanRequestClientService;
 import com.digibyte.midfinwealth.finqube.model.ECanRequestModel;
 import com.digibyte.midfinwealth.finqube.model.ResponseModel;
+
 import jakarta.validation.Valid;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+
+import javax.crypto.BadPaddingException;
+import javax.crypto.IllegalBlockSizeException;
+import javax.crypto.NoSuchPaddingException;
+import java.io.UnsupportedEncodingException;
+import java.security.InvalidAlgorithmParameterException;
+import java.security.InvalidKeyException;
+import java.security.NoSuchAlgorithmException;
+import java.security.NoSuchProviderException;
 
 /**
  * @author Sid, Naveen
@@ -24,13 +36,18 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/api/can")
 public class ECanController {
-	
+
 	@Autowired
-    private ECanRequestClientService eCanRequestClientService;
+	private ECanRequestClientService eCanRequestClientService;
     
     @PostMapping("/create")
-    public ResponseModel createCan(@Valid @RequestBody ECanRequestModel eCanRequestModel){
+    public ResponseModel createCan(@Valid @RequestBody ECanRequestModel eCanRequestModel) throws InvalidAlgorithmParameterException, NoSuchPaddingException, UnsupportedEncodingException, IllegalBlockSizeException, NoSuchAlgorithmException, BadPaddingException, NoSuchProviderException, InvalidKeyException {
         return new ResponseModel(Constants.POSITIVE, null, eCanRequestClientService.createECanForIndividual(eCanRequestModel));
+    }
+	
+	@GetMapping(value = "/validate")
+    public ResponseEntity<ResponseModel> validateCan(@RequestBody ValidCanRequestModel validCanRequestModel) {
+        return ResponseEntity.ok().body(new ResponseModel(Constants.POSITIVE, null, eCanRequestClientService.validateECan(validCanRequestModel)));
     }
 }
 

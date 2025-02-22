@@ -5,6 +5,14 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
 
 import lombok.Data;
 
+/**
+* @author Sid
+*
+* History:
+* -19=02-2025 <Sid> 
+*      - InitialVersion
+*/
+
 @Data
 @JacksonXmlRootElement(localName = "CANIndFillEezzReq")
 public class CanIndFillEezzReq {

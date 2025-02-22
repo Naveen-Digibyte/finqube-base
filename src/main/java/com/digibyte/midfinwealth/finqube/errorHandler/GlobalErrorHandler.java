@@ -1,8 +1,8 @@
 package com.digibyte.midfinwealth.finqube.errorHandler;
 
 import com.digibyte.midfinwealth.finqube.constants.Constants;
-import com.digibyte.midfinwealth.finqube.exceptions.AuthenticationException;
-import com.digibyte.midfinwealth.finqube.exceptions.ECanException;
+import com.digibyte.midfinwealth.finqube.exception.AuthenticationException;
+import com.digibyte.midfinwealth.finqube.exception.ECanException;
 import com.digibyte.midfinwealth.finqube.model.ResponseModel;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

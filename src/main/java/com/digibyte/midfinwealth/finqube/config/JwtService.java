@@ -1,13 +1,9 @@
 package com.digibyte.midfinwealth.finqube.config;
 
-import java.security.Key;
-import java.util.Base64;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
-
-import javax.crypto.spec.SecretKeySpec;
 
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
@@ -71,9 +67,5 @@ public class JwtService {
                 .getBody();
     }
     
-    private Key getSignInKey() {
-        byte[] keyBytes = Base64.getDecoder().decode(SECRET_KEY);
-        return new SecretKeySpec(keyBytes, SignatureAlgorithm.HS256.getJcaName());
-    }
 }
 

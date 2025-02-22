@@ -17,5 +17,5 @@ public class FinqubeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FinqubeApplication.class, args);
 	}
-
+	
 }

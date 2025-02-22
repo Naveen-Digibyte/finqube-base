@@ -7,6 +7,14 @@ import org.springframework.stereotype.Component;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 
+/**
+* @author Sid
+*
+* History:
+* -19=02-2025 <Sid> 
+*      - InitialVersion
+*/
+
 @Component
 public class JwtTokenUtil {
 

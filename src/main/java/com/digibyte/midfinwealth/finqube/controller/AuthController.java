@@ -14,8 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.digibyte.midfinwealth.finqube.model.AuthRequest;
 import com.digibyte.midfinwealth.finqube.service.AuthService;
 
-/**
- * @author Sid
+ /** @author Sid
  *
  * History:
  * -08-01-2025 <Sid> AuthController

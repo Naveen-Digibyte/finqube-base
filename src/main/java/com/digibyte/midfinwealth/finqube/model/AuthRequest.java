@@ -2,8 +2,7 @@ package com.digibyte.midfinwealth.finqube.model;
 
 import lombok.Data;
 
-/**
- * @author Sid
+/** @author Sid
  *
  * History:
  * -08-02-2025 <SiddarthNatarajan> ResourceNotFoundException

@@ -1,6 +1,5 @@
 package com.digibyte.midfinwealth.finqube.config;
 
-import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -12,12 +11,12 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.web.client.RestTemplate;
 
 import com.digibyte.midfinwealth.finqube.constants.ErrorConstants;
 import com.digibyte.midfinwealth.finqube.repo.UserRepo;
 
 import lombok.RequiredArgsConstructor;
-import org.springframework.web.client.RestTemplate;
 
 /**
  * @author Sid

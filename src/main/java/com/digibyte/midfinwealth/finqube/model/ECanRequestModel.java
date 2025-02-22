@@ -20,8 +20,6 @@ import java.util.List;
  * History:
  * -13-01-2025 <NaveenDhanasekaran> ECanRequestModel
  *      - InitialVersion
- * -19-02-2025 <NaveenDhanasekaran>
- *      - Changed field name eCanNomineeDetails to nomineeDetails
  */
 
 @Data

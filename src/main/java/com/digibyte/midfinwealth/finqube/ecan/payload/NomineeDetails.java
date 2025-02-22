@@ -17,8 +17,6 @@ import java.util.List;
  * History:
  * -12-01-2025 <NaveenDhanasekaran> NomineeDetails
  *      - InitialVersion
- * -19-02-2025 <NaveenDhanasekaran>
- *      - Changed datatype for nominee type and flag to string
  */
 
 @Data

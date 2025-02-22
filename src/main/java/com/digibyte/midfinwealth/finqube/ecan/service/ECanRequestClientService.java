@@ -1,41 +1,53 @@
-package com.digibyte.midfinwealth.finqube.ecan.client;
+package com.digibyte.midfinwealth.finqube.ecan.service;
 
+import com.digibyte.midfinwealth.finqube.enums.ApiType;
 import com.digibyte.midfinwealth.finqube.constants.ErrorConstants;
+import com.digibyte.midfinwealth.finqube.constants.URLConstants;
 import com.digibyte.midfinwealth.finqube.ecan.enums.*;
 import com.digibyte.midfinwealth.finqube.ecan.payload.*;
-import com.digibyte.midfinwealth.finqube.exceptions.ECanException;
-import com.digibyte.midfinwealth.finqube.model.ECanBankDetails;
-import com.digibyte.midfinwealth.finqube.model.ECanNomineeDetail;
-import com.digibyte.midfinwealth.finqube.model.ECanRequestModel;
-import com.digibyte.midfinwealth.finqube.model.ECanResponseModel;
+import com.digibyte.midfinwealth.finqube.exception.ECanException;
+import com.digibyte.midfinwealth.finqube.exception.MFUApiException;
+import com.digibyte.midfinwealth.finqube.model.*;
 import com.digibyte.midfinwealth.finqube.repo.BankDetailsRepo;
+import com.digibyte.midfinwealth.finqube.utils.EncryptionService;
+import com.digibyte.midfinwealth.finqube.utils.MfUtilityHttpEntity;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotEmpty;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.HttpMethod;
-import org.springframework.http.MediaType;
+import org.springframework.http.*;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 
+import javax.crypto.BadPaddingException;
+import javax.crypto.IllegalBlockSizeException;
+import javax.crypto.NoSuchPaddingException;
+import java.io.UnsupportedEncodingException;
+import java.security.InvalidAlgorithmParameterException;
+import java.security.InvalidKeyException;
+import java.security.NoSuchAlgorithmException;
+import java.security.NoSuchProviderException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 /**
  * @author Sid, Naveen
- *
+ * 
  * History:
  * -08-01-2025 <Sid> ECanRequestClientService
  *      - InitialVersion
  * -12-02-2025 <NaveenDhanasekaran>
  *      - Alter sendCanIndFillEezzRequest method
- * -19-02-2025 <NaveenDhanasekaran>
- *      - Updated ECan registration method
+ * -20-02-2025 <NaveenDhanasekaran>
+ *      - Created ValidEcan method
+ * -21-02-2025 <NaveenDhanasekaran>
+ *      - Alterede Can validation method
  */
 
 @Service
@@ -44,10 +56,11 @@ public class ECanRequestClientService {
 
     private final RestTemplate restTemplate;
     private final BankDetailsRepo bankDetailsRepo;
-
-    @Value("${eCAN.api.url}")
-    private String apiUrl;
-
+    private final EncryptionService encryptionService;
+    private final MfUtilityHttpEntity request;
+    
+    @Value("${mfu.base-url}")
+    private String baseUrl;
     @Value("${finqube.entityId}")
     private String entityId;
     @Value("${finqube.uniqueId}")
@@ -63,7 +76,7 @@ public class ECanRequestClientService {
     @Value("${finqube.entityEmail}")
     private String entityEmail;
 
-    public ECanResponseModel createECanForIndividual(ECanRequestModel eCanRequestModel) {
+    public ECanResponseModel createECanForIndividual(ECanRequestModel eCanRequestModel) throws InvalidAlgorithmParameterException, NoSuchPaddingException, UnsupportedEncodingException, IllegalBlockSizeException, NoSuchAlgorithmException, BadPaddingException, NoSuchProviderException, InvalidKeyException {
         CanIndFillEezzReq canIndFillEezzReq = new CanIndFillEezzReq();
 
         ReqHeader reqHeader = createReqHeader();
@@ -79,7 +92,7 @@ public class ECanRequestClientService {
             HttpEntity<String> request = new HttpEntity<>(xmlPayload, headers);
 
             String xmlResponse = restTemplate.exchange(
-                    apiUrl,
+                    baseUrl+ URLConstants.CREATE_CAN,
                     HttpMethod.POST,
                     request,
                     String.class
@@ -98,6 +111,7 @@ public class ECanRequestClientService {
                     canIndFillEezzResp.getRespBody().getNomVerLinkH2(),
                     canIndFillEezzResp.getRespBody().getNomVerLinkH3()
             ));
+
         } catch (ECanException exception) {
             throw new ECanException(exception.getMessage());
         } catch (Exception ex) {
@@ -105,13 +119,13 @@ public class ECanRequestClientService {
         }
     }
 
-    private ReqHeader createReqHeader() {
+    private ReqHeader createReqHeader() throws InvalidAlgorithmParameterException, NoSuchPaddingException, UnsupportedEncodingException, IllegalBlockSizeException, NoSuchAlgorithmException, BadPaddingException, NoSuchProviderException, InvalidKeyException {
         ReqHeader reqHeader = new ReqHeader();
         reqHeader.setEntityId(entityId);
         reqHeader.setUniqueId(uniqueId);
         reqHeader.setRequestType(requestType);
         reqHeader.setLogUserId(loginUserId);
-        reqHeader.setEnEncrPassword(password);
+        reqHeader.setEnEncrPassword(encryptionService.encrypt(password));
         reqHeader.setVersionNo(version);
         reqHeader.setTimestamp(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")));
         return reqHeader;
@@ -206,4 +220,24 @@ public class ECanRequestClientService {
             throw new ECanException(ErrorConstants.E_0010);
         }
     }
+
+    public ValidCanResponseModel.RespBody validateECan(ValidCanRequestModel validCanRequestModel) {
+        try {
+            return  getStringToResponse(request.getResponse(validCanRequestModel,ApiType.CAN_VAL,URLConstants.CAN_VALIDATION_URL));
+        } catch (JsonProcessingException exception) {
+            throw new ECanException(exception.getMessage());
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public ValidCanResponseModel.RespBody getStringToResponse(String string) throws JsonProcessingException, MFUApiException {
+        ObjectMapper objectMapper = new ObjectMapper();
+        ValidCanResponseModel responseModel = objectMapper.readValue(string, ValidCanResponseModel.class);
+        if(Objects.equals(responseModel.getRespHeader().getRespFlag(), "F")){
+            throw new MFUApiException(responseModel.getRespHeader().getErrorCode(),responseModel.getRespHeader().getErrorMsg() );
+        }
+        return responseModel.getRespBody();
+    }
+
 }

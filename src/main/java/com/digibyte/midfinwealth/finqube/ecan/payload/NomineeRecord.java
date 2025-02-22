@@ -15,8 +15,6 @@ import java.util.Date;
  * History:
  * -12-01-2025 <NaveenDhanasekaran> NomineeRecord
  *      - InitialVersion
- * -19-02-2025 <NaveenDhanasekaran>
- *      - Changed data type for relation to string
  */
 
 @Data
