@@ -1,9 +1,11 @@
 package com.digibyte.midfinwealth.finqube.controller;
 
+import com.digibyte.midfinwealth.finqube.ecan.payload.PrnValidRequest;
+import com.digibyte.midfinwealth.finqube.model.FetchCanRequest;
 import com.digibyte.midfinwealth.finqube.model.ValidCanRequestModel;
-import org.apache.tomcat.util.bcel.Const;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
+import com.digibyte.midfinwealth.finqube.transaction.payload.CanFolioValidRequest;
+import com.digibyte.midfinwealth.finqube.transaction.service.CanFolioValidService;
+import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -31,14 +33,17 @@ import java.security.NoSuchProviderException;
  *      - InitialVersion
  * -12-02-2025 <NaveenDhanasekaran>
  *     	- Removed submit api and added new method to create.
+ * -21-02-2025 <NaveenDhanasekaran>
+ *      - Added getCanDetails, getValidPrn and getCanFolio
  */
 
 @RestController
 @RequestMapping("/api/can")
+@RequiredArgsConstructor
 public class ECanController {
 
-	@Autowired
-	private ECanRequestClientService eCanRequestClientService;
+	private final ECanRequestClientService eCanRequestClientService;
+    private final CanFolioValidService canFolioValidService;
     
     @PostMapping("/create")
     public ResponseModel createCan(@Valid @RequestBody ECanRequestModel eCanRequestModel) throws InvalidAlgorithmParameterException, NoSuchPaddingException, UnsupportedEncodingException, IllegalBlockSizeException, NoSuchAlgorithmException, BadPaddingException, NoSuchProviderException, InvalidKeyException {
@@ -49,5 +54,21 @@ public class ECanController {
     public ResponseEntity<ResponseModel> validateCan(@RequestBody ValidCanRequestModel validCanRequestModel) {
         return ResponseEntity.ok().body(new ResponseModel(Constants.POSITIVE, null, eCanRequestClientService.validateECan(validCanRequestModel)));
     }
+    
+    @GetMapping("/fetch")
+    public ResponseEntity<ResponseModel> getCanDetails(@RequestBody FetchCanRequest fetchCanRequest){
+        return ResponseEntity.ok().body(new ResponseModel(Constants.POSITIVE,null, eCanRequestClientService.fetchCan(fetchCanRequest)));
+    }
+    
+    @GetMapping("/prn/validate")
+    public ResponseEntity<ResponseModel> getValidPrn(@RequestBody PrnValidRequest prnValidRequest){
+        return ResponseEntity.ok().body(new ResponseModel(Constants.POSITIVE, null, eCanRequestClientService.validPRN(prnValidRequest)));
+    }
+
+    @GetMapping("/folio/validate")
+    public ResponseEntity<ResponseModel> getCanFolio(@RequestBody CanFolioValidRequest canFolioValidRequest){
+        return ResponseEntity.ok().body(new ResponseModel(Constants.POSITIVE, null, canFolioValidService.checkCanFolioValidation(canFolioValidRequest)));
+    }
+
 }
 

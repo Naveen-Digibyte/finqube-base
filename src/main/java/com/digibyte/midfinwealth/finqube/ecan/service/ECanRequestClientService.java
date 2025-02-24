@@ -6,13 +6,10 @@ import com.digibyte.midfinwealth.finqube.constants.URLConstants;
 import com.digibyte.midfinwealth.finqube.ecan.enums.*;
 import com.digibyte.midfinwealth.finqube.ecan.payload.*;
 import com.digibyte.midfinwealth.finqube.exception.ECanException;
-import com.digibyte.midfinwealth.finqube.exception.MFUApiException;
 import com.digibyte.midfinwealth.finqube.model.*;
 import com.digibyte.midfinwealth.finqube.repo.BankDetailsRepo;
 import com.digibyte.midfinwealth.finqube.utils.EncryptionService;
 import com.digibyte.midfinwealth.finqube.utils.MfUtilityHttpEntity;
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotEmpty;
 import lombok.RequiredArgsConstructor;
@@ -34,7 +31,6 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 /**
  * @author Sid, Naveen
@@ -48,6 +44,7 @@ import java.util.Objects;
  *      - Created ValidEcan method
  * -21-02-2025 <NaveenDhanasekaran>
  *      - Alterede Can validation method
+ *      - Add Valid PRN method
  */
 
 @Service
@@ -58,7 +55,7 @@ public class ECanRequestClientService {
     private final BankDetailsRepo bankDetailsRepo;
     private final EncryptionService encryptionService;
     private final MfUtilityHttpEntity request;
-    
+
     @Value("${mfu.base-url}")
     private String baseUrl;
     @Value("${finqube.entityId}")
@@ -92,7 +89,7 @@ public class ECanRequestClientService {
             HttpEntity<String> request = new HttpEntity<>(xmlPayload, headers);
 
             String xmlResponse = restTemplate.exchange(
-                    baseUrl+ URLConstants.CREATE_CAN,
+                    baseUrl + URLConstants.CREATE_CAN,
                     HttpMethod.POST,
                     request,
                     String.class
@@ -221,23 +218,27 @@ public class ECanRequestClientService {
         }
     }
 
-    public ValidCanResponseModel.RespBody validateECan(ValidCanRequestModel validCanRequestModel) {
+    public ValidCanResponse validateECan(ValidCanRequestModel validCanRequestModel) {
         try {
-            return  getStringToResponse(request.getResponse(validCanRequestModel,ApiType.CAN_VAL,URLConstants.CAN_VALIDATION_URL));
-        } catch (JsonProcessingException exception) {
-            throw new ECanException(exception.getMessage());
+            return request.sendRequest(validCanRequestModel, ApiType.CAN_VAL, URLConstants.CAN_VALIDATION_URL, ValidCanResponse.class);
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
     }
 
-    public ValidCanResponseModel.RespBody getStringToResponse(String string) throws JsonProcessingException, MFUApiException {
-        ObjectMapper objectMapper = new ObjectMapper();
-        ValidCanResponseModel responseModel = objectMapper.readValue(string, ValidCanResponseModel.class);
-        if(Objects.equals(responseModel.getRespHeader().getRespFlag(), "F")){
-            throw new MFUApiException(responseModel.getRespHeader().getErrorCode(),responseModel.getRespHeader().getErrorMsg() );
+    public FetchCanResponse fetchCan(FetchCanRequest fetchCanRequest) {
+        try {
+            return request.sendRequest(fetchCanRequest, ApiType.CAN_FETCH, URLConstants.FETCH_CAN, FetchCanResponse.class);
+        } catch (Exception e) {
+            throw new ECanException(e.getMessage());
         }
-        return responseModel.getRespBody();
     }
-
+    
+    public PrnValidResponse validPRN(PrnValidRequest prnValidRequest){
+        try{
+            return request.sendRequest(prnValidRequest, ApiType.PRN_VAL,URLConstants.VALID_PRN, PrnValidResponse.class);
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+    }
 }

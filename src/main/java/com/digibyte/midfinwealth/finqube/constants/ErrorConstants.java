@@ -8,6 +8,8 @@ package com.digibyte.midfinwealth.finqube.constants;
  * 		- InitialVersion
  * -12-01-2025 <NaveenDhanasekaran>
  *     	- Added errors form 12 to 40
+ * -21-02-2025 <NaveenDhanasekaran>
+ *      - Added error 41
  */
 
 public class ErrorConstants {
@@ -51,9 +53,9 @@ public class ErrorConstants {
     public static final String E_0034 = "E_0034: Nominee Verification Type is mandatory.";
     public static final String E_0035 = "E_0035: Nominee Details cannot be empty.";
     public static final String E_0036 = "E_0038: Failed to fetch bank details.";
-    public static final String E_0037 = "E_0040: Bank detail not found for id: {}.";
-    public static final String E_0038 = "E_0042: Failed to save bank details.";
-    public static final String E_0039 = "E_0044: Failed to delete bank details.";
-    public static final String E_0040 = "E_0046: Resource not found for id: {}.";
-
+    public static final String E_0037 = "E_0037: Bank detail not found for id: {}.";
+    public static final String E_0038 = "E_0038: Failed to save bank details.";
+    public static final String E_0039 = "E_0039: Failed to delete bank details.";
+    public static final String E_0040 = "E_0040: Resource not found for id: {}.";
+    public static final String E_0041 = "E_0041: Transaction was not successful.";
 }

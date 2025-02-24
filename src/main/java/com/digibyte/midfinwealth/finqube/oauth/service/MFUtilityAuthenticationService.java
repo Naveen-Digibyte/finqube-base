@@ -14,10 +14,13 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * @author Naveen
- *
+ * 
  * History:
  * -20-02-2025 <NaveenDhanasekaran> MFUtilityAuthenticationService
  *      - InitialVersion
+ * -21-02-2025 <NaveenDhanasekaran>
+ *      - Altered getAccessToken method to store token in singleTon class.
+ *      - Created getToken method to get token from Singleton class.
  */
 
 @Service
@@ -26,10 +29,11 @@ public class MFUtilityAuthenticationService {
 
     private final RestTemplate restTemplate;
     private final EncryptionService encryptionService;
+    private final TokenService tokenService;
 
     @Value("${mfu.base-url}")
     private String baseUrl;
-    
+
     @Value("${mfu.entity-id}")
     private String entityId;
 
@@ -38,24 +42,28 @@ public class MFUtilityAuthenticationService {
 
     @Value("${mfu.client-secret}")
     private String clientSecret;
-    
-    public String getAccessToken() throws Exception {
 
-        String encryptedUsername = encryptionService.encrypt(clientId);
-        String encryptedPassword = encryptionService.encrypt(clientSecret);
+    public String getAccessToken() throws MFUApiException {
+        try {
 
-        HttpEntity<String> entity = getStringHttpEntity(encryptedUsername, encryptedPassword);
-        ResponseEntity<String> response = restTemplate.exchange(
-                baseUrl + URLConstants.GET_ACCESS_TOKEN,
-                HttpMethod.POST,
-                entity,
-                String.class
-        );
-        if (response.getStatusCode().is2xxSuccessful()) {
-            TokenResponse resp = parseSuccessResponse(response.getBody());
-            return resp.getAccessToken();
-        } else {
-            throw parseErrorResponse(response.getBody());
+            String encryptedUsername = encryptionService.encrypt(clientId);
+            String encryptedPassword = encryptionService.encrypt(clientSecret);
+            HttpEntity<String> entity = getStringHttpEntity(encryptedUsername, encryptedPassword);
+            ResponseEntity<String> response = restTemplate.exchange(
+                    baseUrl + URLConstants.GET_ACCESS_TOKEN,
+                    HttpMethod.POST,
+                    entity,
+                    String.class
+            );
+            if (response.getStatusCode().is2xxSuccessful()) {
+                TokenResponse resp = parseSuccessResponse(response.getBody());
+                tokenService.setToken(resp.getAccessToken(), resp.getExpiresIn());
+                return resp.getAccessToken();
+            } else {
+                throw parseErrorResponse(response.getBody());
+            }
+        } catch (Exception e) {
+            throw new MFUApiException(e.getMessage());
         }
     }
 
@@ -86,5 +94,12 @@ public class MFUtilityAuthenticationService {
                 json.getString(Constants.ERROR_CODE),
                 json.getString(Constants.ERROR_MSG)
         );
+    }
+
+    public String getToken() throws MFUApiException {
+        if (!tokenService.isTokenValid()) {
+            getAccessToken();
+        }
+        return tokenService.getToken();
     }
 }

@@ -3,6 +3,7 @@ package com.digibyte.midfinwealth.finqube.errorHandler;
 import com.digibyte.midfinwealth.finqube.constants.Constants;
 import com.digibyte.midfinwealth.finqube.exception.AuthenticationException;
 import com.digibyte.midfinwealth.finqube.exception.ECanException;
+import com.digibyte.midfinwealth.finqube.exception.TransactionException;
 import com.digibyte.midfinwealth.finqube.model.ResponseModel;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -20,6 +21,8 @@ import java.util.Map;
  * History:
  * -13-01-2025 <NaveenDhanasekaran> GlobalErrorHandler
  *      - InitialVersion
+ * -21-02-2025 <NaveenDhanasekaran>
+ *      - Added methods to handle TransactionException
  */
 
 @RestControllerAdvice
@@ -48,8 +51,17 @@ public class GlobalErrorHandler {
         return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(createResponse(e));
     }
 
+    @ExceptionHandler(TransactionException.class)
+    public ResponseEntity<Object> handleTransactionException(final TransactionException e) {
+        return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(createTransactionResponse(e));
+    }
+
     private ResponseModel createResponse(Exception e) {
         return new ResponseModel(Constants.NEGATIVE, e.getMessage(), null);
+    }
+
+    private ResponseModel createTransactionResponse(TransactionException e) {
+        return new ResponseModel(Constants.NEGATIVE, e.getMessage(), e.getSecWisError());
     }
 
 }

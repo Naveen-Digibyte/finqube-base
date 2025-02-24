@@ -8,10 +8,11 @@ import lombok.Data;
  * History:
  * -21-02-2025 <NaveenDhanasekaran> BankValidRequestBody
  *      - InitialVersion
+ *      -Changed Class name
  */
 
 @Data
-public class BankValidRequestBody {
+public class CanBankValidRequest {
     private String can;
     private String accountNo;
     private String micrNo;

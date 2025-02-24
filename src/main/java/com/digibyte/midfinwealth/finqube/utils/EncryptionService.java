@@ -11,6 +11,7 @@ import javax.crypto.NoSuchPaddingException;
 import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
+import lombok.RequiredArgsConstructor;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Value;
@@ -22,13 +23,16 @@ import org.springframework.stereotype.Component;
  * History:
  * -20-02-2025 <NaveenDhanasekaran> EncryptionService
  *      - InitialVersion
+ * -21-02-2025 <NaveenDhanasekaran>
+ *     	- Added RequiredArgsConstructor annotation
  */
 
 @Component
+@RequiredArgsConstructor
 public class EncryptionService {
 
 	private static Logger logger = LogManager.getLogger(EncryptionService.class);
-
+	
 	private final static String PADNG_TYPE = "AES/CBC/PKCS7Padding";
 	private final static String ENCODE_TYPE = "UTF-8";
 	private final static String ENCODE_STANDERD = "AES";

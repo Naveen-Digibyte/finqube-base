@@ -3,9 +3,13 @@ package com.digibyte.midfinwealth.finqube.utils;
 import com.digibyte.midfinwealth.finqube.constants.Constants;
 import com.digibyte.midfinwealth.finqube.enums.ApiType;
 import com.digibyte.midfinwealth.finqube.exception.ECanException;
+import com.digibyte.midfinwealth.finqube.exception.MFUApiException;
+import com.digibyte.midfinwealth.finqube.model.CanResponseModel;
 import com.digibyte.midfinwealth.finqube.model.mfUtility.MFUtilityRequest;
 import com.digibyte.midfinwealth.finqube.oauth.service.MFUtilityAuthenticationService;
+import com.digibyte.midfinwealth.finqube.oauth.service.TokenService;
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import org.json.JSONObject;
@@ -29,10 +33,11 @@ import java.util.Objects;
 
 /**
  * @author Naveen
- *
+ * 
  * History:
  * -21-02-2025 <NaveenDhanasekaran> BankResponseModel
  *      - InitialVersion
+ *      - Created getStringToResponseObject and sendRequest.
  */
 
 @Service
@@ -46,7 +51,7 @@ public class MfUtilityHttpEntity {
 
     @Value("${mfu.base-url}")
     private String baseUrl;
-    
+
     @Value("${mfu.entity-id}")
     private String entityId;
 
@@ -94,17 +99,18 @@ public class MfUtilityHttpEntity {
     private String generateUniqueId() {
         return String.format("%010d", System.currentTimeMillis() % 10000000000L);
     }
-    
+
     public <T> HttpEntity<String> getHeader(T requestBody, ApiType apiType) throws Exception {
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
-        headers.set("Authorization", Constants.BEARER + utilityAuthenticationService.getAccessToken());
+        System.out.println("access token : " + utilityAuthenticationService.getToken());
+        headers.set("Authorization", Constants.BEARER + utilityAuthenticationService.getToken());
         headers.setAccept(Collections.singletonList(MediaType.APPLICATION_JSON));
-        String payload = objectMapper.writeValueAsString(encryptRequest(requestBody,apiType));
+        String payload = objectMapper.writeValueAsString(encryptRequest(requestBody, apiType));
         return new HttpEntity<>(payload, headers);
     }
-    
-    public <T> String getResponse(T requestBody, ApiType apiType, String urlConstants){
+
+    public <T> String getResponse(T requestBody, ApiType apiType, String urlConstants) {
         try {
             ResponseEntity<?> repsEntity = restTemplate.exchange(
                     baseUrl + urlConstants, HttpMethod.POST,
@@ -123,5 +129,24 @@ public class MfUtilityHttpEntity {
         JSONObject json = new JSONObject(responseBody);
         return json.getString("respData");
     }
-    
+
+    public <T> T getStringToResponseObject(String string, Class<T> type) throws JsonProcessingException, MFUApiException {
+        ObjectMapper objectMapper = new ObjectMapper();
+        CanResponseModel<?> responseModel = objectMapper.readValue(string, new TypeReference<>() {
+        });
+        if (Objects.equals(responseModel.getRespHeader().getRespFlag(), "F")) {
+            throw new MFUApiException(responseModel.getRespHeader().getErrorCode(), responseModel.getRespHeader().getErrorMsg());
+        }
+        return objectMapper.convertValue(responseModel.getRespBody(), type);
+    }
+
+    public <T, R> R sendRequest(T requestBody, ApiType apiType, String urlConstants, Class<R> responseType) {
+        try {
+            return getStringToResponseObject(getResponse(requestBody, apiType, urlConstants), responseType);
+        } catch (JsonProcessingException e) {
+            throw new RuntimeException("Error processing JSON response", e);
+        } catch (Exception e) {
+            throw new RuntimeException("Failed to get API response", e);
+        }
+    }
 }
