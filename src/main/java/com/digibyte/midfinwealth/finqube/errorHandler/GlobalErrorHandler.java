@@ -3,6 +3,7 @@ package com.digibyte.midfinwealth.finqube.errorHandler;
 import com.digibyte.midfinwealth.finqube.constants.Constants;
 import com.digibyte.midfinwealth.finqube.exception.AuthenticationException;
 import com.digibyte.midfinwealth.finqube.exception.ECanException;
+import com.digibyte.midfinwealth.finqube.exception.MFUApiException;
 import com.digibyte.midfinwealth.finqube.exception.TransactionException;
 import com.digibyte.midfinwealth.finqube.model.ResponseModel;
 import org.springframework.http.HttpStatus;
@@ -23,6 +24,8 @@ import java.util.Map;
  *      - InitialVersion
  * -21-02-2025 <NaveenDhanasekaran>
  *      - Added methods to handle TransactionException
+ * -24-02-2025 <NaveenDhanasekaran>
+ *     	- Added methods to handle MFUApiException
  */
 
 @RestControllerAdvice
@@ -50,6 +53,12 @@ public class GlobalErrorHandler {
     public ResponseEntity<Object> handleECanException(final ECanException e) {
         return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(createResponse(e));
     }
+    
+    @ExceptionHandler(MFUApiException.class)
+    public ResponseEntity<Object> handleMFUApiException(final MFUApiException e) {
+        return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(createResponse(e));
+    }
+    
 
     @ExceptionHandler(TransactionException.class)
     public ResponseEntity<Object> handleTransactionException(final TransactionException e) {

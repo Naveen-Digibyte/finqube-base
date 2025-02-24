@@ -7,7 +7,6 @@ import com.digibyte.midfinwealth.finqube.exception.MFUApiException;
 import com.digibyte.midfinwealth.finqube.model.CanResponseModel;
 import com.digibyte.midfinwealth.finqube.model.mfUtility.MFUtilityRequest;
 import com.digibyte.midfinwealth.finqube.oauth.service.MFUtilityAuthenticationService;
-import com.digibyte.midfinwealth.finqube.oauth.service.TokenService;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -103,7 +102,6 @@ public class MfUtilityHttpEntity {
     public <T> HttpEntity<String> getHeader(T requestBody, ApiType apiType) throws Exception {
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
-        System.out.println("access token : " + utilityAuthenticationService.getToken());
         headers.set("Authorization", Constants.BEARER + utilityAuthenticationService.getToken());
         headers.setAccept(Collections.singletonList(MediaType.APPLICATION_JSON));
         String payload = objectMapper.writeValueAsString(encryptRequest(requestBody, apiType));
@@ -134,7 +132,7 @@ public class MfUtilityHttpEntity {
         ObjectMapper objectMapper = new ObjectMapper();
         CanResponseModel<?> responseModel = objectMapper.readValue(string, new TypeReference<>() {
         });
-        if (Objects.equals(responseModel.getRespHeader().getRespFlag(), "F")) {
+        if (responseModel.getRespHeader().getRespFlag().equals("F")) {
             throw new MFUApiException(responseModel.getRespHeader().getErrorCode(), responseModel.getRespHeader().getErrorMsg());
         }
         return objectMapper.convertValue(responseModel.getRespBody(), type);

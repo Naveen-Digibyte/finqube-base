@@ -10,6 +10,8 @@ import java.util.List;
  * History:
  * -21-02-2025 <NaveenDhanasekaran> NormalTransactionResponse
  *      - InitialVersion
+ * -24-02-2025 <NaveenDhanasekaran>
+ *      - Changed field itrnWiseStatus to itrnList.
  */
 
 @Data
@@ -52,7 +54,7 @@ public class NormalTransactionResponse {
         private String appLinkH2;
         private String appLinkPOA;
         private String paymentLink;
-        private List<ItrnWiseStatus> itrnWiseStatus;
+        private List<ItrnWiseStatus> itrnList;
     }
 
     @Data

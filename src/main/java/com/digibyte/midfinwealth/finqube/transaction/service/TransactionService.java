@@ -13,12 +13,16 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import java.util.Objects;
+
 /**
  * @author Naveen
  *
  * History:
  * -21-02-2025 <NaveenDhanasekaran> TransactionService
  *      - InitialVersion
+ * -21-02-2025 <NaveenDhanasekaran>
+ *      - Altered getStringToResponseObject method to handle Failure response
  */
 
 @Service
@@ -86,10 +90,13 @@ public class TransactionService {
     private NormalTransactionResponse.RespBody getStringToResponseObject(String string) throws JsonProcessingException, MFUApiException {
         ObjectMapper objectMapper = new ObjectMapper();
         NormalTransactionResponse responseModel = objectMapper.readValue(string, NormalTransactionResponse.class);
+        if (Objects.equals(responseModel.getRespHeader().getRespFlag(), "F")) {
+            throw new MFUApiException(responseModel.getRespHeader().getErrorCode(), responseModel.getRespHeader().getErrorMsg());
+        }
         if(responseModel.getRespBody().getOrdCreatedFlag().equals("N")){
             throw new TransactionException(responseModel.getRespBody().getSecWisErrorList(), ErrorConstants.E_0041);
         }
-        for (NormalTransactionResponse.ItrnWiseStatus status : responseModel.getRespBody().getOrdDtl().getItrnWiseStatus()) {
+        for (NormalTransactionResponse.ItrnWiseStatus status : responseModel.getRespBody().getOrdDtl().getItrnList()) {
             if (isValidOrderStatus(status.getItrnOrdStatus())) {
                 System.out.println("Valid status: " + status.getItrnOrdStatus());
             } else {

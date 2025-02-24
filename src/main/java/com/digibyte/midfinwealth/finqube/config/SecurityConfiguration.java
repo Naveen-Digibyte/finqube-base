@@ -23,11 +23,13 @@ import lombok.RequiredArgsConstructor;
  * 
  * History:
  * -08-01-2025 <Sid> SecurityConfiguration
- * 		- InitialVersion
+ *      - InitialVersion
  * -12-02-2025 <NaveenDhanasekaran>
- *     	- Altered SecurityFilterChain method
+ *      - Altered SecurityFilterChain method
  * -21-02-2025 <NaveenDhanasekaran>
  *      - Added /api/trans path to allow
+ * -24-02-2025 <NaveenDhanasekaran>
+ *      - Add /api/swap path to allow security context.
  */
 
 @Configuration
@@ -47,7 +49,7 @@ public class SecurityConfiguration {
                 .csrf(AbstractHttpConfigurer::disable)
                 .authorizeHttpRequests(auth ->
                         auth
-                                .requestMatchers("/api/auth/v1/**", "/api/can/**", "/api/trans/**", "/api/bank-details/**")
+                                .requestMatchers("/api/**", "/api/can/**", "/api/pay/**", "/api/trans/**", "/api/bank-details/**")
                                 .permitAll()
                                 .anyRequest()
                                 .authenticated())

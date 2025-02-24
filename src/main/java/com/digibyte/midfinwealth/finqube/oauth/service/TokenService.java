@@ -10,6 +10,8 @@ import java.time.Instant;
  * History:
  * -21-02-2025 <NaveenDhanasekaran> TokenService
  *      - InitialVersion
+ * -21-02-2025 <NaveenDhanasekaran>
+ *      - Changed expiryTime from long to millseconds.
  */
 
 @Service
@@ -19,7 +21,7 @@ public class TokenService {
 
     public synchronized void setToken(String token, long expiresInSeconds) {
         this.token = token;
-        this.expiryTime = Instant.now().plusSeconds(expiresInSeconds);
+        this.expiryTime = Instant.now().plusSeconds(expiresInSeconds * 60 * 60);
     }
 
     public synchronized String getToken() {
