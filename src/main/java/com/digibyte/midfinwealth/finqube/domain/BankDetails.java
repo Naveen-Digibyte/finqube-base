@@ -1,4 +1,4 @@
-package com.digibyte.midfinwealth.finqube.entity;
+package com.digibyte.midfinwealth.finqube.domain;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import jakarta.persistence.*;

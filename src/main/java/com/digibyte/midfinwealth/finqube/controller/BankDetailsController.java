@@ -1,7 +1,7 @@
 package com.digibyte.midfinwealth.finqube.controller;
 
 import com.digibyte.midfinwealth.finqube.constants.Constants;
-import com.digibyte.midfinwealth.finqube.entity.BankDetails;
+import com.digibyte.midfinwealth.finqube.domain.BankDetails;
 import com.digibyte.midfinwealth.finqube.model.ResponseModel;
 import com.digibyte.midfinwealth.finqube.service.BankDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;

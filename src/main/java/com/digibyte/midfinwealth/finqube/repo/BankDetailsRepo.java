@@ -1,6 +1,6 @@
 package com.digibyte.midfinwealth.finqube.repo;
 
-import com.digibyte.midfinwealth.finqube.entity.BankDetails;
+import com.digibyte.midfinwealth.finqube.domain.BankDetails;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

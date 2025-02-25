@@ -2,7 +2,7 @@ package com.digibyte.midfinwealth.finqube.service;
 
 import com.digibyte.midfinwealth.finqube.constants.ErrorConstants;
 import com.digibyte.midfinwealth.finqube.constants.LoggerConstants;
-import com.digibyte.midfinwealth.finqube.entity.BankDetails;
+import com.digibyte.midfinwealth.finqube.domain.BankDetails;
 import com.digibyte.midfinwealth.finqube.exception.ResourceNotFoundException;
 import com.digibyte.midfinwealth.finqube.repo.BankDetailsRepo;
 import org.slf4j.Logger;
