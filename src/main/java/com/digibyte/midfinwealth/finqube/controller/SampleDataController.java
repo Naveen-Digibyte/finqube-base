@@ -1,6 +1,7 @@
 package com.digibyte.midfinwealth.finqube.controller;
 
 import com.digibyte.midfinwealth.finqube.domain.UserInfo;
+import com.digibyte.midfinwealth.finqube.model.sample.UserEmailMobile;
 import com.digibyte.midfinwealth.finqube.service.UserInfoService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
@@ -32,5 +33,10 @@ public class SampleDataController {
     @GetMapping("/can/{id}")
     public UserInfo getByID(@PathVariable long id){
         return userInfoService.getById(id);
+    }
+
+    @PostMapping("/contact")
+    public void updateContact(@RequestBody List<UserEmailMobile> userEmailMobiles){
+        userInfoService.updateContactDetails(userEmailMobiles);
     }
 }

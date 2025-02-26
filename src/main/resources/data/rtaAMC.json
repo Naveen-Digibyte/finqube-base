@@ -1,0 +1,167 @@
+[
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "B",
+    "FundName": "Birla Sunlife Mutual Fund Ltd.,"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "D",
+    "FundName": "DSP Blackrock Mutual Fund"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "F",
+    "FundName": "L & T Mutual Fund"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "G",
+    "FundName": "IDFC Mutual Fund"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "H",
+    "FundName": "HDFC Mutual Fund Ltd.,"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "IF",
+    "FundName": "IIFL Mutual Fund"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "K",
+    "FundName": "Kotak Mutual Fund"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "L",
+    "FundName": "SBI Mutual Fund"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "MM",
+    "FundName": "MAHINDRA Mutual Fund"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "O",
+    "FundName": "HSBC Mutual Fund"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "P",
+    "FundName": "ICICI Prudential Mutual Fund"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "PP",
+    "FundName": "PPFAS Mutual Fund"
+  },
+  {
+    "rtaShortCode": "CAMS",
+    "rtaFundCode": "T",
+    "FundName": "TATA Mutual Fund"
+  },
+  {
+    "rtaShortCode": "FT",
+    "rtaFundCode": "FTI",
+    "FundName": "Franklin Templeton MF"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": 135,
+    "FundName": "IDBI Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "AXF",
+    "FundName": "AXIS Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "CRF",
+    "FundName": "CRAMC"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "EMF",
+    "FundName": "Edelweiss Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "IBM",
+    "FundName": "Indiabulls Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "MOF",
+    "FundName": "Motilal Oswal Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "PLF",
+    "FundName": "Peerless Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "PMF",
+    "FundName": "Principal Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "PRF",
+    "FundName": "DHFL"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "QMF",
+    "FundName": "Quantum Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "RGF",
+    "FundName": "Religare Invesco Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "RMF",
+    "FundName": "RELIANCE Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "TMF",
+    "FundName": "Taurus Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "UTI",
+    "FundName": "UTI Mutual Fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": 166,
+    "FundName": "QUANT MF"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "JMF",
+    "FundName": "JM mutual fund"
+  },
+  {
+    "rtaShortCode": "KARVY",
+    "rtaFundCode": "MAF",
+    "FundName": "Mirae Asset Mutual Fund"
+  },
+  {
+    "rtaShortCode": "SUN",
+    "rtaFundCode": "BNP",
+    "FundName": "BNP Paribas"
+  },
+  {
+    "rtaShortCode": "SUN",
+    "rtaFundCode": "SMF",
+    "FundName": "Sundaram Mutual Fund"
+  }
+]

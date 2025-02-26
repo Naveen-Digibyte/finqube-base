@@ -1,0 +1,45 @@
+[
+  {
+    "canId": "14157AKA02",
+    "primaryMobile": 9819963779,
+    "primaryEmail": "vinod@mfuindia.in",
+    "consentData": "Y"
+  },
+  {
+    "canId": "14157AKA03",
+    "primaryMobile": 9042136910,
+    "primaryEmail": "ramkumar@tridentsqa.com",
+    "consentData": "Y"
+  },
+  {
+    "canId": "14157AZA01",
+    "primaryMobile": 9833940275,
+    "primaryEmail": "ramkumar@tridentsqa.com",
+    "consentData": "Y"
+  },
+  {
+    "canId": "14162ANA02",
+    "primaryMobile": 8779803882,
+    "primaryEmail": "jigar@mfuindia.in",
+    "consentData": "N"
+  },
+  {
+    "canId": "14162AZA01",
+    "primaryMobile": 111111111111111,
+    "primaryEmail": "gokulram26795@gmail.com",
+    "consentData": "N"
+  },
+
+  {
+    "canId": "14163BEA01",
+    "primaryMobile": 8655278388,
+    "primaryEmail": "dinakard@mfuindia.in",
+    "consentData": "N"
+  },
+  {
+    "canId": "14175AYA05",
+    "primaryMobile": 8652534458,
+    "primaryEmail": "manish@mfuindia.com",
+    "consentData": "N"
+  }
+]

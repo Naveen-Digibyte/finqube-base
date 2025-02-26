@@ -1,0 +1,8130 @@
+[
+  {
+    "bankId": "001",
+    "bankName": "RESERVE BANK OF INDIA"
+  },
+  {
+    "bankId": "002",
+    "bankName": "STATE BANK OF INDIA"
+  },
+  {
+    "bankId": "003",
+    "bankName": "STATE BANK OF BIKANER AND JAIPUR"
+  },
+  {
+    "bankId": "004",
+    "bankName": "STATE BANK OF HYDERABAD"
+  },
+  {
+    "bankId": "005",
+    "bankName": "STATE BANK OF INDORE"
+  },
+  {
+    "bankId": "006",
+    "bankName": "STATE BANK OF MYSORE"
+  },
+  {
+    "bankId": "007",
+    "bankName": "STATE BANK OF PATIALA"
+  },
+  {
+    "bankId": "009",
+    "bankName": "STATE BANK OF TRAVANCORE"
+  },
+  {
+    "bankId": "010",
+    "bankName": "ALLAHABAD BANK"
+  },
+  {
+    "bankId": "011",
+    "bankName": "ANDHRA BANK"
+  },
+  {
+    "bankId": "012",
+    "bankName": "BANK OF BARODA"
+  },
+  {
+    "bankId": "013",
+    "bankName": "BANK OF INDIA"
+  },
+  {
+    "bankId": "014",
+    "bankName": "BANK OF MAHARASHTRA"
+  },
+  {
+    "bankId": "015",
+    "bankName": "CANARA BANK"
+  },
+  {
+    "bankId": "016",
+    "bankName": "CENTRAL BANK OF INDIA"
+  },
+  {
+    "bankId": "017",
+    "bankName": "CORPORATION BANK"
+  },
+  {
+    "bankId": "018",
+    "bankName": "DENA BANK"
+  },
+  {
+    "bankId": "019",
+    "bankName": "INDIAN BANK"
+  },
+  {
+    "bankId": "020",
+    "bankName": "INDIAN OVERSEAS BANK"
+  },
+  {
+    "bankId": "022",
+    "bankName": "ORIENTAL BANK OF COMMERCE"
+  },
+  {
+    "bankId": "023",
+    "bankName": "PUNJAB AND SIND BANK"
+  },
+  {
+    "bankId": "024",
+    "bankName": "PUNJAB NATIONAL BANK"
+  },
+  {
+    "bankId": "025",
+    "bankName": "SYNDICATE BANK"
+  },
+  {
+    "bankId": "026",
+    "bankName": "UNION BANK OF INDIA"
+  },
+  {
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA"
+  },
+  {
+    "bankId": "028",
+    "bankName": "UCO BANK"
+  },
+  {
+    "bankId": "029",
+    "bankName": "VIJAYA BANK"
+  },
+  {
+    "bankId": "030",
+    "bankName": "THE ROYAL BANK OF SCOTLAND N V"
+  },
+  {
+    "bankId": "032",
+    "bankName": "BANK OF AMERICA"
+  },
+  {
+    "bankId": "033",
+    "bankName": "BANK OF TOKYO MITSUBISHI LIMITED"
+  },
+  {
+    "bankId": "034",
+    "bankName": "B N P PARIBAS"
+  },
+  {
+    "bankId": "036",
+    "bankName": "STANDARD CHARTERED BANK"
+  },
+  {
+    "bankId": "037",
+    "bankName": "CITI BANK"
+  },
+  {
+    "bankId": "039",
+    "bankName": "HSBC BANK"
+  },
+  {
+    "bankId": "047",
+    "bankName": "CATHOLIC SYRIAN BANK LIMITED"
+  },
+  {
+    "bankId": "048",
+    "bankName": "DHANALAKSHMI BANK LIMITED"
+  },
+  {
+    "bankId": "049",
+    "bankName": "FEDERAL BANK LIMITED"
+  },
+  {
+    "bankId": "051",
+    "bankName": "JAMMU AND KASHMIR BANK LIMITED"
+  },
+  {
+    "bankId": "052",
+    "bankName": "KARNATAKA BANK LIMITED"
+  },
+  {
+    "bankId": "053",
+    "bankName": "KARUR VYSYA BANK LIMITED"
+  },
+  {
+    "bankId": "054",
+    "bankName": "CITY UNION BANK"
+  },
+  {
+    "bankId": "056",
+    "bankName": "LAKSHMI VILAS BANK LIMITED"
+  },
+  {
+    "bankId": "059",
+    "bankName": "SOUTH INDIAN BANK LIMITED"
+  },
+  {
+    "bankId": "060",
+    "bankName": "TAMILNADU MERCANTILE BANK LIMITED"
+  },
+  {
+    "bankId": "064",
+    "bankName": "ING VYSYA BANK LIMITED"
+  },
+  {
+    "bankId": "065",
+    "bankName": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": "066",
+    "bankName": "THE AHMEDABAD MERCANTILE CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": "068",
+    "bankName": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": "069",
+    "bankName": "Bombay Mercantile Co-operative Bank Ltd"
+  },
+  {
+    "bankId": "071",
+    "bankName": "THE DECCAN MERCHANTS CO-OP BANK LTD."
+  },
+  {
+    "bankId": "072",
+    "bankName": "DEVELOPMENT CREDIT BANK"
+  },
+  {
+    "bankId": "073",
+    "bankName": "The Jain Sahakari Bank Ltd"
+  },
+  {
+    "bankId": "074",
+    "bankName": "JANATA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": "075",
+    "bankName": "KONKAN MERCANTILE BANK"
+  },
+  {
+    "bankId": "076",
+    "bankName": "THE KAPOL COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": "077",
+    "bankName": "THE KURLA NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": "079",
+    "bankName": "The Malad Sahakari Bank Ltd."
+  },
+  {
+    "bankId": "082",
+    "bankName": "MAHARASHTRA STATE CO OPERATIVE BANK"
+  },
+  {
+    "bankId": "084",
+    "bankName": "MOGAVEERA BANK"
+  },
+  {
+    "bankId": "085",
+    "bankName": "NEW  INDIA CO-OPERATIVE  BANK  LIMITED"
+  },
+  {
+    "bankId": "086",
+    "bankName": "NKGSB COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": "087",
+    "bankName": "SAHYADRI SAH. BANK LTD,BOMBAY"
+  },
+  {
+    "bankId": "088",
+    "bankName": "SARASWAT COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": "089",
+    "bankName": "THE SHAMRAO VITHAL COOPERATIVE BANK"
+  },
+  {
+    "bankId": "091",
+    "bankName": "THE TAMIL NADU STATE APEX COOPERATIVE BANK"
+  },
+  {
+    "bankId": "092",
+    "bankName": "CHENNAI CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": "093",
+    "bankName": "THE WEST BENGAL STATE COOPERATIVE BANK"
+  },
+  {
+    "bankId": "094",
+    "bankName": "THE DELHI STATE COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": "095",
+    "bankName": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": "096",
+    "bankName": "MAHANAGAR COOPERATIVE BANK"
+  },
+  {
+    "bankId": "098",
+    "bankName": "APNA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 103,
+    "bankName": "LILUAH CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 105,
+    "bankName": "JANAKALYAN SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 107,
+    "bankName": "THE SATARA SAHAKARI BANK LTD,BOMBAY"
+  },
+  {
+    "bankId": 108,
+    "bankName": "Excellent Co-Op. Bank Ltd"
+  },
+  {
+    "bankId": 109,
+    "bankName": "THANE JANATA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 110,
+    "bankName": "THE MUNCIPAL CO-OP BANK LIMITED,BOMBAY"
+  },
+  {
+    "bankId": 111,
+    "bankName": "CHIEF POSTMASTER GPO"
+  },
+  {
+    "bankId": 112,
+    "bankName": "THE BHARAT CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 115,
+    "bankName": "The Co-operative City Bank Ltd"
+  },
+  {
+    "bankId": 118,
+    "bankName": "THE Mehsana Nagrik Sahakari Bank Ltd."
+  },
+  {
+    "bankId": 124,
+    "bankName": "THE KARNAVATI CO OP BANK LTD"
+  },
+  {
+    "bankId": 126,
+    "bankName": "THE KALUPUR COMMERCIAL CO. OP. BANK LIMITED."
+  },
+  {
+    "bankId": 128,
+    "bankName": "NUTAN NAGARIK SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 130,
+    "bankName": "The Social Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 131,
+    "bankName": "TEXTILE TRADERS CO-OP BANK LTD."
+  },
+  {
+    "bankId": 132,
+    "bankName": "VIJAY COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 134,
+    "bankName": "The Bhagyodaya Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 135,
+    "bankName": "The Sarangpur Co-op Bank Ltd"
+  },
+  {
+    "bankId": 136,
+    "bankName": "The Union Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 138,
+    "bankName": "Colour Merchants Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 139,
+    "bankName": "The Navnirman Co-op. Bank Ltd"
+  },
+  {
+    "bankId": 141,
+    "bankName": "Progressive Mercantile Co-op Bank Ltd"
+  },
+  {
+    "bankId": 142,
+    "bankName": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED"
+  },
+  {
+    "bankId": 143,
+    "bankName": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 149,
+    "bankName": "PATAN CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 150,
+    "bankName": "BANK OF BAHRAIN AND KUWAIT"
+  },
+  {
+    "bankId": 153,
+    "bankName": "The Baroda Central Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 156,
+    "bankName": "The Baroda City Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 160,
+    "bankName": "SHREE VARDHAMAN SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 164,
+    "bankName": "THE COSMOS CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 167,
+    "bankName": "Pune Merchants Co-op Bank Ltd"
+  },
+  {
+    "bankId": 168,
+    "bankName": "PUNE PEOPLE s CO-OP Bank Ltd."
+  },
+  {
+    "bankId": 171,
+    "bankName": "Vidya Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 172,
+    "bankName": "POST OFFICE SAVINGS BANK"
+  },
+  {
+    "bankId": 174,
+    "bankName": "PAVANA SAHAKARI BANK LTD PUNE"
+  },
+  {
+    "bankId": 175,
+    "bankName": "MAHESH SAHAKARI BANK LTD PUNE"
+  },
+  {
+    "bankId": 176,
+    "bankName": "THE RATNAKAR BANK LIMITED"
+  },
+  {
+    "bankId": 182,
+    "bankName": "SHIKSHAK SAHAKARI BANK LTD NAGPUR"
+  },
+  {
+    "bankId": 183,
+    "bankName": "NAGPUR NAGARIK SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 184,
+    "bankName": "THE NAINITAL BANK LIMITED"
+  },
+  {
+    "bankId": 190,
+    "bankName": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 192,
+    "bankName": "Fingrowth Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 195,
+    "bankName": "THE VAISH CO-OPERATIVE NEW BANK LTD"
+  },
+  {
+    "bankId": 196,
+    "bankName": "Delhi Nagrik Sehkari Bank Ltd."
+  },
+  {
+    "bankId": 200,
+    "bankName": "DEUTSCHE BANK"
+  },
+  {
+    "bankId": 202,
+    "bankName": "Pragati Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 208,
+    "bankName": "THE VAISH CO-OPERATIVE ADARSH BANK LTD"
+  },
+  {
+    "bankId": 209,
+    "bankName": "CITIZEN CREDIT COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 211,
+    "bankName": "AXIS BANK LIMITED"
+  },
+  {
+    "bankId": 215,
+    "bankName": "Saraspur Nagarik Co-op. Bank Ltd"
+  },
+  {
+    "bankId": 217,
+    "bankName": "Rajkot Nagarik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 225,
+    "bankName": "The Bangalore City Co-operative Bank Limited"
+  },
+  {
+    "bankId": 226,
+    "bankName": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED"
+  },
+  {
+    "bankId": 229,
+    "bankName": "ICICI BANK LIMITED"
+  },
+  {
+    "bankId": 234,
+    "bankName": "INDUSIND BANK LIMITED"
+  },
+  {
+    "bankId": 235,
+    "bankName": "DOMBIVLI NAGARI SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 238,
+    "bankName": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 239,
+    "bankName": "THE BANK OF NOVA SCOTIA"
+  },
+  {
+    "bankId": 240,
+    "bankName": "HDFC BANK LIMITED"
+  },
+  {
+    "bankId": 242,
+    "bankName": "The Panchsheel Mercantile Co-op Bank Ltd"
+  },
+  {
+    "bankId": 244,
+    "bankName": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 245,
+    "bankName": "THE SURAT MERCANTILE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 246,
+    "bankName": "Surat National Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 248,
+    "bankName": "SUTEX COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 249,
+    "bankName": "The Sarvodaya Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 250,
+    "bankName": "PRIME COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 251,
+    "bankName": "THE SURATH PEOPLES COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 255,
+    "bankName": "INDRAPRASTHA SAH. BANK LTD"
+  },
+  {
+    "bankId": 256,
+    "bankName": "Sardar Vallabhbhai Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 257,
+    "bankName": "JANASEVA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 259,
+    "bankName": "IDBI BANK LIMITED"
+  },
+  {
+    "bankId": 269,
+    "bankName": "ABU DHABI COMMERCIAL BANK"
+  },
+  {
+    "bankId": 272,
+    "bankName": "Bhagini Nivedita Sahakari Bank Ltd Pune"
+  },
+  {
+    "bankId": 275,
+    "bankName": "The National Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 278,
+    "bankName": "Indore Cloth Market Co-operative Bank Ltd."
+  },
+  {
+    "bankId": 279,
+    "bankName": "Indore Paraspar Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 280,
+    "bankName": "INDORE PREMIER CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 281,
+    "bankName": "M P Rajya Sahakari Bank Mydt."
+  },
+  {
+    "bankId": 283,
+    "bankName": "NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 287,
+    "bankName": "Vyaparik Audhyogik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 289,
+    "bankName": "THE VARACHHA COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 291,
+    "bankName": "SHIVAJIRAO BHOSALE SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 297,
+    "bankName": "The Citizens Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 302,
+    "bankName": "The NARODA NAGRIK CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 303,
+    "bankName": "KANKARIA MANINAGAR NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 304,
+    "bankName": "THE KANGRA COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 305,
+    "bankName": "The Khattri Co-operative Urban Bank Ltd"
+  },
+  {
+    "bankId": 307,
+    "bankName": "Pune Urban Co-operative Bank Ltd. Pune"
+  },
+  {
+    "bankId": 308,
+    "bankName": "Jharneshwar Nagrik Sahakari Bank Maryadit"
+  },
+  {
+    "bankId": 309,
+    "bankName": "Bhopal Co-op Central Bank Ltd"
+  },
+  {
+    "bankId": 310,
+    "bankName": "SADGURU NAGRIK SAHAKARI BANK MYDT"
+  },
+  {
+    "bankId": 311,
+    "bankName": "The H P State Co-op Bank Ltd"
+  },
+  {
+    "bankId": 312,
+    "bankName": "G P PARSIK BANK"
+  },
+  {
+    "bankId": 313,
+    "bankName": "THE MEHSANA URBAN COOPERATIVE BANK"
+  },
+  {
+    "bankId": 314,
+    "bankName": "The City Co-operative Bank Ltd.,"
+  },
+  {
+    "bankId": 315,
+    "bankName": "SHRI CHHANI NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 320,
+    "bankName": "M S Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 322,
+    "bankName": "Alavi Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 323,
+    "bankName": "UMA Co-Operative Bank Ltd."
+  },
+  {
+    "bankId": 328,
+    "bankName": "PUNJAB AND MAHARSHTRA COOPERATIVE BANK"
+  },
+  {
+    "bankId": 329,
+    "bankName": "JAIN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 331,
+    "bankName": "BANK OF CEYLON"
+  },
+  {
+    "bankId": 332,
+    "bankName": "STATE BANK OF MAURITIUS LIMITED"
+  },
+  {
+    "bankId": 335,
+    "bankName": "THE VISHWESHWAR SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 344,
+    "bankName": "Tirupati Urban Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 345,
+    "bankName": "THE ABHINAV SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 346,
+    "bankName": "The Haryana State Co-operative Apex Bank Ltd"
+  },
+  {
+    "bankId": 348,
+    "bankName": "RAJASTHAN MARUDHARA GRAMIN BANK"
+  },
+  {
+    "bankId": 349,
+    "bankName": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 350,
+    "bankName": "THE PUNJAB STATE COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 351,
+    "bankName": "THE CHANDIGARH STATE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 352,
+    "bankName": "Suvarnayug Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 353,
+    "bankName": "RAJARSHI SHAHU SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 355,
+    "bankName": "Bharati Sahakari Bank Limited"
+  },
+  {
+    "bankId": 358,
+    "bankName": "SHREE SHARADA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 361,
+    "bankName": "THE JANTA CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 363,
+    "bankName": "KRISHNA MERCANTILE COOP BANK LTD"
+  },
+  {
+    "bankId": 364,
+    "bankName": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK"
+  },
+  {
+    "bankId": 367,
+    "bankName": "THE KALYAN JANATA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 369,
+    "bankName": "THE NASIK MERCHANTS COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 372,
+    "bankName": "Nasik District Central Co-op Bank Ltd Nasik"
+  },
+  {
+    "bankId": 373,
+    "bankName": "The Janalaxmi Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 374,
+    "bankName": "The Nasik Road Deolali Vyapari Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 375,
+    "bankName": "SHREE SAMARTH SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 376,
+    "bankName": "Godavari Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 386,
+    "bankName": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 387,
+    "bankName": "KOLHAPUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD."
+  },
+  {
+    "bankId": 389,
+    "bankName": "Shri Mahalaxmi Co-op Bank Ltd"
+  },
+  {
+    "bankId": 390,
+    "bankName": "State Transport Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 393,
+    "bankName": "Youth Development Co-op Bank"
+  },
+  {
+    "bankId": 394,
+    "bankName": "THE AJARA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 397,
+    "bankName": "SHREE WARANA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 398,
+    "bankName": "THE KOLHAPUR URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 401,
+    "bankName": "KOLHAPUR MAHILA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 402,
+    "bankName": "SHRI PANCHGANGA NAGARI SAHKARI BANK LTD"
+  },
+  {
+    "bankId": 403,
+    "bankName": "DR ANNASAHEB CHOWGULE URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 404,
+    "bankName": "The Gadhinglaj Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 407,
+    "bankName": "SHRI VEERSHAIV CO-OP BANK LTD KOLHAPUR"
+  },
+  {
+    "bankId": 408,
+    "bankName": "THE COMMERCIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 409,
+    "bankName": "The National Co-op Bank Ltd"
+  },
+  {
+    "bankId": 412,
+    "bankName": "THE SEVA VIKAS COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 413,
+    "bankName": "THE BICHOLIM URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 415,
+    "bankName": "THE GOA State CO-OP Bank Ltd."
+  },
+  {
+    "bankId": 416,
+    "bankName": "The GOA Urban Co-Operative Bank Ltd."
+  },
+  {
+    "bankId": 417,
+    "bankName": "THE MADGAUM URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 418,
+    "bankName": "The Mapusa Urban Co-Op. Bank of GOA Ltd."
+  },
+  {
+    "bankId": 420,
+    "bankName": "APNI SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 421,
+    "bankName": "The Bavla Nagrik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 422,
+    "bankName": "The United Co-op Bank Ltd"
+  },
+  {
+    "bankId": 424,
+    "bankName": "RAJDHANI NAGAR SAHKARI BANK LTD"
+  },
+  {
+    "bankId": 434,
+    "bankName": "The Kukarwada Nagarik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 441,
+    "bankName": "The Co-operative Bank of Rajkot Ltd"
+  },
+  {
+    "bankId": 443,
+    "bankName": "JIVAN COMMERCIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 445,
+    "bankName": "Rajkot Peoples Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 448,
+    "bankName": "GRAMIN BANK OF ARYAVART"
+  },
+  {
+    "bankId": 454,
+    "bankName": "Baroda Uttar Pradesh Gramin Bank"
+  },
+  {
+    "bankId": 459,
+    "bankName": "BARODA GUJARAT GRAMIN BANK"
+  },
+  {
+    "bankId": 460,
+    "bankName": "NORTH MALABAR GRAMIN BANK,CANNANORE"
+  },
+  {
+    "bankId": 465,
+    "bankName": "Shree Laxmi Co-op Bank Ltd"
+  },
+  {
+    "bankId": 470,
+    "bankName": "NAGRIK SAHAKARI BANK MARYADIT GWALIOR"
+  },
+  {
+    "bankId": 472,
+    "bankName": "The Veraval Mercantile Co-op Bank Ltd"
+  },
+  {
+    "bankId": 473,
+    "bankName": "The Rajkot Commercial Co-op Bank Ltd"
+  },
+  {
+    "bankId": 474,
+    "bankName": "Shree Rajkot District Co-op Bank Ltd"
+  },
+  {
+    "bankId": 480,
+    "bankName": "Kerala Gramin Bank"
+  },
+  {
+    "bankId": 483,
+    "bankName": "KARNATAKA VIKAS GRAMEENA BANK"
+  },
+  {
+    "bankId": 485,
+    "bankName": "KOTAK MAHINDRA BANK LIMITED"
+  },
+  {
+    "bankId": 486,
+    "bankName": "Kashi Gomti Samyut Gramin Bank"
+  },
+  {
+    "bankId": 488,
+    "bankName": "THE KARAD URBAN COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 491,
+    "bankName": "C G RAJYA SAHAKARI BANK MYDT"
+  },
+  {
+    "bankId": 493,
+    "bankName": "Laxmi Mahila Nagrik Sahakari Bank Maryadit"
+  },
+  {
+    "bankId": 495,
+    "bankName": "Vyavsaik Sahakari Bank"
+  },
+  {
+    "bankId": 497,
+    "bankName": "Laxmibai Mahila Nagarik Sahakari Bank Mydt"
+  },
+  {
+    "bankId": 500,
+    "bankName": "JP MORGAN BANK"
+  },
+  {
+    "bankId": 502,
+    "bankName": "THE BUSINESS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 503,
+    "bankName": "JANKALYAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 504,
+    "bankName": "VISHWAS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 507,
+    "bankName": "JALGAON JANATA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 508,
+    "bankName": "Shree Mahesh Co-op Bank Ltd Nashik"
+  },
+  {
+    "bankId": 512,
+    "bankName": "Central Madhya Pradesh Gramin Bank"
+  },
+  {
+    "bankId": 513,
+    "bankName": "RAJLAXMI URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 514,
+    "bankName": "Jodhpur Nagrik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 521,
+    "bankName": "CHHATTISGARH GRAMIN BANK"
+  },
+  {
+    "bankId": 522,
+    "bankName": "JILA SAHAKARI KENDRIYA BANK MARYADIT-RAIPUR"
+  },
+  {
+    "bankId": 524,
+    "bankName": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 525,
+    "bankName": "THE THANE BHARAT SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 532,
+    "bankName": "YES BANK LIMITED"
+  },
+  {
+    "bankId": 544,
+    "bankName": "UTTARAKHAND GRAMIN BANK"
+  },
+  {
+    "bankId": 545,
+    "bankName": "CAPITAL SMALL FINANCE BANK LTD"
+  },
+  {
+    "bankId": 554,
+    "bankName": "Uttarakhand State Co-Op Bank Ltd"
+  },
+  {
+    "bankId": 561,
+    "bankName": "The Malkapur Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 562,
+    "bankName": "Jila Sahakari Kendriya Bank Maryadit, Bilaspur"
+  },
+  {
+    "bankId": 564,
+    "bankName": "SUNDARLAL SAWJI URBAN CO-OP. BANK LTD, JINTUR"
+  },
+  {
+    "bankId": 570,
+    "bankName": "MAHARASHTRA GRAMIN BANK"
+  },
+  {
+    "bankId": 574,
+    "bankName": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 582,
+    "bankName": "DEOGIRI NAGARI SAHAKARI BANK LTD."
+  },
+  {
+    "bankId": 583,
+    "bankName": "SUBHADRA LOCAL AREA BANK LTD"
+  },
+  {
+    "bankId": 584,
+    "bankName": "Rajarambapu Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 587,
+    "bankName": "SOLAPUR JANATA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 597,
+    "bankName": "SAMARTH SAHAKARI BANK LTD."
+  },
+  {
+    "bankId": 604,
+    "bankName": "LOKMANGAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 606,
+    "bankName": "The Baramati Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 608,
+    "bankName": "SOCIETE GENERALE"
+  },
+  {
+    "bankId": 615,
+    "bankName": "Shree Bhavnagar Nagrik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 619,
+    "bankName": "Dena Gujarat Gramin Bank"
+  },
+  {
+    "bankId": 621,
+    "bankName": "The Nawanagar Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 622,
+    "bankName": "PARSHWANATH CO-OP BANK LTD"
+  },
+  {
+    "bankId": 639,
+    "bankName": "THE CITIZEN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 641,
+    "bankName": "DBS Bank Ltd"
+  },
+  {
+    "bankId": 647,
+    "bankName": "Baroda Rajasthan Kshetriya Gramin Bank"
+  },
+  {
+    "bankId": 653,
+    "bankName": "Narmada Jhabua Gramin Bank"
+  },
+  {
+    "bankId": 658,
+    "bankName": "BARCLAYS BANK PLC"
+  },
+  {
+    "bankId": 659,
+    "bankName": "SHINHAN BANK"
+  },
+  {
+    "bankId": 662,
+    "bankName": "Saurashtra Gramin Bank"
+  },
+  {
+    "bankId": 693,
+    "bankName": "Zoroastrian Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 694,
+    "bankName": "MIZUHO CORPORATE BANK LIMITED"
+  },
+  {
+    "bankId": 696,
+    "bankName": "Sarva Haryana Gramin Bank"
+  },
+  {
+    "bankId": 697,
+    "bankName": "PRAGATHI KRISHNA GRAMIN BANK"
+  },
+  {
+    "bankId": 699,
+    "bankName": "ALLAHABAD UP GRAMIN BANK"
+  },
+  {
+    "bankId": 703,
+    "bankName": "ANDHRA PRAGATHI GRAMEENA BANK"
+  },
+  {
+    "bankId": 706,
+    "bankName": "Odisha Gramya Bank"
+  },
+  {
+    "bankId": 723,
+    "bankName": "ZILA SAHAKRI BANK LIMITED GHAZIABAD"
+  },
+  {
+    "bankId": 725,
+    "bankName": "PURVANCHAL GRAMIN BANK"
+  },
+  {
+    "bankId": 733,
+    "bankName": "BHARATIYA MAHILA BANK LIMITED"
+  },
+  {
+    "bankId": 740,
+    "bankName": "THE JALGAON PEOPELS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 746,
+    "bankName": "DOHA BANK"
+  },
+  {
+    "bankId": 750,
+    "bankName": "BANDHAN BANK"
+  },
+  {
+    "bankId": 751,
+    "bankName": "IDFC BANK"
+  },
+  {
+    "bankId": 756,
+    "bankName": "EQUITAS SMALL FINANCE BANK LIMITED"
+  },
+  {
+    "bankId": 761,
+    "bankName": "Ujjivan Small Finance Bank"
+  },
+  {
+    "bankId": 765,
+    "bankName": "AU SMALL FINANCE BANK"
+  },
+  {
+    "bankId": 800,
+    "bankName": "The Panipat Urban Co-op. Bank Ltd."
+  },
+  {
+    "bankId": 801,
+    "bankName": "THE HINDUSTHAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 802,
+    "bankName": "Dattatraya Maharaj Kalambe Jaoli Sahakari Bank Ltd."
+  },
+  {
+    "bankId": 803,
+    "bankName": "VASAI VIKAS SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 804,
+    "bankName": "Janaseva Sahakari Bank (Borivli) Ltd."
+  },
+  {
+    "bankId": 805,
+    "bankName": "The Janata Co-op Bank Ltd- Godhra"
+  },
+  {
+    "bankId": 806,
+    "bankName": "The Chembur Nagarik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 807,
+    "bankName": "Model Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 808,
+    "bankName": "The Dahod Urban Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 809,
+    "bankName": "Amarnath Co-operative Bank Limited"
+  },
+  {
+    "bankId": 810,
+    "bankName": "The Vallabh Vidyanagar Commercial Co-op Bank Ltd"
+  },
+  {
+    "bankId": 811,
+    "bankName": "The Gandhinagar Nagarik Co-op Bank Ltd."
+  },
+  {
+    "bankId": 812,
+    "bankName": "Poornawadi Nagarik Sahakari Bank M. Beed"
+  },
+  {
+    "bankId": 814,
+    "bankName": "Shri Mahila Sewa Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 815,
+    "bankName": "THE CHOPDA PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 816,
+    "bankName": "The Kalol Nagarik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 822,
+    "bankName": "SARVA U.P. GRAMIN BANK"
+  },
+  {
+    "bankId": 823,
+    "bankName": "SHREE MAHAVIR SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 827,
+    "bankName": "The Urban Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 828,
+    "bankName": "Himachal Pradesh Gramin Bank"
+  },
+  {
+    "bankId": 831,
+    "bankName": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+  },
+  {
+    "bankId": 835,
+    "bankName": "The Kottakkal Co-operative Urban Bank Ltd"
+  },
+  {
+    "bankId": 836,
+    "bankName": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 840,
+    "bankName": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 841,
+    "bankName": "Nagarik Sahakari Bank Maryadit Durg"
+  },
+  {
+    "bankId": 842,
+    "bankName": "GURGAON GRAMIN BANK LTD"
+  },
+  {
+    "bankId": 843,
+    "bankName": "PRATHAMA BANK"
+  },
+  {
+    "bankId": 846,
+    "bankName": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 849,
+    "bankName": "ALMORA URBAN COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 850,
+    "bankName": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 851,
+    "bankName": "SARVODAYA COMMERCIAL  CO-OP BANK LTD"
+  },
+  {
+    "bankId": 852,
+    "bankName": "GUJARAT AMBUJA CO-OP BANK LTD."
+  },
+  {
+    "bankId": 861,
+    "bankName": "The Sangli District Central Co-op. Bank Ltd"
+  },
+  {
+    "bankId": 867,
+    "bankName": "The Shahada Peoples Co-operative Bank Limited"
+  },
+  {
+    "bankId": 876,
+    "bankName": "ACE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 877,
+    "bankName": "THE KAGAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 893,
+    "bankName": "The Niphad Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9001,
+    "bankName": "The Sonepat Urban Co-Op. Bank Ltd."
+  },
+  {
+    "bankId": 9002,
+    "bankName": "THE AHMEDABAD DISTRICT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 9003,
+    "bankName": "The Chembur Nagarik Sahakari Bank Limited"
+  },
+  {
+    "bankId": 9004,
+    "bankName": "GUARDIAN SOUHARDA SAHAKARI BANK NIYAMITA"
+  },
+  {
+    "bankId": 9005,
+    "bankName": "MARATHA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 9006,
+    "bankName": "VIMA KAMGAR CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 9007,
+    "bankName": "ACE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 9008,
+    "bankName": "FirstRand Bank Limited"
+  },
+  {
+    "bankId": 9009,
+    "bankName": "NAGARIK SAMABAY BANK LTD"
+  },
+  {
+    "bankId": 9010,
+    "bankName": "PRAGATI MAHILA NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 9011,
+    "bankName": "PALLAVAN GRAMA BANK"
+  },
+  {
+    "bankId": 9012,
+    "bankName": "UDYAM VIKAS SAHAKARI BANK LTD PUNE"
+  },
+  {
+    "bankId": 9013,
+    "bankName": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 9014,
+    "bankName": "Sardar Bhiladwala Pardi Peoples Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9015,
+    "bankName": "Model Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9016,
+    "bankName": "The Uttarpara Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9017,
+    "bankName": "The Vijay Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9018,
+    "bankName": "Vasai Janata Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9019,
+    "bankName": "Shri Arihant Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9020,
+    "bankName": "Ahmednagar Shahar Sahakari Bank Maryadit"
+  },
+  {
+    "bankId": 9021,
+    "bankName": "The Kaira District Central Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9022,
+    "bankName": "Shri Mahila Sewa Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9023,
+    "bankName": "Sardargunj Mercantile Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9024,
+    "bankName": "THE GANDHIDHAM MERCANTILE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 9025,
+    "bankName": "The Nav Jeevan Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9026,
+    "bankName": "Ratnagiri District Central Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9027,
+    "bankName": "The Makarpura Industrial Estate Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9028,
+    "bankName": "The Gandevi Peoples Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9029,
+    "bankName": "The Wai Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 903,
+    "bankName": "THE ASTHA PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 9030,
+    "bankName": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 9031,
+    "bankName": "SHREE KADI NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 9032,
+    "bankName": "Chaitanya Godavari Grameena Bank"
+  },
+  {
+    "bankId": 9033,
+    "bankName": "The Sarvodaya Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9035,
+    "bankName": "Jila Sahakari Kendriya Bank Maryadit, Raipur"
+  },
+  {
+    "bankId": 9036,
+    "bankName": "The Suvikas Peoples Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9037,
+    "bankName": "The Kunbi Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9038,
+    "bankName": "Kutch Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9039,
+    "bankName": "Sangli Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9040,
+    "bankName": "Shri D T Patil Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9041,
+    "bankName": "THE INCOME TAX DEPT. CO OP BANK LTD"
+  },
+  {
+    "bankId": 9042,
+    "bankName": "Amarnath Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9043,
+    "bankName": "GUJARAT MERCANTILE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 9044,
+    "bankName": "DEFENCE ACCOUNTS CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 9045,
+    "bankName": "The Valsad Mahila Nagrik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9046,
+    "bankName": "The Akola Urban Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9047,
+    "bankName": "The Vita Merchants Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9048,
+    "bankName": "NAVSARJAN INDUSTRIAL CO OP BANK LTD"
+  },
+  {
+    "bankId": 9049,
+    "bankName": "LONAVALA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 9050,
+    "bankName": "The Anand Mercantile Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9051,
+    "bankName": "SINDHUDURG CO-OPERATIVE BANK LTD."
+  },
+  {
+    "bankId": 9052,
+    "bankName": "Jijamata Mahila Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9053,
+    "bankName": "The Saurashtra Co-Operative Bank Ltd"
+  },
+  {
+    "bankId": 9054,
+    "bankName": "The Bapunagar Mahila Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9055,
+    "bankName": "The Gandhinagar Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9056,
+    "bankName": "The Honavar Urban Co-Operative Bank Ltd"
+  },
+  {
+    "bankId": 9057,
+    "bankName": "Sree Narayana Guru Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9058,
+    "bankName": "D Y Patil Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9059,
+    "bankName": "The Bhuj Commercial Co-operative Bank Limited"
+  },
+  {
+    "bankId": 9060,
+    "bankName": "Dapoli Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9061,
+    "bankName": "Nagar Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9062,
+    "bankName": "Pimpri Chinchwad Sahakari Bank Maryadit"
+  },
+  {
+    "bankId": 9063,
+    "bankName": "The Viramgam Mercantile Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9064,
+    "bankName": "Nashik Zilha Sarkari and Parishad Karmachari Sahakari Bank Niyamit"
+  },
+  {
+    "bankId": 9065,
+    "bankName": "Nagarik Sahakari Bank Ltd Bhiwandi"
+  },
+  {
+    "bankId": 9066,
+    "bankName": "Sree Thyagaraja Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9067,
+    "bankName": "PUNE DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 9068,
+    "bankName": "The Raigad District Central Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9069,
+    "bankName": "ADARSH CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 9070,
+    "bankName": "NIDHI CO-OP. BANK LIMITED"
+  },
+  {
+    "bankId": 9071,
+    "bankName": "Latur Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9072,
+    "bankName": "The Gujarat State Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9073,
+    "bankName": "Sampada Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9074,
+    "bankName": "Mansing Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9075,
+    "bankName": "The Shirpur Peoples Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9076,
+    "bankName": "The Khambhat Nagarik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9077,
+    "bankName": "Andhra Pradesh Grameena Vikas Bank"
+  },
+  {
+    "bankId": 9078,
+    "bankName": "The Raddi Sahakara Bank Niyamitha"
+  },
+  {
+    "bankId": 9079,
+    "bankName": "Bhavnagar District Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9080,
+    "bankName": "Independence Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9081,
+    "bankName": "The Kanara District Central Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9082,
+    "bankName": "The Nandurbar Merchants Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9083,
+    "bankName": "SINDHUDURG DISTRICT CENTRAL CO OP BANK LTD"
+  },
+  {
+    "bankId": 9084,
+    "bankName": "The Sabarkantha District Central Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9085,
+    "bankName": "The Guntur Co-operative Urban Bank Ltd"
+  },
+  {
+    "bankId": 9086,
+    "bankName": "JANATHA SEVA CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 9087,
+    "bankName": "THE BHARUCH DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 9088,
+    "bankName": "The Nilambur Co-operative Urban Bank Ltd"
+  },
+  {
+    "bankId": 9089,
+    "bankName": "THE NAVAL DOCKYARD CO-OP BANK LTD"
+  },
+  {
+    "bankId": 9090,
+    "bankName": "Sihor Nagarik Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9091,
+    "bankName": "Ambarnath Jai-hind Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9092,
+    "bankName": "ASTHA MAHILA NAGRIK SAHAKARI BANK"
+  },
+  {
+    "bankId": 9093,
+    "bankName": "KARNALA NAGARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 9094,
+    "bankName": "Vaishya Sahakari Bank Ltd"
+  },
+  {
+    "bankId": 9095,
+    "bankName": "The Veraval Peoples Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9096,
+    "bankName": "Shree Gajanan Lokseva Sahakari Bank Maryadit"
+  },
+  {
+    "bankId": 9097,
+    "bankName": "The Satara District Central Co-operative Bank Ltd"
+  },
+  {
+    "bankId": 9098,
+    "bankName": "The Chiplun Urban Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9099,
+    "bankName": "Pune Municipal Corporation Servants Co-op Urban Bank Ltd"
+  },
+  {
+    "bankId": 9100,
+    "bankName": "The Maharashtra Mantralaya And Allied Offices Co-op Bank Ltd"
+  },
+  {
+    "bankId": 9101,
+    "bankName": "Surguja Kshetriya Gramin Bank"
+  },
+  {
+    "bankId": "",
+    "bankName": ""
+  },
+  {
+    "bankId": "",
+    "bankName": ""
+  },
+  {
+    "bankId": "008",
+    "bankName": "STATE BANK OF SAURASHTRA"
+  },
+  {
+    "bankId": "031",
+    "bankName": "AMERICAN EXPRESS BANK LTD"
+  },
+  {
+    "bankId": "035",
+    "bankName": "BRITISH BANK OF MIDDLE EAST"
+  },
+  {
+    "bankId": "038",
+    "bankName": "GRINDLAYS BANK"
+  },
+  {
+    "bankId": "040",
+    "bankName": "SUMITOMO MITSUI BANKING CORP.,BOMBAY"
+  },
+  {
+    "bankId": "041",
+    "bankName": "BANK OF MADURA LTD"
+  },
+  {
+    "bankId": "043",
+    "bankName": "BANK OF RAJASTHAN LTD"
+  },
+  {
+    "bankId": "044",
+    "bankName": "BHARAT OVERSEAS BANK LTD"
+  },
+  {
+    "bankId": "046",
+    "bankName": "BANK OF THANJAVAR LTD"
+  },
+  {
+    "bankId": "057",
+    "bankName": "NEDUNGADI BANK LTD"
+  },
+  {
+    "bankId": "058",
+    "bankName": "SANGLI BANK LTD"
+  },
+  {
+    "bankId": "062",
+    "bankName": "UNITED INDUSTRIAL BANK LTD"
+  },
+  {
+    "bankId": "063",
+    "bankName": "UNITED WESTERN BANK LTD"
+  },
+  {
+    "bankId": "067",
+    "bankName": "SHREE LABH CO-OP BANK LTD (ALEN CO-OP BANK LTD),BOMBAY"
+  },
+  {
+    "bankId": "070",
+    "bankName": "CO-OP BANK OF AHMEDABAD"
+  },
+  {
+    "bankId": "078",
+    "bankName": "MADHAVPURA MERCANTILE CO-OP BANK LTD,BOMBAY"
+  },
+  {
+    "bankId": "080",
+    "bankName": "MANDVI CO-OP BANK LTD,BOMBAY"
+  },
+  {
+    "bankId": "081",
+    "bankName": "METROPOLITAN CO-OP BANK LTD,BOMBAY"
+  },
+  {
+    "bankId": "083",
+    "bankName": "MEMON CO-OP BANK LTD,BOMBAY"
+  },
+  {
+    "bankId": "090",
+    "bankName": "SWASTIK JANATA SAH.BANK LTD,BOMBAY"
+  },
+  {
+    "bankId": "097",
+    "bankName": "BANK OF KARAD"
+  },
+  {
+    "bankId": "099",
+    "bankName": "SONALI BANK LTD,CALCUTTA"
+  },
+  {
+    "bankId": 100,
+    "bankName": "PURBANCHAL BANK LTD,CALCUTTA"
+  },
+  {
+    "bankId": 1000,
+    "bankName": "HARYANA KSHETRIYA GRAMEENA BANK LTD"
+  },
+  {
+    "bankId": 1001,
+    "bankName": "HAZARIBAGH KSHETRIYA GRAMIN BANK LIMITED"
+  },
+  {
+    "bankId": 1002,
+    "bankName": "HIMACHAL GRAMIN BANK"
+  },
+  {
+    "bankId": 1003,
+    "bankName": "HIMATNAGAR NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1004,
+    "bankName": "HINGOLI PEOPLES CO-OP BANK"
+  },
+  {
+    "bankId": 1005,
+    "bankName": "HISAR SIRSA KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1006,
+    "bankName": "HOSDURG SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1007,
+    "bankName": "HOSHIARPUR CENTRAL CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1008,
+    "bankName": "THE HOTEL INDUSTRIALISTS COOP BANK LTD"
+  },
+  {
+    "bankId": 1009,
+    "bankName": "HOWRAH GRAMIN BANK"
+  },
+  {
+    "bankId": 101,
+    "bankName": "BANTRA CO-OP BANK LTD,CALCUTTA"
+  },
+  {
+    "bankId": 1010,
+    "bankName": "HUTATMA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 1011,
+    "bankName": "I B M L"
+  },
+  {
+    "bankId": 1012,
+    "bankName": "I U K G BANK"
+  },
+  {
+    "bankId": 1013,
+    "bankName": "IDUKKI DISTRICT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1014,
+    "bankName": "ILAYANGUDI CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1015,
+    "bankName": "INDORE UJJAIN KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1016,
+    "bankName": "INVALID"
+  },
+  {
+    "bankId": 1017,
+    "bankName": "J D C C BANK LIMITED"
+  },
+  {
+    "bankId": 1018,
+    "bankName": "J J S B"
+  },
+  {
+    "bankId": 1019,
+    "bankName": "J V S L PROJECTS TORANAGALLU"
+  },
+  {
+    "bankId": 102,
+    "bankName": "PUNJAB CO-OP BANK LTD,DELHI"
+  },
+  {
+    "bankId": 1020,
+    "bankName": "JABALPUR MAHILA NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1021,
+    "bankName": "JAGRUTI COOP BANK"
+  },
+  {
+    "bankId": 1022,
+    "bankName": "JAI BHAVANI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1023,
+    "bankName": "JAI HIND COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1024,
+    "bankName": "JAIHIND URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1025,
+    "bankName": "JAIPUR THAR GRAMIN BANK"
+  },
+  {
+    "bankId": 1026,
+    "bankName": "JALAUN DISTRICT CO-OPERATIVE LTD"
+  },
+  {
+    "bankId": 1027,
+    "bankName": "JALGAON DISTRICT CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1028,
+    "bankName": "JALGAON MERCANTILE SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1029,
+    "bankName": "JALGAON MERCHANT SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1030,
+    "bankName": "JALGAON PEOPLES CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1031,
+    "bankName": "JALGON JANTA SAHKARI BANK LTD"
+  },
+  {
+    "bankId": 1032,
+    "bankName": "JALNA DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1033,
+    "bankName": "JALNA MERCHANTS COOP BANK LTD"
+  },
+  {
+    "bankId": 1034,
+    "bankName": "JALPAIGURI CENTRAL CO-OPBANK LTD"
+  },
+  {
+    "bankId": 1035,
+    "bankName": "JAMBUSAR PIPLE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1036,
+    "bankName": "JAMNAGAR DISTRICT CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 1037,
+    "bankName": "JAMNAGAR MAHILA SAHAKARI BANK"
+  },
+  {
+    "bankId": 1038,
+    "bankName": "JAMNAGAR PEOPLES CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 1039,
+    "bankName": "JAMNAGAR RAJKOT GRAMIN BANK"
+  },
+  {
+    "bankId": 104,
+    "bankName": "THANE PEOPLES CO-OP BANK LTD,BOMBAY"
+  },
+  {
+    "bankId": 1040,
+    "bankName": "JANESHWAR NAGARIK SAHAKARI BANK MARYADIT"
+  },
+  {
+    "bankId": 1041,
+    "bankName": "JAYSINGPUR UDGAON CO-OP BANK"
+  },
+  {
+    "bankId": 1042,
+    "bankName": "JBC"
+  },
+  {
+    "bankId": 1043,
+    "bankName": "JEEVAN COMMERCIAL CO-OP BANK"
+  },
+  {
+    "bankId": 1044,
+    "bankName": "JHARKHAND GRAMIN BANK"
+  },
+  {
+    "bankId": 1045,
+    "bankName": "JHARNESHWAR NAGRIK SAHAKARI BANK"
+  },
+  {
+    "bankId": 1046,
+    "bankName": "JIAGANJ CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1047,
+    "bankName": "JIJAMATA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1048,
+    "bankName": "JIJAU COMMERCIAL CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1049,
+    "bankName": "JOGINDRA CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1050,
+    "bankName": "JUNAGADH CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1051,
+    "bankName": "JUNAGADH COMMERCIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1052,
+    "bankName": "JUNAGADH DISTRICT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1053,
+    "bankName": "JUNAGADH JILLA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1054,
+    "bankName": "JUNAGADH NAGRIK SAHAKARI BANK PVT LTD"
+  },
+  {
+    "bankId": 1055,
+    "bankName": "JUNAGADH VIBHAGIYA NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1056,
+    "bankName": "JVNS BANK LTD"
+  },
+  {
+    "bankId": 1057,
+    "bankName": "K G D B KANAKADURGA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1058,
+    "bankName": "K G R R BANK"
+  },
+  {
+    "bankId": 1059,
+    "bankName": "KADANAD SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 106,
+    "bankName": "THE MARATHA MANDIR CO-OP BANK LTD,BOMBAY"
+  },
+  {
+    "bankId": 1060,
+    "bankName": "KADUTHURUTHY URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 1061,
+    "bankName": "KAKATHIYA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1062,
+    "bankName": "KALAHANDI ANCHALIKA GRAMYA BANK"
+  },
+  {
+    "bankId": 1063,
+    "bankName": "KALINGA GRAMYA BANK"
+  },
+  {
+    "bankId": 1064,
+    "bankName": "KALLIYOOR SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 1065,
+    "bankName": "KALPATHARU GRAMEENA BANK"
+  },
+  {
+    "bankId": 1066,
+    "bankName": "KAMATHI CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1067,
+    "bankName": "KAMUTHI CO-OP URBAN BANK"
+  },
+  {
+    "bankId": 1068,
+    "bankName": "KANAKA PATTANA SAHAKARA BANK"
+  },
+  {
+    "bankId": 1069,
+    "bankName": "KANAKADURGA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1070,
+    "bankName": "KANCHEEPURAM CENTRAL CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 1071,
+    "bankName": "KANKARIA MANINAGAR SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1072,
+    "bankName": "KANNUR TOWN SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 1073,
+    "bankName": "KAPUR COMMERCIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1074,
+    "bankName": "KAPURTHALA CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 1075,
+    "bankName": "KARNAL CENTRAL CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1076,
+    "bankName": "KARNATAKA CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 1077,
+    "bankName": "KARNATAKA RAJYA KAIGARIKA SAHAKARI BANK"
+  },
+  {
+    "bankId": 1078,
+    "bankName": "KARTHEDOM MARANAVASIA CO-OP SOCIETY LTD"
+  },
+  {
+    "bankId": 1079,
+    "bankName": "KASHIPUR URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1080,
+    "bankName": "KASUNDIA CO-OP BANK"
+  },
+  {
+    "bankId": 1081,
+    "bankName": "KATKOL CO-OP BANK"
+  },
+  {
+    "bankId": 1082,
+    "bankName": "KEDIL SEVA SAHAKARI BANK"
+  },
+  {
+    "bankId": 1083,
+    "bankName": "KEMPEGOWDA PATTANA SAHAKARI BANK NIYAMITHA"
+  },
+  {
+    "bankId": 1084,
+    "bankName": "KHEDA DIST CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1085,
+    "bankName": "KHERALU NAG SAH BANK LTD"
+  },
+  {
+    "bankId": 1086,
+    "bankName": "KISAN GRAMIN BANK"
+  },
+  {
+    "bankId": 1087,
+    "bankName": "KISCO BANK"
+  },
+  {
+    "bankId": 1088,
+    "bankName": "KODAGU DISTRICT CO-OPERATIVE CENTRAL BANK LTD"
+  },
+  {
+    "bankId": 1089,
+    "bankName": "KOKAN MERCANTILE COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1090,
+    "bankName": "KOLAR GRAMEENA BANK"
+  },
+  {
+    "bankId": 1091,
+    "bankName": "KOLHAPUR ZILLA MADHYAVARTI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1092,
+    "bankName": "KOLLOORVILA SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1093,
+    "bankName": "KONKAN PRANT SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1094,
+    "bankName": "KOSHI KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1095,
+    "bankName": "KOTESHWARA SAHAKARI BANK NIYAMITHA"
+  },
+  {
+    "bankId": 1096,
+    "bankName": "KOTTAKKAL CO-OPERATIVE URBAN BANK"
+  },
+  {
+    "bankId": 1097,
+    "bankName": "KOTTAYAM DISTRICT CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1098,
+    "bankName": "KRISHNA BHIMA SAMRUDDHI LOCAL AREA BANK LTD"
+  },
+  {
+    "bankId": 1099,
+    "bankName": "KRISHNAGIRI CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1100,
+    "bankName": "KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1101,
+    "bankName": "KUMACHAL NAGAR SAHKARI BANK LTD"
+  },
+  {
+    "bankId": 1102,
+    "bankName": "KUMARANALLOOR SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 1103,
+    "bankName": "KUMBAKONAM CENTRAL COOPERATIVE BANK"
+  },
+  {
+    "bankId": 1104,
+    "bankName": "KUMBAKONAM MUTUAL BENEFIT FUND LTD"
+  },
+  {
+    "bankId": 1105,
+    "bankName": "KUMBHI KASARI CO-OP BANK"
+  },
+  {
+    "bankId": 1106,
+    "bankName": "KUMBHI KASARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1107,
+    "bankName": "KUNNAMKULAM CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1108,
+    "bankName": "KURMANCHAL NAGAR SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 1109,
+    "bankName": "KUTCH CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1110,
+    "bankName": "KUTCH GRAMIN BANK"
+  },
+  {
+    "bankId": 1111,
+    "bankName": "KUTTIPPURAM SERV COOP BANK"
+  },
+  {
+    "bankId": 1112,
+    "bankName": "L I C EMPLOYEES CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1113,
+    "bankName": "LAKHIMI GAONLIA BANK LTD"
+  },
+  {
+    "bankId": 1114,
+    "bankName": "LALA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1115,
+    "bankName": "LOKNETE DATTAJI PATIL SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 1116,
+    "bankName": "LUCKNOW KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1117,
+    "bankName": "LUCKNOW URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1118,
+    "bankName": "M G BANK"
+  },
+  {
+    "bankId": 1119,
+    "bankName": "M K G BANK"
+  },
+  {
+    "bankId": 1120,
+    "bankName": "M P R S BANK"
+  },
+  {
+    "bankId": 1121,
+    "bankName": "M.P STATE CO.OP BANK LTD."
+  },
+  {
+    "bankId": 1122,
+    "bankName": "M U N S BANK LTD"
+  },
+  {
+    "bankId": 1123,
+    "bankName": "MADHYA BHARAT GRAMIN BANK"
+  },
+  {
+    "bankId": 1124,
+    "bankName": "MADHYA BIHAR GRAMIN BANK"
+  },
+  {
+    "bankId": 1125,
+    "bankName": "MAGADH GRAMIN BANK"
+  },
+  {
+    "bankId": 1126,
+    "bankName": "MAHAJAN BANK"
+  },
+  {
+    "bankId": 1127,
+    "bankName": "MAHAKAUSHAL KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1128,
+    "bankName": "MAHALAXMI PATTANA SOUHARDA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1129,
+    "bankName": "MAHARASHTRA GRAMIN BANK"
+  },
+  {
+    "bankId": 113,
+    "bankName": "GUWAHATI CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1130,
+    "bankName": "MAHILA CO-OP BANK"
+  },
+  {
+    "bankId": 1131,
+    "bankName": "MAHILA URBAN SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1132,
+    "bankName": "MAHILA UTKARSH CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1133,
+    "bankName": "MAHILA UTKARSH NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1134,
+    "bankName": "MAHILA VIKAS CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1135,
+    "bankName": "MAKARPURA COOP BANK LTD"
+  },
+  {
+    "bankId": 1136,
+    "bankName": "MALAD SAHAKARI CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1137,
+    "bankName": "MALAPPURAM DISTRICT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1138,
+    "bankName": "MALAPRABHA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1139,
+    "bankName": "MALDA DISTRICT CENTRAL CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 114,
+    "bankName": "INDUSTRIAL CO-OP BANK LTD,GUWAHATI"
+  },
+  {
+    "bankId": 1140,
+    "bankName": "MALEGAON MERCHANT CO-OP BANK"
+  },
+  {
+    "bankId": 1141,
+    "bankName": "MALKAPUR URBAN CO OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1142,
+    "bankName": "MALLABHUM GRAMIN BANK"
+  },
+  {
+    "bankId": 1143,
+    "bankName": "MALWA GRAMIN BANK"
+  },
+  {
+    "bankId": 1144,
+    "bankName": "MANASSA CO-OP URBAN BANK"
+  },
+  {
+    "bankId": 1145,
+    "bankName": "MANDLA-BALAGHAT KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1146,
+    "bankName": "MANGAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1147,
+    "bankName": "MANINAGAR CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1148,
+    "bankName": "MANIPAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1149,
+    "bankName": "MANJEERA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1150,
+    "bankName": "MANJERI CO-OPERATIVE URBAN BANK LIMITED"
+  },
+  {
+    "bankId": 1151,
+    "bankName": "MANVI PATTANA SOUHARDA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1152,
+    "bankName": "MANWATH URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1153,
+    "bankName": "MARADU SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1154,
+    "bankName": "MARATHA BANK"
+  },
+  {
+    "bankId": 1155,
+    "bankName": "MARATHA CO-OP CREDIT BANK LTD"
+  },
+  {
+    "bankId": 1156,
+    "bankName": "MARATHA CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1157,
+    "bankName": "MARATHA CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1158,
+    "bankName": "MARATHA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 1159,
+    "bankName": "MARATHWADA GRAMIN BANK"
+  },
+  {
+    "bankId": 116,
+    "bankName": "PRAGJYOTISH GAONLYA BANK LTD,GUWAHATI"
+  },
+  {
+    "bankId": 1160,
+    "bankName": "MARKANDEY NAGARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1161,
+    "bankName": "MARLIN BANK"
+  },
+  {
+    "bankId": 1162,
+    "bankName": "MERCANTILE CO-OP BANK"
+  },
+  {
+    "bankId": 1163,
+    "bankName": "MERCHANT COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1164,
+    "bankName": "MIDHAA BANK"
+  },
+  {
+    "bankId": 1165,
+    "bankName": "MILLATH CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1166,
+    "bankName": "MODEL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1167,
+    "bankName": "MORADABAD ZILA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1168,
+    "bankName": "MORBI NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1169,
+    "bankName": "MSD GRAMIN BANK"
+  },
+  {
+    "bankId": 117,
+    "bankName": "ASSAM CO-OP APEX BANK LTD,GUWAHATI"
+  },
+  {
+    "bankId": 1170,
+    "bankName": "MUDADI SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 1171,
+    "bankName": "MUDAVANMUGAL SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 1172,
+    "bankName": "MUNGER KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1173,
+    "bankName": "MURGHRARAJENDRA CO-OP BANK"
+  },
+  {
+    "bankId": 1174,
+    "bankName": "MURSHIDABAD GRAMIN BANK"
+  },
+  {
+    "bankId": 1175,
+    "bankName": "MUZAFFARNAGAR DISTRICT CO-OP BANK"
+  },
+  {
+    "bankId": 1176,
+    "bankName": "MUZAFFARNAGAR KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1177,
+    "bankName": "N K G S B CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 1178,
+    "bankName": "NADIA GRAMIN BANK"
+  },
+  {
+    "bankId": 1179,
+    "bankName": "NAGAPATTINAM URBAN CO-OPERATIVE CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 1180,
+    "bankName": "NAGAR SAHKARI BANK LIMITED"
+  },
+  {
+    "bankId": 1181,
+    "bankName": "NAGARIK SAMABAY BANK LTD"
+  },
+  {
+    "bankId": 1182,
+    "bankName": "NAGARIL JUNAGADH VIBHAG SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1183,
+    "bankName": "NAGARJUNA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1184,
+    "bankName": "NAGAUR ANCHALIK GRAMIN BANK"
+  },
+  {
+    "bankId": 1185,
+    "bankName": "NAGPUR MAHANAGAR PALIKA KARMACHARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1186,
+    "bankName": "NAINITAL ALMORA KSHETREYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1187,
+    "bankName": "NAINITAL BANK LTD"
+  },
+  {
+    "bankId": 1188,
+    "bankName": "NAINITAL DISTRICT CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1189,
+    "bankName": "NAMCO BANK LTD"
+  },
+  {
+    "bankId": 1190,
+    "bankName": "NAMCO NASIK MERCHANT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1191,
+    "bankName": "NANDI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1192,
+    "bankName": "NANDURBAR MERCHANTS CO-OP BANK"
+  },
+  {
+    "bankId": 1193,
+    "bankName": "NARMADA MALWA GRAMIN BANK STATE"
+  },
+  {
+    "bankId": 1194,
+    "bankName": "NARODA INDUSTRIAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1195,
+    "bankName": "NARODA NAGRIK COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1196,
+    "bankName": "NASHIK DISTRICT GIRNA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1197,
+    "bankName": "NASHIK MERCHANT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1198,
+    "bankName": "NASHIK ZILLA SARKARI AND PARI KARMACHI S BANK"
+  },
+  {
+    "bankId": 1199,
+    "bankName": "NATIONAL MERCANTILE CO-OP BANK"
+  },
+  {
+    "bankId": 120,
+    "bankName": "AHMEDABAD PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1200,
+    "bankName": "NAVAL DOCKYARD CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1201,
+    "bankName": "NAVHIND CO-OP CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 1202,
+    "bankName": "NAVJIVAN COMMERCIAL COOP BANK"
+  },
+  {
+    "bankId": 1203,
+    "bankName": "NAVSARJAN INDUSTRIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1204,
+    "bankName": "NAYA NAGAR CO BANK LTD"
+  },
+  {
+    "bankId": 1205,
+    "bankName": "NIRMAL URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1206,
+    "bankName": "NOBLE CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1207,
+    "bankName": "NORTH KANARA GSB COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1208,
+    "bankName": "NORTH MALABAR GRAMIN BANK"
+  },
+  {
+    "bankId": 1209,
+    "bankName": "NUTAN NAGRIK CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1210,
+    "bankName": "PACHORA PEOPLES CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1211,
+    "bankName": "PADMAVATHI CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1212,
+    "bankName": "PALANI CO-OP BANK"
+  },
+  {
+    "bankId": 1213,
+    "bankName": "PALI URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1214,
+    "bankName": "PALLIPURAM SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1215,
+    "bankName": "PANCHKULA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1216,
+    "bankName": "PARAVUR S N V R C BANK"
+  },
+  {
+    "bankId": 1217,
+    "bankName": "PARWANOO URBAN CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1218,
+    "bankName": "PASCHIM BANGA GRAMIN BANK"
+  },
+  {
+    "bankId": 1219,
+    "bankName": "PAVANA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 122,
+    "bankName": "GENERAL CO-OP BANK LTD,AHMEDABAD"
+  },
+  {
+    "bankId": 1220,
+    "bankName": "PAYYOLI CO-OPERATIVE URBAN BANK"
+  },
+  {
+    "bankId": 1221,
+    "bankName": "PINAKINI GRAMEENA BANK"
+  },
+  {
+    "bankId": 1222,
+    "bankName": "PINELANDS DEVELOPMENT CREDIT BANK"
+  },
+  {
+    "bankId": 1223,
+    "bankName": "PITHORAGARH ZILA SAHKARI BANK LTD"
+  },
+  {
+    "bankId": 1224,
+    "bankName": "POTHANICAD FARMERS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1225,
+    "bankName": "PRAGATHI GRAMENA BANK"
+  },
+  {
+    "bankId": 1226,
+    "bankName": "PRATAPGARH KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1227,
+    "bankName": "PRATHAMIKA KRISHI SAHAKARI BANK NI"
+  },
+  {
+    "bankId": 1228,
+    "bankName": "PRAVARA SAHAKARI BANK"
+  },
+  {
+    "bankId": 1229,
+    "bankName": "PRAVARA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 123,
+    "bankName": "GUJRATH INDUSTRIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1230,
+    "bankName": "PRIYADARSHINI NAGARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1231,
+    "bankName": "PRIYADARSHINI URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1232,
+    "bankName": "PUNE CANTONMENT SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1233,
+    "bankName": "PUNE DISTRICT CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1234,
+    "bankName": "PURASAWALKAM CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1235,
+    "bankName": "PURI GRAMEENA BANK"
+  },
+  {
+    "bankId": 1236,
+    "bankName": "PUSAD URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1237,
+    "bankName": "PUTHUPALLY VILLAGE SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1238,
+    "bankName": "R C F AND D BANK"
+  },
+  {
+    "bankId": 1239,
+    "bankName": "R D C C BANK LTD"
+  },
+  {
+    "bankId": 1240,
+    "bankName": "R N S B L"
+  },
+  {
+    "bankId": 1241,
+    "bankName": "R N S BANK"
+  },
+  {
+    "bankId": 1242,
+    "bankName": "R R BANK"
+  },
+  {
+    "bankId": 1243,
+    "bankName": "RAHILA SEEMA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1244,
+    "bankName": "RAICHUR ZILLA MAHILA PATTANA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1245,
+    "bankName": "RAIGAD ZILLA MADHYAVARTI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1246,
+    "bankName": "RAIGARH KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1247,
+    "bankName": "RAIGARH NAGARIK SAHAKARI BANK"
+  },
+  {
+    "bankId": 1248,
+    "bankName": "RAJALAKSHMI NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1249,
+    "bankName": "RAJAPALAYAM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 125,
+    "bankName": "HARISIDDH CO-OP BANK LTD,AHMEDABAD"
+  },
+  {
+    "bankId": 1250,
+    "bankName": "RAJASTHAN GRAMIN BANK"
+  },
+  {
+    "bankId": 1251,
+    "bankName": "RAJGARH SEHORE KSHETRIYA GRAMEEN BANK LTD"
+  },
+  {
+    "bankId": 1252,
+    "bankName": "RAJGURU NAGAR SAHKARI BANK LTD"
+  },
+  {
+    "bankId": 1253,
+    "bankName": "RAJKOT DEVELOPMENT CREDIT BANK"
+  },
+  {
+    "bankId": 1254,
+    "bankName": "RAJKOT NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1255,
+    "bankName": "RAJPIPLA NAGRIK SAHAKARI BANK"
+  },
+  {
+    "bankId": 1256,
+    "bankName": "RAJPUTANA MAHILA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1257,
+    "bankName": "RAJSAMAND URBAN CO-OP. BANK LTD."
+  },
+  {
+    "bankId": 1258,
+    "bankName": "RANCHI KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1259,
+    "bankName": "RANGA REDDY COOP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1260,
+    "bankName": "RANI LAXMI BAI KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1261,
+    "bankName": "RANI LAXMI BAI URBAN COOP BANK LTD"
+  },
+  {
+    "bankId": 1262,
+    "bankName": "RANUJ NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1263,
+    "bankName": "RASIPURAM COOPERATIVE URBAN BANK"
+  },
+  {
+    "bankId": 1264,
+    "bankName": "RATLAM MANDSAUR KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1265,
+    "bankName": "RAYALASEEMA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1266,
+    "bankName": "RCC BANK"
+  },
+  {
+    "bankId": 1267,
+    "bankName": "REPCO BANK LTD"
+  },
+  {
+    "bankId": 1268,
+    "bankName": "S A M M C BANK LTD"
+  },
+  {
+    "bankId": 1269,
+    "bankName": "S B GRAMIN BANK"
+  },
+  {
+    "bankId": 127,
+    "bankName": "MANEKCHOWK CO-OP BANK LTD,AHMEDABAD"
+  },
+  {
+    "bankId": 1270,
+    "bankName": "S B P SOUHARDA SAHAKARI NIYAMITA"
+  },
+  {
+    "bankId": 1271,
+    "bankName": "S C D C C BANK LTD"
+  },
+  {
+    "bankId": 1272,
+    "bankName": "S G GRAMIN BANK"
+  },
+  {
+    "bankId": 1273,
+    "bankName": "S J M CREDIT COOP SOCIETY LTD"
+  },
+  {
+    "bankId": 1274,
+    "bankName": "S K GOLDSMITH INDUSTRIAL CO-OP SOCIETY LTD"
+  },
+  {
+    "bankId": 1275,
+    "bankName": "S K GRAMIN BANK"
+  },
+  {
+    "bankId": 1276,
+    "bankName": "S K P CO-OP BANK"
+  },
+  {
+    "bankId": 1277,
+    "bankName": "S L M CO-OP BANK"
+  },
+  {
+    "bankId": 1278,
+    "bankName": "S M M CO-OP BANK"
+  },
+  {
+    "bankId": 1279,
+    "bankName": "S M THIRUVALLUVAR TOWN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1280,
+    "bankName": "S N V R C BANK"
+  },
+  {
+    "bankId": 1281,
+    "bankName": "S P S S BANK"
+  },
+  {
+    "bankId": 1282,
+    "bankName": "S S J M S BANK LTD"
+  },
+  {
+    "bankId": 1283,
+    "bankName": "S T CO-OP BANK"
+  },
+  {
+    "bankId": 1284,
+    "bankName": "S V C BANK"
+  },
+  {
+    "bankId": 1285,
+    "bankName": "S V GRAMEENA BANK"
+  },
+  {
+    "bankId": 1286,
+    "bankName": "SABARKANTHA DISTRICT CENTRAL COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1287,
+    "bankName": "SABARKANTHA GANDHINAGAR GRAMEEN BANK"
+  },
+  {
+    "bankId": 1288,
+    "bankName": "SACHIN IND. CO-OP. BANK"
+  },
+  {
+    "bankId": 1289,
+    "bankName": "SADALGA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 129,
+    "bankName": "SHRI LAXMI CO-OP BANK LTD,AHMEDABAD"
+  },
+  {
+    "bankId": 1290,
+    "bankName": "SADALGA URBAN SOUHARDA SAHAKARI BANK NIYAMIT"
+  },
+  {
+    "bankId": 1291,
+    "bankName": "SADHANA CO-OP BANK"
+  },
+  {
+    "bankId": 1292,
+    "bankName": "SAGAR GRAMIN BANK"
+  },
+  {
+    "bankId": 1293,
+    "bankName": "SAHAKANTHA JILLA MADHYASTH CO-OP BANK"
+  },
+  {
+    "bankId": 1294,
+    "bankName": "SAHAKARI KENDRIYA BANK"
+  },
+  {
+    "bankId": 1295,
+    "bankName": "SAHARA BANK"
+  },
+  {
+    "bankId": 1296,
+    "bankName": "SAHARA URBAN COOP CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 1297,
+    "bankName": "SAHYADRI GRAMEENA BANK"
+  },
+  {
+    "bankId": 1298,
+    "bankName": "SAHYADRI MAHILA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1299,
+    "bankName": "SAINIK SAHAKARI BANK"
+  },
+  {
+    "bankId": 1300,
+    "bankName": "SAKTHI P A CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1301,
+    "bankName": "SAMBALPUR DIST COOP BANK LTD"
+  },
+  {
+    "bankId": 1302,
+    "bankName": "SAMCO BANK LTD"
+  },
+  {
+    "bankId": 1303,
+    "bankName": "SAMRUDDHI CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1304,
+    "bankName": "SAMYUT KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1305,
+    "bankName": "SANDUR PATTANA SOUHARDA SAHAKARI BANK"
+  },
+  {
+    "bankId": 1306,
+    "bankName": "SANKAKU NAGRIK SAHAKARI BANK"
+  },
+  {
+    "bankId": 1307,
+    "bankName": "SANMITRA MAHILA NAGRIK SAHAKARI BANK MARYADIT"
+  },
+  {
+    "bankId": 1308,
+    "bankName": "SANMITRA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1309,
+    "bankName": "SANTHAL PARGANAS GRAM BANK"
+  },
+  {
+    "bankId": 1310,
+    "bankName": "SANTRAGACHI CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1311,
+    "bankName": "SAPTAGIRI GRAMEENA BANK"
+  },
+  {
+    "bankId": 1312,
+    "bankName": "SARANGPUR CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1313,
+    "bankName": "SARASWATI GRAMIN BANK"
+  },
+  {
+    "bankId": 1314,
+    "bankName": "SARAYU GRAMEENA BANK"
+  },
+  {
+    "bankId": 1315,
+    "bankName": "SARDAR BHILADWALA PARDI PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1316,
+    "bankName": "SARDAR GUNJ MERCANTILE COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1317,
+    "bankName": "SARJERAO DADA NAIK SHIRALA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1318,
+    "bankName": "SARVA U.P GRAMIN BANK"
+  },
+  {
+    "bankId": 1319,
+    "bankName": "SARVODAYA COMMERCIAL CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1320,
+    "bankName": "SATARA JILHA MADHYAVARTI SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 1321,
+    "bankName": "SATPURA BALAGHAT KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1322,
+    "bankName": "SATYASHODHAK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1323,
+    "bankName": "SBBSI"
+  },
+  {
+    "bankId": 1324,
+    "bankName": "SBS LTD"
+  },
+  {
+    "bankId": 1325,
+    "bankName": "SEB ENSKILDA BANKEN"
+  },
+  {
+    "bankId": 1326,
+    "bankName": "SEHORE NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1327,
+    "bankName": "SERVICE COOPERATIVE BANK"
+  },
+  {
+    "bankId": 1328,
+    "bankName": "SEVALIA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1329,
+    "bankName": "SEVEN HILLS CO-OP URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 133,
+    "bankName": "AHMEDABAD URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1330,
+    "bankName": "SGRLPSSN BANK"
+  },
+  {
+    "bankId": 1331,
+    "bankName": "SHANKAR NAGARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1332,
+    "bankName": "SHANKHA NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1333,
+    "bankName": "SHARDA GRAMIN BANK"
+  },
+  {
+    "bankId": 1334,
+    "bankName": "SHEKHAWATI GRAMIN BANK"
+  },
+  {
+    "bankId": 1335,
+    "bankName": "SHENDA GRAMIN BANK"
+  },
+  {
+    "bankId": 1336,
+    "bankName": "SHETKARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1337,
+    "bankName": "SHIBLI BANK"
+  },
+  {
+    "bankId": 1338,
+    "bankName": "SHIKSHAK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1339,
+    "bankName": "SHIVA CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1340,
+    "bankName": "SHIVA SAHAKARI BANK NIYAMITHA"
+  },
+  {
+    "bankId": 1341,
+    "bankName": "SHIVAJIRAO BHOSALE SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1342,
+    "bankName": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1343,
+    "bankName": "SHREE BALAJI URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1344,
+    "bankName": "SHREE BARIA NAGRIK SAHAKARI BANK"
+  },
+  {
+    "bankId": 1345,
+    "bankName": "SHREE BASAVESHWAR URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 1346,
+    "bankName": "SHREE BHAILALBHAI CONTRACTOR SMARAK CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1347,
+    "bankName": "SHREE CHANDRAPRABHU URBAN COOP CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 1348,
+    "bankName": "SHREE CHHANI NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1349,
+    "bankName": "SHREE DEESA NAGARIK SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 1350,
+    "bankName": "SHREE GAJANAN LOKSEVA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1351,
+    "bankName": "SHREE GAJANAN URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1352,
+    "bankName": "SHREE KADI NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1353,
+    "bankName": "SHREE MAHALAXMI MERCANTILE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1354,
+    "bankName": "SHREE MAHALAXMI URBAN COOPERATIVE CREDIT BANK LTD"
+  },
+  {
+    "bankId": 1355,
+    "bankName": "SHREE MAHAVIR SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1356,
+    "bankName": "SHREE MAHUVA NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1357,
+    "bankName": "SHREE MURUGHARAJENDRA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1358,
+    "bankName": "SHREE RAMA CREDIT CO-OP SOCIETY"
+  },
+  {
+    "bankId": 1359,
+    "bankName": "SHREE RENUKA URBAN CO-OP CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 1360,
+    "bankName": "SHREE SAMARTH CO-OP BANK"
+  },
+  {
+    "bankId": 1361,
+    "bankName": "SHREE SIDDHIVINAYAK NAGARI SAH BANK LTD"
+  },
+  {
+    "bankId": 1362,
+    "bankName": "SHREE WARANA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1363,
+    "bankName": "SHREE YUGPRABHAVA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1364,
+    "bankName": "SHREENATH CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1365,
+    "bankName": "SHREYAS GRAMIN BANK"
+  },
+  {
+    "bankId": 1366,
+    "bankName": "SHRI ANAND NAGAR SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1367,
+    "bankName": "SHRI ARIHANT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1368,
+    "bankName": "SHRI BASAVESHWAR CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1369,
+    "bankName": "SHRI BASAVESHWAR SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 137,
+    "bankName": "CITI CO-OP BANK LTD,AHMEDABAD"
+  },
+  {
+    "bankId": 1370,
+    "bankName": "SHRI BEERESHWARA SOUHARD CREDIT SAHAKARI LTD"
+  },
+  {
+    "bankId": 1371,
+    "bankName": "SHRI BRAHMANAND CREDIT SOUHARDA SAHAKARI NIYAMIT"
+  },
+  {
+    "bankId": 1372,
+    "bankName": "SHRI CHHATRAPATI SHIVAJI URBAN CO-OP CREDIT SOC LTD"
+  },
+  {
+    "bankId": 1373,
+    "bankName": "SHRI DADASAHEB GAJMAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1374,
+    "bankName": "SHRI DEERESHWAR SOUHARD CREDIT SAHAKARI LTD"
+  },
+  {
+    "bankId": 1375,
+    "bankName": "SHRI HARIHARESHWAR URBAN COOP BANK LTD"
+  },
+  {
+    "bankId": 1376,
+    "bankName": "SHRI KANYAKA NAGARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1377,
+    "bankName": "SHRI LAXMI CREDIT SOUHARDA SAHAKARI NIYAMIT"
+  },
+  {
+    "bankId": 1378,
+    "bankName": "SHRI MAHANT SHIBANAGI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1379,
+    "bankName": "SHRI MAHARANA PRATAP CO OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1380,
+    "bankName": "SHRI MAHILA SEWA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1381,
+    "bankName": "SHRI PARSHWANATH SAHAKARA BANK NIYAMITHA"
+  },
+  {
+    "bankId": 1382,
+    "bankName": "SHRI S S CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1383,
+    "bankName": "SHRI SATYAVIJAY SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1384,
+    "bankName": "SHRI SHAILA CO-OP SOCIETY BANK"
+  },
+  {
+    "bankId": 1385,
+    "bankName": "SHRI SHANTAPPA MIRJI URBAN COOP BANK LTD"
+  },
+  {
+    "bankId": 1386,
+    "bankName": "SHRI SHARANAVEERESHWAR SAHAKARI BANK NIYAMIT"
+  },
+  {
+    "bankId": 1387,
+    "bankName": "SHRI SIDDHESHWAR CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1388,
+    "bankName": "SHRI SIDDHI VENKATESH SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 1389,
+    "bankName": "SHRI TUKARAM CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1390,
+    "bankName": "SHRI VYAS DHANVARSHA HSA BANK LTD"
+  },
+  {
+    "bankId": 1391,
+    "bankName": "SIDDAGANGA URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1392,
+    "bankName": "SIDDHA RAGHAVA SOUHARDA SAHAKARA BANK NIYAMITHA"
+  },
+  {
+    "bankId": 1393,
+    "bankName": "SIDDHI CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1394,
+    "bankName": "SIHOR MERCANTILE CO-OP BANK"
+  },
+  {
+    "bankId": 1395,
+    "bankName": "SIKAR KENDRIYA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1396,
+    "bankName": "SINDHANUR URBAN CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1397,
+    "bankName": "SINDHANUR URBAN SOUHARDA COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1398,
+    "bankName": "SINDHUDURG DISTRICT CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 1399,
+    "bankName": "SIRA TALUK SRI KANAKA CO-OP CREDIT SOC LTD"
+  },
+  {
+    "bankId": 140,
+    "bankName": "PRAGATI CO-OP BANK LTD,AHMEDABAD"
+  },
+  {
+    "bankId": 1400,
+    "bankName": "SIRSA CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 1401,
+    "bankName": "SIRSI URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1402,
+    "bankName": "SIWAN KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1403,
+    "bankName": "SKPC BANK"
+  },
+  {
+    "bankId": 1404,
+    "bankName": "SLN CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1405,
+    "bankName": "SMM CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1406,
+    "bankName": "SMRITI NAGAR SAHAKARI BANK MARYADIT"
+  },
+  {
+    "bankId": 1407,
+    "bankName": "SNEHA SAGAR SOUHARDA CO-OP BANK"
+  },
+  {
+    "bankId": 1408,
+    "bankName": "SOLAIMANI COOP BANK LTD"
+  },
+  {
+    "bankId": 1409,
+    "bankName": "SOPANKAKA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1410,
+    "bankName": "SOURASHTRA CO-OP BANK"
+  },
+  {
+    "bankId": 1411,
+    "bankName": "SOUTH ARCOT DIST CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 1412,
+    "bankName": "SPS BANK"
+  },
+  {
+    "bankId": 1413,
+    "bankName": "SRAVASTI GRAMIN BANK"
+  },
+  {
+    "bankId": 1414,
+    "bankName": "SREE ANANTHA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1415,
+    "bankName": "SREE ANJANEYA COOP BANK LTD"
+  },
+  {
+    "bankId": 1416,
+    "bankName": "SREE BANASHANKARI MAHILA CO-OP BANK"
+  },
+  {
+    "bankId": 1417,
+    "bankName": "SREECHARAN SOUHARDA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1418,
+    "bankName": "SREENIDHI SOUHARDA SAHAKARI BANK NIYAMITHA"
+  },
+  {
+    "bankId": 1419,
+    "bankName": "SRI ANANTAPUR GRAMIN BANK"
+  },
+  {
+    "bankId": 1420,
+    "bankName": "SRI BHRAMARAMBA PATTINA SHARADA SAHAKARI NYAMITA"
+  },
+  {
+    "bankId": 1421,
+    "bankName": "SRI CHANNABASAVA SWAMY URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1422,
+    "bankName": "SRI GANAPATHI URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1423,
+    "bankName": "SRI GANESH CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1424,
+    "bankName": "SRI GURU RAGHAVENDRA SAHAKARA BANK NIYAMITHA"
+  },
+  {
+    "bankId": 1425,
+    "bankName": "SRI GURU VAPPATHINA SWAMY BANK"
+  },
+  {
+    "bankId": 1426,
+    "bankName": "SRI KANYAKA PARAMESWARI CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1427,
+    "bankName": "SRI LAKSHMI NARAYANA CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1428,
+    "bankName": "SRI MAHAYOGI LAKSHMAMMA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1429,
+    "bankName": "SRI MALLIKARJUNA PATTANA SAHAKARI BANK"
+  },
+  {
+    "bankId": 1430,
+    "bankName": "SRI RAMA CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 1431,
+    "bankName": "SRI RAMA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1432,
+    "bankName": "SRI RAMA KRISHNA CREDIT CO-OP BANK"
+  },
+  {
+    "bankId": 1433,
+    "bankName": "SRI RAMA NAGAR PATTANA SAHAKARA BANK NIYAMITA"
+  },
+  {
+    "bankId": 1434,
+    "bankName": "SRI RAMKRISHNAPUR CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1435,
+    "bankName": "SRI SATHAVAHANA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1436,
+    "bankName": "SRI SHARDA MAHILA CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1437,
+    "bankName": "SRI SRI SHILA CREDIT CO-OPERATIVE SOCIETY LIMITED"
+  },
+  {
+    "bankId": 1438,
+    "bankName": "SRI SUDHA CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1439,
+    "bankName": "SRI VENKATESWARA GRAMEENA BANK"
+  },
+  {
+    "bankId": 144,
+    "bankName": "HYDERABAD DIST.CO-OP CENTRAL BANK LTD"
+  },
+  {
+    "bankId": 1440,
+    "bankName": "SRIGANGANAGAR CHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1441,
+    "bankName": "SRIMATHA MAHILA SAHAKARI BANK NIYAMITHA"
+  },
+  {
+    "bankId": 1442,
+    "bankName": "STATE BANK OF BARODA"
+  },
+  {
+    "bankId": 1443,
+    "bankName": "STATE BANK OF MAHARASHTRA"
+  },
+  {
+    "bankId": 1444,
+    "bankName": "STATE BANK OF PONDY"
+  },
+  {
+    "bankId": 1445,
+    "bankName": "STATE BANK OF RAJASTHAN LTD"
+  },
+  {
+    "bankId": 1446,
+    "bankName": "STATE BANK OF SIKKIM"
+  },
+  {
+    "bankId": 1447,
+    "bankName": "STATE BANK OF TALASARI"
+  },
+  {
+    "bankId": 1448,
+    "bankName": "SUCO BANK LTD"
+  },
+  {
+    "bankId": 1449,
+    "bankName": "SULTANPUR KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 145,
+    "bankName": "VASAVI CO-OP URBAN BANK LTD,HYDERABAD"
+  },
+  {
+    "bankId": 1450,
+    "bankName": "SURAT BHARUCH GRAMIN BANK"
+  },
+  {
+    "bankId": 1451,
+    "bankName": "SURENDRANAGAR BHAVNAGAR GRAMIN BANK LTD"
+  },
+  {
+    "bankId": 1452,
+    "bankName": "SURI MAYURAKSHI GRAMIN BANK"
+  },
+  {
+    "bankId": 1453,
+    "bankName": "SUSCO"
+  },
+  {
+    "bankId": 1454,
+    "bankName": "SUSHIL KUMAR NAHATA URBAN CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1455,
+    "bankName": "SUVAM S BANK"
+  },
+  {
+    "bankId": 1456,
+    "bankName": "SUVARNA COOPERATIVE CREDIT SOCIETY LIMITED"
+  },
+  {
+    "bankId": 1457,
+    "bankName": "SV GRAMEENA BANK"
+  },
+  {
+    "bankId": 1458,
+    "bankName": "SVC CO-OP BANK"
+  },
+  {
+    "bankId": 1459,
+    "bankName": "SWARNA BHARATHI SAHAKARI BANK NIYAMITHA"
+  },
+  {
+    "bankId": 146,
+    "bankName": "KARNATAKA STATE CO-OP APEX BANK LTD,BANGLORE"
+  },
+  {
+    "bankId": 1460,
+    "bankName": "T A P C M S LTD"
+  },
+  {
+    "bankId": 1461,
+    "bankName": "T D C C BANK LTD"
+  },
+  {
+    "bankId": 1462,
+    "bankName": "T G BANK"
+  },
+  {
+    "bankId": 1463,
+    "bankName": "T G M C BANK LTD"
+  },
+  {
+    "bankId": 1464,
+    "bankName": "T N B BANK"
+  },
+  {
+    "bankId": 1465,
+    "bankName": "T O B"
+  },
+  {
+    "bankId": 1466,
+    "bankName": "T V F S COOP BANK LTD"
+  },
+  {
+    "bankId": 1467,
+    "bankName": "TAMEER CO-OPERATIVE CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 1468,
+    "bankName": "TANJORE CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1469,
+    "bankName": "TARGO BANK"
+  },
+  {
+    "bankId": 147,
+    "bankName": "MADHUPURA MERC.CO-OP BANK LTD,AHMEDABAD"
+  },
+  {
+    "bankId": 1470,
+    "bankName": "TARN TARAN CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 1471,
+    "bankName": "TELLICHERRY CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1472,
+    "bankName": "THALASSERY CO-OP URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1473,
+    "bankName": "THANE GRAMIN BANK LTD"
+  },
+  {
+    "bankId": 1474,
+    "bankName": "THE A D C CO-OP BANK"
+  },
+  {
+    "bankId": 1475,
+    "bankName": "THE ADARSH CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1476,
+    "bankName": "THE ADHYAPAKA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1477,
+    "bankName": "THE ADOOR CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1478,
+    "bankName": "THE ALATHUR SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1479,
+    "bankName": "THE ALNAVAR URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 148,
+    "bankName": "BANK OF CR. AND COMM.INTERNL.(OVERSEAS)LTD,BOMBAY"
+  },
+  {
+    "bankId": 1480,
+    "bankName": "THE AMBALA CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1481,
+    "bankName": "THE AMBALAVAYAL SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1482,
+    "bankName": "THE AMOD NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1483,
+    "bankName": "THE AMRAVATI DIST CENTRAL SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1484,
+    "bankName": "THE AMRAVATI JILHA MADHYAVARTI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1485,
+    "bankName": "THE AMRAVATI PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1486,
+    "bankName": "THE ANCHAL SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 1487,
+    "bankName": "THE ANDHRA BANK FARMERS SERVICE CO-OP SOCIETY LTD"
+  },
+  {
+    "bankId": 1488,
+    "bankName": "THE ANGEL UCC BANK"
+  },
+  {
+    "bankId": 1489,
+    "bankName": "THE AP M C V B LTD"
+  },
+  {
+    "bankId": 1490,
+    "bankName": "THE APNA CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1491,
+    "bankName": "THE ARACKAL SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1492,
+    "bankName": "THE ARAKONNAM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1493,
+    "bankName": "THE ARAKULAM FARMERS SERVICE CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1494,
+    "bankName": "THE ARYAPURAM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1495,
+    "bankName": "THE B D C C BANK"
+  },
+  {
+    "bankId": 1496,
+    "bankName": "THE B KOMARAPALAYAM COOPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1497,
+    "bankName": "THE BADAGABETTU COOP SOCIETY LTD"
+  },
+  {
+    "bankId": 1498,
+    "bankName": "THE BAIDYABATI SHEORAPHULI COOP BANK LTD"
+  },
+  {
+    "bankId": 1499,
+    "bankName": "THE BAILHONGAL MERCHANTS CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1500,
+    "bankName": "THE BANGALORE CITY CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1501,
+    "bankName": "THE BAPUNAGAR MAHILA COOP BANK LTD"
+  },
+  {
+    "bankId": 1502,
+    "bankName": "THE BARAMATI URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1503,
+    "bankName": "THE BATHINDA CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1504,
+    "bankName": "THE BEGUSARAI CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1505,
+    "bankName": "THE BELGAUM CATHOLIC CO-OP BANK"
+  },
+  {
+    "bankId": 1506,
+    "bankName": "THE BELGAUM DIST CENTRALCOOPERATIVE BANK"
+  },
+  {
+    "bankId": 1507,
+    "bankName": "THE BELGAUM PIONEER URBAN CO-OP CREDIT BANK LTD"
+  },
+  {
+    "bankId": 1508,
+    "bankName": "THE BELGAUM ZILLA KENDRIYA SAHAKARI BANK NIYAMIT"
+  },
+  {
+    "bankId": 1509,
+    "bankName": "THE BELGAUM ZILLA RANI CHANNAMMA MAH SAH BANK"
+  },
+  {
+    "bankId": 151,
+    "bankName": "CALYON BANK , BOMBAY"
+  },
+  {
+    "bankId": 1510,
+    "bankName": "THE BELLAD BAGEWADI URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1511,
+    "bankName": "THE BELLAMPALLY CO-OPERATIVE URBAN BANK"
+  },
+  {
+    "bankId": 1512,
+    "bankName": "THE BENGAL DIST CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1513,
+    "bankName": "THE BERHAMPORE CO-OPERATIVE CENTRAL BANK LTD"
+  },
+  {
+    "bankId": 1514,
+    "bankName": "THE BGM DT REVENUE EMPLOYEE CO-OP BANK"
+  },
+  {
+    "bankId": 1515,
+    "bankName": "THE BHAGALPUR CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1516,
+    "bankName": "THE BHAGYALAKSHMI MAHILA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1517,
+    "bankName": "THE BHARUCH SAHAKARI NAGRIK BANK LTD"
+  },
+  {
+    "bankId": 1518,
+    "bankName": "THE BHAVANI KUDAL CO-OP URBAN BANK"
+  },
+  {
+    "bankId": 1519,
+    "bankName": "THE BHAVASAR KSHATRIYA CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 152,
+    "bankName": "ANYONYA SAH.MANDALI CO-OP BANK LTD,BARODA"
+  },
+  {
+    "bankId": 1520,
+    "bankName": "THE BIHAR AWAMI CO-OP BANK"
+  },
+  {
+    "bankId": 1521,
+    "bankName": "THE BIRBHUM DISTRICT CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1522,
+    "bankName": "THE BODELI URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1523,
+    "bankName": "THE BOLANGIR DIST CENTRAL COOP BANK LTD"
+  },
+  {
+    "bankId": 1524,
+    "bankName": "THE BROACH DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1525,
+    "bankName": "THE BUCHIREDDY PALEM CO-OP RURAL BANK LTD"
+  },
+  {
+    "bankId": 1526,
+    "bankName": "THE BULDHANA DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1527,
+    "bankName": "THE BURDWAN CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1528,
+    "bankName": "THE C K P CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1529,
+    "bankName": "THE CANNANORE DISTRICT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1530,
+    "bankName": "THE CARDAMOM MERCHANTS CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1531,
+    "bankName": "THE CATHOLIC CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1532,
+    "bankName": "THE CENTRAL RITU SEVA SAHAKARI SANGAM"
+  },
+  {
+    "bankId": 1533,
+    "bankName": "THE CHANASMA NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1534,
+    "bankName": "THE CHANDRAPUR DIST CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1535,
+    "bankName": "THE CHENNIMALAI CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1536,
+    "bankName": "THE CHERPALCHERY CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1537,
+    "bankName": "THE CHITRADURGA DIST CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1538,
+    "bankName": "THE CHOPRA PEOPLES COOP BANK LTD"
+  },
+  {
+    "bankId": 1539,
+    "bankName": "THE CKP CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 154,
+    "bankName": "BARODA TRADERS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1540,
+    "bankName": "THE COASTAL URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1541,
+    "bankName": "THE COMPTROLLERS OFFICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1542,
+    "bankName": "THE COONOOR CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1543,
+    "bankName": "THE COOPERATIVE TOWN BANK LTD"
+  },
+  {
+    "bankId": 1544,
+    "bankName": "THE CUDDAPAH DISTRICT COOPERATIVE CENTRAL BANK LTD"
+  },
+  {
+    "bankId": 1545,
+    "bankName": "THE DAKOR NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1546,
+    "bankName": "THE DECCAN URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1547,
+    "bankName": "THE DEOLA MERCHANTS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1548,
+    "bankName": "THE DHANBAD CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1549,
+    "bankName": "THE DHARAPURAM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 155,
+    "bankName": "BARODA PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1550,
+    "bankName": "THE DHARMADAM SERVICE COOP BANK LTD"
+  },
+  {
+    "bankId": 1551,
+    "bankName": "THE DULIYA DISTRICT CO-OP BANK"
+  },
+  {
+    "bankId": 1552,
+    "bankName": "THE DWARKADAS MANTRI NAGARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1553,
+    "bankName": "THE ELIKULAM SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1554,
+    "bankName": "THE FAIL MERCANTILE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1555,
+    "bankName": "THE FAZILKA CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1556,
+    "bankName": "THE GADHINGLAJ URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1557,
+    "bankName": "THE GANDEVI PEOPLES CO-OP BANK"
+  },
+  {
+    "bankId": 1558,
+    "bankName": "THE GANDHI NAGAR URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1559,
+    "bankName": "THE GANDHINAGAR NAGRIK CO-OP BANK"
+  },
+  {
+    "bankId": 1560,
+    "bankName": "THE GAUHATI CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1561,
+    "bankName": "THE GI NAGAR NAGRIK CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1562,
+    "bankName": "THE GODHRA CITY CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1563,
+    "bankName": "THE GOKAK URBAN CO-OPERATIVE CREDIT BANK LTD"
+  },
+  {
+    "bankId": 1564,
+    "bankName": "THE GOVERNMENT EMPLOYEES CO-OP BANK"
+  },
+  {
+    "bankId": 1565,
+    "bankName": "THE GOVERNMENT SERVANTS COOP BANK LTD"
+  },
+  {
+    "bankId": 1566,
+    "bankName": "THE GPR CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1567,
+    "bankName": "THE GURGAON CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1568,
+    "bankName": "THE GURUVAYOOR CO-OP URBAN BANK"
+  },
+  {
+    "bankId": 1569,
+    "bankName": "THE HALOL MERC CO-OP BANK LTD"
+  },
+  {
+    "bankId": 157,
+    "bankName": "CO-OPERATIVE BANK BARODA LTD"
+  },
+  {
+    "bankId": 1570,
+    "bankName": "THE HASTI COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1571,
+    "bankName": "THE HAVERI URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1572,
+    "bankName": "THE HIREKERUR URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1573,
+    "bankName": "THE HISAR DIST CENTRAL COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1574,
+    "bankName": "THE HONAVAR URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1575,
+    "bankName": "THE HOOGHLY CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1576,
+    "bankName": "THE HOOGHLY CO-OP CREDIT BANK LTD"
+  },
+  {
+    "bankId": 1577,
+    "bankName": "THE HOSPET CO-OP CITY BANK"
+  },
+  {
+    "bankId": 1578,
+    "bankName": "THE HUBLI URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1579,
+    "bankName": "THE ILKAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1580,
+    "bankName": "THE INCHAKUNDU SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1581,
+    "bankName": "THE INNESPETA CO-OPERATIVE URBAN BANK LIMITED"
+  },
+  {
+    "bankId": 1582,
+    "bankName": "THE IRINJALAKUDA TOWN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1583,
+    "bankName": "THE JALNA DIST SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1584,
+    "bankName": "THE JALNA PEOPLES CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1585,
+    "bankName": "THE JALNA ZILLA MADHYAVARTI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1586,
+    "bankName": "THE JAOLI SAHAKARI BANK"
+  },
+  {
+    "bankId": 1587,
+    "bankName": "THE JILLA DISTRICT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1588,
+    "bankName": "THE K D C C BANK LTD"
+  },
+  {
+    "bankId": 1589,
+    "bankName": "THE KAKINADA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 159,
+    "bankName": "MAKARPURA INDL.EST.CO-OP BANK LTD,BARODA"
+  },
+  {
+    "bankId": 1590,
+    "bankName": "THE KAKINADA CO-OPERATIVE TOWN BANK LTD"
+  },
+  {
+    "bankId": 1591,
+    "bankName": "THE KAKINADA COMMERCIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1592,
+    "bankName": "THE KALAKKODU SERVICE CO-OPERATIVE SOCIETY"
+  },
+  {
+    "bankId": 1593,
+    "bankName": "THE KALUPUR COMMERCIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1594,
+    "bankName": "THE KALUPUR COMMERCIAL COOP BANK LTD"
+  },
+  {
+    "bankId": 1595,
+    "bankName": "THE KAMADHENU SEVA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1596,
+    "bankName": "THE KAMARAJAR DIST CENTRAL COOP BANK LTD"
+  },
+  {
+    "bankId": 1597,
+    "bankName": "THE KANGRA CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1598,
+    "bankName": "THE KANNUR DISTRICT CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1599,
+    "bankName": "THE KAPADWANJ PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1600,
+    "bankName": "THE KAPOL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1601,
+    "bankName": "THE KARAD URBAN BANK CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1602,
+    "bankName": "THE KARAIKUDI CO-OP TOWN BANK LTD"
+  },
+  {
+    "bankId": 1603,
+    "bankName": "THE KARIMANNOOR SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1604,
+    "bankName": "THE KARIMNAGAR COOPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1605,
+    "bankName": "THE KARJAN NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1606,
+    "bankName": "THE KARNA DIDTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1607,
+    "bankName": "THE KARUNAGAPPALLY SERVICE CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 1608,
+    "bankName": "THE KARUR TOWN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1609,
+    "bankName": "THE KARUVANNUR SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 161,
+    "bankName": "VEPAR VIKAS CO-OP BANK LTD,BARODA"
+  },
+  {
+    "bankId": 1610,
+    "bankName": "THE KASARAGOD CO-OPERATIVE TOWN BANK LTD"
+  },
+  {
+    "bankId": 1611,
+    "bankName": "THE KAUJALGI URBAN COOPERATIVE CREDIT BANK LTD"
+  },
+  {
+    "bankId": 1612,
+    "bankName": "THE KENDRAPARA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1613,
+    "bankName": "THE KEONJHAR CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1614,
+    "bankName": "NAGPUR NAGARIK SAHAKARI BANK"
+  },
+  {
+    "bankId": 1615,
+    "bankName": "THE KHAMGAON URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1616,
+    "bankName": "THE KHATTRI CO-OP URBAN BANK"
+  },
+  {
+    "bankId": 1617,
+    "bankName": "THE KIDANGOOR SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1618,
+    "bankName": "THE KIZHATHADIYOOR SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1619,
+    "bankName": "THE KODIYERI SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 162,
+    "bankName": "BARODA DIST.INDL.CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1620,
+    "bankName": "THE KODUR SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1621,
+    "bankName": "THE KOLLAM DISTRICT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1622,
+    "bankName": "THE KOPARGAON PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1623,
+    "bankName": "THE KORAPUT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1624,
+    "bankName": "THE KOTACHERY SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1625,
+    "bankName": "THE KOUJALGI URBAN CO-OP CREDIT BANK LTD"
+  },
+  {
+    "bankId": 1626,
+    "bankName": "THE KOVILPATTI CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1627,
+    "bankName": "THE KOYLANCHAL URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1628,
+    "bankName": "THE KRANTI CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1629,
+    "bankName": "THE KUDAMALOOR SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 163,
+    "bankName": "PATNI CO-OP BANK LTD,BARODA"
+  },
+  {
+    "bankId": 1630,
+    "bankName": "THE KUNBI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1631,
+    "bankName": "THE KURUKSHETRA CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1632,
+    "bankName": "THE KUTTALAM COOP RURAL BANK LTD"
+  },
+  {
+    "bankId": 1633,
+    "bankName": "THE KUZHUPILLY SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1634,
+    "bankName": "THE M M CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1635,
+    "bankName": "THE MACHILIPATNAM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1636,
+    "bankName": "THE MALAD SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1637,
+    "bankName": "THE MALGUDI CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1638,
+    "bankName": "THE MANANJE VYAVASAYA SEVA SAHAKARI NIYAMITA"
+  },
+  {
+    "bankId": 1639,
+    "bankName": "THE MANAPPARAI TOWN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1640,
+    "bankName": "THE MANDYA DIST CO-OP CENTRAL BANK"
+  },
+  {
+    "bankId": 1641,
+    "bankName": "THE MANNANAM SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1642,
+    "bankName": "THE MANSA NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1643,
+    "bankName": "THE MARGAO URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1644,
+    "bankName": "THE MASHARPURA MERC CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1645,
+    "bankName": "THE MATTANCHERRY MAHAJANIK URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1646,
+    "bankName": "THE MATTANCHERRY SARVAJANIK CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1647,
+    "bankName": "THE MATTANUR CO-OP RURAL BANK"
+  },
+  {
+    "bankId": 1648,
+    "bankName": "THE MAW NAGAR CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1649,
+    "bankName": "THE MAYYANAD SERVICE COOP BANK LTD"
+  },
+  {
+    "bankId": 165,
+    "bankName": "THE MUSLIM CO-OP BANK LTD,PUNE"
+  },
+  {
+    "bankId": 1650,
+    "bankName": "THE MDCC BANK LTD"
+  },
+  {
+    "bankId": 1651,
+    "bankName": "THE MEDINA CO-OP CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 1652,
+    "bankName": "THE MEENACHIL EAST URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1653,
+    "bankName": "THE MEHMADAVAD URBAN PEOPLES CO-OP BANK"
+  },
+  {
+    "bankId": 1654,
+    "bankName": "THE MEHSANA J P KARMA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1655,
+    "bankName": "THE MEHSANA MAHILA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1656,
+    "bankName": "THE MEHSANA NAGARIK SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 1657,
+    "bankName": "THE MERCANTILE CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 1658,
+    "bankName": "THE MERCHANTS CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1659,
+    "bankName": "THE MERCHANTS LIBERAL BANK"
+  },
+  {
+    "bankId": 1660,
+    "bankName": "THE MERCHANTS SOUHARDA SAHAKARA BANK NIYAMITA"
+  },
+  {
+    "bankId": 1661,
+    "bankName": "THE MERCHANTS URBAN CO-OPERATIVE LTD"
+  },
+  {
+    "bankId": 1662,
+    "bankName": "THE METTUPALAYAM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1663,
+    "bankName": "THE METTUR CHEMICALS EMPLOYEES CO-OP SOC LTD"
+  },
+  {
+    "bankId": 1664,
+    "bankName": "THE MIRAJ URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1665,
+    "bankName": "THE MIRZAPUR URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1666,
+    "bankName": "THE MORAZHA KALLIASSERI SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1667,
+    "bankName": "THE MSCM CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1668,
+    "bankName": "THE MTM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1669,
+    "bankName": "THE MUDALGI CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1670,
+    "bankName": "THE MUDALGI URBAN CO-OPERATIVE CREDIT BANK LTD"
+  },
+  {
+    "bankId": 1671,
+    "bankName": "THE MUDHOL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1672,
+    "bankName": "THE MUGBERIA CENTRAL COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1673,
+    "bankName": "THE MULGUND URBAN SOUHARDA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1674,
+    "bankName": "THE MUNDUR SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 1675,
+    "bankName": "THE MURICKASSERY SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 1676,
+    "bankName": "THE MURSHIDABAD DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1677,
+    "bankName": "THE MUVATTUPUZHA URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 1678,
+    "bankName": "THE MYNAGAPPALLY VILLAGE SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1679,
+    "bankName": "THE MYSORE DISTRICT CO-OP CENTRAL BANK"
+  },
+  {
+    "bankId": 1680,
+    "bankName": "THE NADAKKAL SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1681,
+    "bankName": "THE NADIA CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1682,
+    "bankName": "THE NADIAD PEOPLE CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1683,
+    "bankName": "THE NAMAKKAL CO OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1684,
+    "bankName": "THE NASIK LINE PHARMACEUTICALS LTD"
+  },
+  {
+    "bankId": 1685,
+    "bankName": "THE NAVODAYA URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1686,
+    "bankName": "THE NAWANSHAHR CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1687,
+    "bankName": "THE NEHRU NAGAR CO-OP BANK"
+  },
+  {
+    "bankId": 1688,
+    "bankName": "THE NELLAI NAGAR CO-OPERATIVE URBAN BANK LIMITED"
+  },
+  {
+    "bankId": 1689,
+    "bankName": "THE NESARGI URBAN CO-OPERATIVE CREDIT BANK LIMITED"
+  },
+  {
+    "bankId": 169,
+    "bankName": "RUPEE CO-OP BANK LTD,PUNE"
+  },
+  {
+    "bankId": 1690,
+    "bankName": "THE NICHOLSON CO-OP TOWN BANK LTD"
+  },
+  {
+    "bankId": 1691,
+    "bankName": "THE NILESHWAR SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1692,
+    "bankName": "THE NILGIRIS DISTRICT CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 1693,
+    "bankName": "THE NIPHAD URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1694,
+    "bankName": "THE NIZAMABAD DISTRICT CO-OP CENTRAL BANK LTD"
+  },
+  {
+    "bankId": 1695,
+    "bankName": "THE NKGSB COOP BANK LTD"
+  },
+  {
+    "bankId": 1696,
+    "bankName": "THE NMC BANK LTD"
+  },
+  {
+    "bankId": 1697,
+    "bankName": "THE NORTH ARCOT DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1698,
+    "bankName": "THE NRDV BANK LTD"
+  },
+  {
+    "bankId": 1699,
+    "bankName": "THE ODE URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 170,
+    "bankName": "SHREE SUVARNA SAH.BANK LTD,PUNE"
+  },
+  {
+    "bankId": 1700,
+    "bankName": "THE ORIENTAL WESTERN BANK LTD"
+  },
+  {
+    "bankId": 1701,
+    "bankName": "THE ORISSA STATE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1702,
+    "bankName": "THE PACHHAPUR URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1703,
+    "bankName": "THE PALGHAT CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1704,
+    "bankName": "THE PALI CENTRAL COOP BANK LTD"
+  },
+  {
+    "bankId": 1705,
+    "bankName": "THE PALLIKKARA SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1706,
+    "bankName": "THE PANCHKULA CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1707,
+    "bankName": "THE PANIPAT CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1708,
+    "bankName": "THE PANIPAT URBAN COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1709,
+    "bankName": "THE PAPANASAM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1710,
+    "bankName": "THE PARAKKOTTUKAVU PANCHAYAT SERVICE CO OP BANK LTD"
+  },
+  {
+    "bankId": 1711,
+    "bankName": "THE PARAMAKUDI CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1712,
+    "bankName": "THE PARAMAKUDI CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1713,
+    "bankName": "THE PATHANAMTHITTA DISTRICT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1714,
+    "bankName": "THE PATIALA CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1715,
+    "bankName": "THE PATTAMBI SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1716,
+    "bankName": "THE PATTATHANAM SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1717,
+    "bankName": "THE PATTEPADAM RURAL CO-OPERATIVE SOCIETY LIMITED"
+  },
+  {
+    "bankId": 1718,
+    "bankName": "THE PATTUKOTTAI CO-OP URBAN BANK"
+  },
+  {
+    "bankId": 1719,
+    "bankName": "THE PEN CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1720,
+    "bankName": "THE PERINTHALMANNA CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1721,
+    "bankName": "THE PERIYAR DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1722,
+    "bankName": "THE PEROORKADA SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1723,
+    "bankName": "THE PERUMANNA SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1724,
+    "bankName": "THE PHALTAN URBAN COOP BANK LTD"
+  },
+  {
+    "bankId": 1725,
+    "bankName": "THE PIJ PEOPLES CO-OP BANK"
+  },
+  {
+    "bankId": 1726,
+    "bankName": "THE PIMPRI CHINCHWAD BANK LTD"
+  },
+  {
+    "bankId": 1727,
+    "bankName": "THE POLLACHI CO-OP URBAN BANK"
+  },
+  {
+    "bankId": 1728,
+    "bankName": "THE POORNAWADI NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1729,
+    "bankName": "THE POOVATHUMKADAVIL FARMERS SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 173,
+    "bankName": "POONA CONTRACTOR CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1730,
+    "bankName": "THE POSTAL AND RMS EMPLOYEES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1731,
+    "bankName": "THE PRAKASAM DIST CO-OPERATIVE CENTRAL BANK LTD"
+  },
+  {
+    "bankId": 1732,
+    "bankName": "THE PRAKASAPURAM CO-OP URBAN BANK"
+  },
+  {
+    "bankId": 1733,
+    "bankName": "THE PRERNA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1734,
+    "bankName": "THE PRODDATUR CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1735,
+    "bankName": "THE PRODDATUR CO-OP TOWN BANK LIMITED"
+  },
+  {
+    "bankId": 1736,
+    "bankName": "THE PUDUKKOTTAI DIST CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1737,
+    "bankName": "THE PULLUR SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1738,
+    "bankName": "THE PUNALUR SERVICE COOP BANK LTD"
+  },
+  {
+    "bankId": 1739,
+    "bankName": "THE PURI URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1740,
+    "bankName": "THE PUTTUR CO-OPERATIVE TOWN BANK LTD"
+  },
+  {
+    "bankId": 1741,
+    "bankName": "THE QUILON CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1742,
+    "bankName": "THE RADDI CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1743,
+    "bankName": "THE RADDI CO-OP CREDIT BANK LTD"
+  },
+  {
+    "bankId": 1744,
+    "bankName": "THE RADDI SAHAKARA BANK NIYAMITHA"
+  },
+  {
+    "bankId": 1745,
+    "bankName": "THE RADHASOAMI URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1746,
+    "bankName": "THE RAICHUR DIST CO-OPERATIVE CENTRAL BANK LTD"
+  },
+  {
+    "bankId": 1747,
+    "bankName": "THE RAJAPUR SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1748,
+    "bankName": "THE RAJWADE MANDAL PEOPLES CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1749,
+    "bankName": "THE RAMANATTUKARA SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1750,
+    "bankName": "THE RAMANTHAPURAM DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1751,
+    "bankName": "THE RASIPURAM COOPERATIVE URBAN BANK"
+  },
+  {
+    "bankId": 1752,
+    "bankName": "THE RAYAT SEVAK CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1753,
+    "bankName": "THE REGIONAL COOP BANK LTD"
+  },
+  {
+    "bankId": 1754,
+    "bankName": "THE REPATRIATES CO-OP FINANCE AND DEVELOPMENT BANK LTD"
+  },
+  {
+    "bankId": 1755,
+    "bankName": "THE RIDE BETTAMPADY SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1756,
+    "bankName": "THE ROHTAK CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1757,
+    "bankName": "THE ROSHAN COOP CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 1758,
+    "bankName": "THE S T (EMP) CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1759,
+    "bankName": "THE S V COOP BANK LTD"
+  },
+  {
+    "bankId": 1760,
+    "bankName": "THE SADGURU JANGLI MAHARAJ SHAYARI BANK"
+  },
+  {
+    "bankId": 1761,
+    "bankName": "THE SAHEBRAO DESHMUKH CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1762,
+    "bankName": "THE SAHYADRI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1763,
+    "bankName": "THE SANGLI DIST CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1764,
+    "bankName": "THE SANTRAMPUR URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1765,
+    "bankName": "THE SATARA DIST CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1766,
+    "bankName": "THE SATARA DIST MERCHANTS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1767,
+    "bankName": "THE SECUNDERABAD MERCANTILE CO-OP BANK"
+  },
+  {
+    "bankId": 1768,
+    "bankName": "THE SHAHADA PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1769,
+    "bankName": "THE SHIBPUR CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 177,
+    "bankName": "KERALA STATE CO-OP BANK LTD,TRIVANDRUM"
+  },
+  {
+    "bankId": 1770,
+    "bankName": "THE SHIMOGA DIST CO-OP CENTRAL BANK LTD"
+  },
+  {
+    "bankId": 1771,
+    "bankName": "THE SHINGA DIST CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1772,
+    "bankName": "THE SHIRPUR PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1773,
+    "bankName": "THE SIND CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1774,
+    "bankName": "THE SINDAGI URBAN COOP BANK LTD"
+  },
+  {
+    "bankId": 1775,
+    "bankName": "THE SIRSI URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1776,
+    "bankName": "THE SIRSI URBAN SOUHARDA SAHAKARI BANK"
+  },
+  {
+    "bankId": 1777,
+    "bankName": "THE SIVAGANGAI DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1778,
+    "bankName": "THE SIVAKASI CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1779,
+    "bankName": "THE SONEPAT CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 178,
+    "bankName": "LORD KRISHNA BANK LTD,TRIVANDRUM"
+  },
+  {
+    "bankId": 1780,
+    "bankName": "THE SONEPAT URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1781,
+    "bankName": "THE SRIVILLIPUTTUR CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1782,
+    "bankName": "THE STAMP BHANDARI CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1783,
+    "bankName": "THE SUBRAMANYA NAGAR CO- OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1784,
+    "bankName": "THE SUNDARGARH DISTRICT CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 1785,
+    "bankName": "THE SUTEX CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1786,
+    "bankName": "THE SUVIKAS PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1787,
+    "bankName": "THE SWARNA CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1788,
+    "bankName": "THE SWASAKTHI MERCANTILE URBAN COOP BANK LTD"
+  },
+  {
+    "bankId": 1789,
+    "bankName": "THE TALIKOTI URBAN COOP BANK LTD"
+  },
+  {
+    "bankId": 179,
+    "bankName": "NGP"
+  },
+  {
+    "bankId": 1790,
+    "bankName": "THE TAMILNADU CIRCLE POSTAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1791,
+    "bankName": "THE TENALI CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1792,
+    "bankName": "THE TEXTILE PROCESSORS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1793,
+    "bankName": "THE THADUKKASSERY SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1794,
+    "bankName": "THE THIRUCHENDUR CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1795,
+    "bankName": "THE THOOTHUKUDI DIST CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1796,
+    "bankName": "THE THURAIYUR CO-OP RURAL BANK LTD"
+  },
+  {
+    "bankId": 1797,
+    "bankName": "THE TIRUCHENGODE COOPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1798,
+    "bankName": "THE TIRUNELVELI CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1799,
+    "bankName": "THE TIRUNELVELI DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 180,
+    "bankName": "TRIVANDRUM DIST.CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1800,
+    "bankName": "THE TIRUVANNAMALAI DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1801,
+    "bankName": "THE TOWN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1802,
+    "bankName": "THE UDMA SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 1803,
+    "bankName": "THE UDUMALPET CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1804,
+    "bankName": "THE UDUPI CO-OP TOWN BANK LTD"
+  },
+  {
+    "bankId": 1805,
+    "bankName": "THE URBAN DEVELOPMENT CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1806,
+    "bankName": "THE UTTAR PRADESH STATE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1807,
+    "bankName": "THE UTTARPARA CO-OP BANK"
+  },
+  {
+    "bankId": 1808,
+    "bankName": "THE UTTARSANDA PEOPLES CO-OP BANK"
+  },
+  {
+    "bankId": 1809,
+    "bankName": "THE V V COMMERICAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 181,
+    "bankName": "NAGPUR URBAN CO-OP BANK LTD,NAGPUR"
+  },
+  {
+    "bankId": 1810,
+    "bankName": "THE VADAKARA CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1811,
+    "bankName": "THE VADAKKEVILA SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1812,
+    "bankName": "THE VAIDYANATH URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1813,
+    "bankName": "THE VAKKAM FARMERS SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1814,
+    "bankName": "THE VALLABH VIDYANAGAR COMMERCIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1815,
+    "bankName": "THE VANI CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 1816,
+    "bankName": "THE VANI MERCHANT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1817,
+    "bankName": "THE VANIYAMBADI TOWN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1818,
+    "bankName": "THE VARADA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1819,
+    "bankName": "THE VASO CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1820,
+    "bankName": "THE VELLALA CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1821,
+    "bankName": "THE VELLIAMATTOM SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1822,
+    "bankName": "THE VERAVAL PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1823,
+    "bankName": "THE VIDARBHA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1824,
+    "bankName": "THE VILLUPURAM DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1825,
+    "bankName": "THE VIRAJPET PATTANA SAHAKARI BANK"
+  },
+  {
+    "bankId": 1826,
+    "bankName": "THE VIRUDHUNAGAR DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1827,
+    "bankName": "THE VISAKHA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1828,
+    "bankName": "THE VITTAL GRAMIN SAHAKARI BANK"
+  },
+  {
+    "bankId": 1829,
+    "bankName": "THE VIZIANAGARAM CO-OP BANK"
+  },
+  {
+    "bankId": 1830,
+    "bankName": "THE WAHIM URBAN COOP BAN LTD"
+  },
+  {
+    "bankId": 1831,
+    "bankName": "THE WAYANAD DISTRICT CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1832,
+    "bankName": "THE WILTON BANK"
+  },
+  {
+    "bankId": 1833,
+    "bankName": "THE YAMUNANAGAR CENTRAL CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1834,
+    "bankName": "THE YARAGATTI URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1835,
+    "bankName": "THE YAVATMAL DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1836,
+    "bankName": "THE YAVATMAL GRAMIN BANK"
+  },
+  {
+    "bankId": 1837,
+    "bankName": "THE YAVATMAL MAHILA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1838,
+    "bankName": "THE YAVATMAL URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1839,
+    "bankName": "THE YELLAPUR URBAN CO-OPERATIVE CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 1840,
+    "bankName": "THE ZOROASTRIAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1841,
+    "bankName": "TIRUMALA CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1842,
+    "bankName": "TRICHY HIRUDAYAPURAM CO-OP BANK"
+  },
+  {
+    "bankId": 1843,
+    "bankName": "TRIVENI KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1844,
+    "bankName": "TULSI GRAMIN BANK"
+  },
+  {
+    "bankId": 1845,
+    "bankName": "TUMKUR GRAIN MERCHANTS CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 1846,
+    "bankName": "TUMKUR PATTANA SAHAKARA BANK NIYAMITHA"
+  },
+  {
+    "bankId": 1847,
+    "bankName": "TUMKUR VEERASHAIVA CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1848,
+    "bankName": "TUNGABHADRA GRAMEEN BANK"
+  },
+  {
+    "bankId": 1849,
+    "bankName": "TUNGABHADRA PATTINA SAHAKARA SANGHA NIYAMITHA"
+  },
+  {
+    "bankId": 185,
+    "bankName": "U.P.CO-OP BANK LTD.KANPUR"
+  },
+  {
+    "bankId": 1850,
+    "bankName": "TUTICORIN MELUR CO-OP BANK"
+  },
+  {
+    "bankId": 1851,
+    "bankName": "U B K G BANK"
+  },
+  {
+    "bankId": 1852,
+    "bankName": "UMAN BANK OF INDIA"
+  },
+  {
+    "bankId": 1853,
+    "bankName": "UMIYA URBAN CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 1854,
+    "bankName": "UNION BANK OF ROORKEE"
+  },
+  {
+    "bankId": 1855,
+    "bankName": "UTHAMAPALAYAM CO-OP BANK"
+  },
+  {
+    "bankId": 1856,
+    "bankName": "UTHIRAMERUR CO-OP BANK"
+  },
+  {
+    "bankId": 1857,
+    "bankName": "UTTAR BANGA KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1858,
+    "bankName": "UTTAR BIHAR KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1859,
+    "bankName": "UTTAR PRADESH GRAMIN BANK"
+  },
+  {
+    "bankId": 186,
+    "bankName": "BENARAS STATE BANK LTD,DELHI"
+  },
+  {
+    "bankId": 1860,
+    "bankName": "V C C BANK"
+  },
+  {
+    "bankId": 1861,
+    "bankName": "V K G BANK"
+  },
+  {
+    "bankId": 1862,
+    "bankName": "V M C BANK LTD"
+  },
+  {
+    "bankId": 1863,
+    "bankName": "V V C C BANK LIMITED"
+  },
+  {
+    "bankId": 1864,
+    "bankName": "VADAKKENCHERRY COOP SERVICE BANK LTD"
+  },
+  {
+    "bankId": 1865,
+    "bankName": "VADODARA DIST CO-OP SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1866,
+    "bankName": "VADODARA DIST INDUSTRIAL CO-OP BANK"
+  },
+  {
+    "bankId": 1867,
+    "bankName": "VAISHALI KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1868,
+    "bankName": "VAISHYA NAGARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1869,
+    "bankName": "VALAPAD SERVICE COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 187,
+    "bankName": "BAREILLY CORPORATION BANK LTD"
+  },
+  {
+    "bankId": 1870,
+    "bankName": "VALLALAR GRAMA BANK"
+  },
+  {
+    "bankId": 1871,
+    "bankName": "VALSAD DISTRICT CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1872,
+    "bankName": "VANANCHAL GRAMIN BANK"
+  },
+  {
+    "bankId": 1873,
+    "bankName": "VARALAKSHMI CREDIT COOP SOCIETY"
+  },
+  {
+    "bankId": 1874,
+    "bankName": "VARALAKSHMI CREDIT SAHAKARA SANGHA LTD"
+  },
+  {
+    "bankId": 1875,
+    "bankName": "VASAI JANTA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1876,
+    "bankName": "VDS-BPL KSHETRIYA GRAMEENA BANK"
+  },
+  {
+    "bankId": 1877,
+    "bankName": "VEER PULIKESHI CO-OP BANK"
+  },
+  {
+    "bankId": 1878,
+    "bankName": "VEERASHAIVA SAHAKARI CO-OP BANK"
+  },
+  {
+    "bankId": 1879,
+    "bankName": "VEJALPUR NAGRIK BANK"
+  },
+  {
+    "bankId": 1880,
+    "bankName": "VELLOOR SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 1881,
+    "bankName": "VIDARBHA KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1882,
+    "bankName": "VIDISHA BHOPAL KENDRIYA GRAMIN VIKAS BANK"
+  },
+  {
+    "bankId": 1883,
+    "bankName": "VIDUR GRAMIN BANK"
+  },
+  {
+    "bankId": 1884,
+    "bankName": "VIDYA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1885,
+    "bankName": "VIDYASAGAR CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1886,
+    "bankName": "VIKAS CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1887,
+    "bankName": "VIKAS PURI NEW DELHI"
+  },
+  {
+    "bankId": 1888,
+    "bankName": "VIKAS SHARDA CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1889,
+    "bankName": "VIKAS URBAN CO-OPERATIVE BANK NIYAMITHA"
+  },
+  {
+    "bankId": 189,
+    "bankName": "JAIPUR CENTRAL BANK LTD, JAIPUR"
+  },
+  {
+    "bankId": 1890,
+    "bankName": "VIKHE PATIL CO-OP BANK LTD."
+  },
+  {
+    "bankId": 1891,
+    "bankName": "VIMA KAMGAR COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1892,
+    "bankName": "VINDHYAVASINI GRAMIN BANK"
+  },
+  {
+    "bankId": 1893,
+    "bankName": "VIPUL"
+  },
+  {
+    "bankId": 1894,
+    "bankName": "VIRUDHACHALAM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 1895,
+    "bankName": "VISHWAKARMA NAGARI SAHAKARI BANK"
+  },
+  {
+    "bankId": 1896,
+    "bankName": "VISHWESHWAR CO-OP BANK"
+  },
+  {
+    "bankId": 1897,
+    "bankName": "VMC"
+  },
+  {
+    "bankId": 1898,
+    "bankName": "VYAPARI VYAVASAYI CO-OPERATIVE SOCIETY LTD"
+  },
+  {
+    "bankId": 1899,
+    "bankName": "VYSYA CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1900,
+    "bankName": "WAINGANGA KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 1901,
+    "bankName": "WALCHANDNAGAR SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1902,
+    "bankName": "WARANA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 1903,
+    "bankName": "WARANGAL URBAN CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1904,
+    "bankName": "WARDHAMAN URBAN COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 1905,
+    "bankName": "WASHINGTON MUTUAL BANK"
+  },
+  {
+    "bankId": 1906,
+    "bankName": "WBS CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 1907,
+    "bankName": "WELLS FARGO BANK"
+  },
+  {
+    "bankId": 1908,
+    "bankName": "YAVATMAL DIST MAHESH NAGARI SAHAKARI CO-OP BANK"
+  },
+  {
+    "bankId": 1909,
+    "bankName": "ZILA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 191,
+    "bankName": "RAJASTHAN STATE INDL.CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1910,
+    "bankName": "ZILA SAHAKARI GRAM VIKAS BANK"
+  },
+  {
+    "bankId": 1911,
+    "bankName": "THE CITY CO-OP. BANK LTD."
+  },
+  {
+    "bankId": 1912,
+    "bankName": "COSMOS CO-OP BANK LTD,PUNE"
+  },
+  {
+    "bankId": 1913,
+    "bankName": "NAGAR URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1914,
+    "bankName": "SULEMANI CO OP BANK LTD"
+  },
+  {
+    "bankId": 1915,
+    "bankName": "VIKAS SOUHARDHA CO OP BANK LTD"
+  },
+  {
+    "bankId": 1916,
+    "bankName": "ANZ"
+  },
+  {
+    "bankId": 1917,
+    "bankName": "DANSKE BANK"
+  },
+  {
+    "bankId": 1918,
+    "bankName": "THE CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 1919,
+    "bankName": "BHINGAR URBAN CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 1920,
+    "bankName": "UNIVERSITY FEDERAL CREDIT UNION"
+  },
+  {
+    "bankId": 1921,
+    "bankName": "THE SANTANDER"
+  },
+  {
+    "bankId": 1922,
+    "bankName": "HANG SENG BANK"
+  },
+  {
+    "bankId": 1923,
+    "bankName": "CITADELE BANKA"
+  },
+  {
+    "bankId": 1924,
+    "bankName": "FIRST DIRECT"
+  },
+  {
+    "bankId": 1925,
+    "bankName": "RAJ STATE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1926,
+    "bankName": "JHARNESHWAR CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1927,
+    "bankName": "EKM DISTRICT CO-OP BANK"
+  },
+  {
+    "bankId": 1928,
+    "bankName": "BANK AUSTRIA"
+  },
+  {
+    "bankId": 1929,
+    "bankName": "MANSAROVAR URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 193,
+    "bankName": "PRUDENTIAL CO-OP URBAN BANK LTD,HYDERABAD"
+  },
+  {
+    "bankId": 1930,
+    "bankName": "NIDHI CO OP BANK LIMITED"
+  },
+  {
+    "bankId": 194,
+    "bankName": "AMANATH CO-OP BANK LTD,BANGLORE"
+  },
+  {
+    "bankId": 197,
+    "bankName": "GRAIN MERCHANTS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 1971,
+    "bankName": "IDFC Bank"
+  },
+  {
+    "bankId": 198,
+    "bankName": "TRIVANDRUM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 199,
+    "bankName": "CHITANVISPURA FRIENDS CO-OP BANK LTD"
+  },
+  {
+    "bankId": 2001,
+    "bankName": "Chennai Super Kings - CSK"
+  },
+  {
+    "bankId": 2002,
+    "bankName": "Mumbai Indians"
+  },
+  {
+    "bankId": 201,
+    "bankName": "SHREE MAHALAXMI MER.CO-OP BANK LTD"
+  },
+  {
+    "bankId": 203,
+    "bankName": "NUTAN SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 204,
+    "bankName": "UNNATI CO-OP BANK LTD"
+  },
+  {
+    "bankId": 205,
+    "bankName": "MASHREQBANK PSC"
+  },
+  {
+    "bankId": 206,
+    "bankName": "NAGPUR DIST.CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 207,
+    "bankName": "SADHANA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 210,
+    "bankName": "OMAN INTERNATIONAL BANK SAOG"
+  },
+  {
+    "bankId": 212,
+    "bankName": "UFJ BANK LTD"
+  },
+  {
+    "bankId": 213,
+    "bankName": "BIHAR STATE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 214,
+    "bankName": "MAHILA UTKARSHA NAGARIK SAH. BANK LTD,AHMEDABAD"
+  },
+  {
+    "bankId": 216,
+    "bankName": "SABARMATI CO-OP BANK LTD,AHMEDABAD"
+  },
+  {
+    "bankId": 218,
+    "bankName": "ORRISA STATE CO-OP BANK LTD,BHUBANESHWAR"
+  },
+  {
+    "bankId": 219,
+    "bankName": "NEELANCHAL GRAMYA BANK, BHUBNESHWAR"
+  },
+  {
+    "bankId": 220,
+    "bankName": "URBAN CO-OP BANK LTD,BHUBANESHWAR"
+  },
+  {
+    "bankId": 221,
+    "bankName": "UTKAL CO-OP BANKING SOCIETY,BHUBANESHWAR"
+  },
+  {
+    "bankId": 222,
+    "bankName": "A.P. VARDHAMAN (MAHILA) CO-OP BANK LTD"
+  },
+  {
+    "bankId": 223,
+    "bankName": "CHARMINAR CO-OP BANK,HYDERABAD"
+  },
+  {
+    "bankId": 227,
+    "bankName": "MALLESWARAN CO-OP BANK LTD,BANGLORE"
+  },
+  {
+    "bankId": 228,
+    "bankName": "KARNATAKA INDUSTRIAL CO-OP BANK LTD,BANGLORE"
+  },
+  {
+    "bankId": 230,
+    "bankName": "GLOBAL TRUST BANK LTD"
+  },
+  {
+    "bankId": 231,
+    "bankName": "CREDIT LYONNAIS"
+  },
+  {
+    "bankId": 232,
+    "bankName": "THE SINDH MERCANTILE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 233,
+    "bankName": "CENTURION BANK LTD"
+  },
+  {
+    "bankId": 236,
+    "bankName": "VISNAGAR NAGRIK SAH.BANK LTD"
+  },
+  {
+    "bankId": 237,
+    "bankName": "BANK OF PUNJAB LTD"
+  },
+  {
+    "bankId": 241,
+    "bankName": "DIAMOND JUBILEE CO-OP BANK LTD,SURAT"
+  },
+  {
+    "bankId": 243,
+    "bankName": "THE RANDER PEOPLES CO-OP BANK LTD,SURAT"
+  },
+  {
+    "bankId": 247,
+    "bankName": "SURAT NAGRIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 252,
+    "bankName": "NAGPUR MAHILA NAG.SAH.BANK LTD"
+  },
+  {
+    "bankId": 253,
+    "bankName": "TIMES BANK LTD"
+  },
+  {
+    "bankId": 254,
+    "bankName": "SURAT MAHILA NAG. SAH. BANK LTD"
+  },
+  {
+    "bankId": 258,
+    "bankName": "SIDDI CO-OP BANK LTD, AHMEDABAD"
+  },
+  {
+    "bankId": 260,
+    "bankName": "THE TEXTILE CO-OP BANK LTD,BANGLORE"
+  },
+  {
+    "bankId": 261,
+    "bankName": "SHRI M.VISVESVASRAYA CO-OP BANK LTD, BANGLORE"
+  },
+  {
+    "bankId": 262,
+    "bankName": "DEEPAK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 263,
+    "bankName": "THE MYSORE SILK CLOTH MERCHANTS CO-OP BANK LTD,BANGLORE"
+  },
+  {
+    "bankId": 264,
+    "bankName": "VEERASHAIVA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 265,
+    "bankName": "HANUMANTHNAGAR CO-OP BANK LTD,BANGLORE"
+  },
+  {
+    "bankId": 266,
+    "bankName": "RAJAJINAGAR CO-OP BANK LTD, BANGLORE"
+  },
+  {
+    "bankId": 267,
+    "bankName": "MAHILA CO-OP BANK LTD, BANGLORE"
+  },
+  {
+    "bankId": 270,
+    "bankName": "SURYAPUR CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 271,
+    "bankName": "THE TEXTILE CO-OP BANK OF SURAT LTD"
+  },
+  {
+    "bankId": 273,
+    "bankName": "SIKKIM BANK LTD"
+  },
+  {
+    "bankId": 274,
+    "bankName": "THE BHARAT CO-OPERATIVE BANK (MUMBAI) LTD"
+  },
+  {
+    "bankId": 276,
+    "bankName": "SOCIETE GENERALE"
+  },
+  {
+    "bankId": 277,
+    "bankName": "HINDU NAG. SAH. BANK LTD, INDORE"
+  },
+  {
+    "bankId": 282,
+    "bankName": "MAHARASHTRA BRAHMAN SAH. BANK LTD, INDORE"
+  },
+  {
+    "bankId": 284,
+    "bankName": "PARASPAR SAHAYAK CO-OP BANK LTD, INDORE"
+  },
+  {
+    "bankId": 285,
+    "bankName": "SHUBH-LAXMI MAHILA CO-OP BANK LTD, INDORE"
+  },
+  {
+    "bankId": 286,
+    "bankName": "TRANSPORT CO-OP BANK LTD, INDORE"
+  },
+  {
+    "bankId": 288,
+    "bankName": "RESERVE BANK EMPLOYEES CO-OP BANK LTD, BANGLORE"
+  },
+  {
+    "bankId": 290,
+    "bankName": "THE UDHANA CITIZEN CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 292,
+    "bankName": "SRI BHAGAVATI CO-OP BANK LTD, MANGLORE"
+  },
+  {
+    "bankId": 293,
+    "bankName": "MAHALAKSHMI CO-OP BANK LTD, UDIPI"
+  },
+  {
+    "bankId": 294,
+    "bankName": "SRI GOKARNANATH CO-OP BANK LTD, MANGLORE"
+  },
+  {
+    "bankId": 295,
+    "bankName": "THE MANGLORE CO-OP TOWN BANK LTD, MANGLORE"
+  },
+  {
+    "bankId": 296,
+    "bankName": "JALANDHAR CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 298,
+    "bankName": "THE SOUTH CANARA DIST. CENTRAL CO-OP BANK LTD,MANGLORE"
+  },
+  {
+    "bankId": 299,
+    "bankName": "DISTRICT CO-OP BANK LTD,VARANASI"
+  },
+  {
+    "bankId": 300,
+    "bankName": "NAGARIYA CO-OP BANK LTD, VARANASI"
+  },
+  {
+    "bankId": 301,
+    "bankName": "MANGLORE CATHOLIC CO-OP BANK LTD,MANGLORE"
+  },
+  {
+    "bankId": 306,
+    "bankName": "MADURAI DISTRICT CENTRAL CO-OP BANK LTD,MADURAI"
+  },
+  {
+    "bankId": 316,
+    "bankName": "SHRI KRISHNA SAHAKARI BANK LTD, BARODA"
+  },
+  {
+    "bankId": 317,
+    "bankName": "BARODA MERCANTILE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 318,
+    "bankName": "COMMERCIAL CO-OP BANK LTD,BARODA"
+  },
+  {
+    "bankId": 319,
+    "bankName": "SANKHEDA NAG.SAH.BANK LTD,BARODA"
+  },
+  {
+    "bankId": 321,
+    "bankName": "SHRI SWAMINARAYAN CO-OP BANK LTD,BARODA"
+  },
+  {
+    "bankId": 324,
+    "bankName": "DABHOI NAG.SAH.BANK LTD,BARODA"
+  },
+  {
+    "bankId": 325,
+    "bankName": "SULAIMANI CO-OP BANKING SOCIETY LTD,BARODA"
+  },
+  {
+    "bankId": 326,
+    "bankName": "SHRI CO-OP BANK LTD,BARODA"
+  },
+  {
+    "bankId": 327,
+    "bankName": "MADURA SOURASHTRA CO-OP BANK LTD,MADURAI"
+  },
+  {
+    "bankId": 330,
+    "bankName": "AKOLA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 333,
+    "bankName": "AMRITSAR CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 334,
+    "bankName": "GANESH BANK OF KURUNDWAD LTD,PUNE"
+  },
+  {
+    "bankId": 336,
+    "bankName": "VIDISHA-BHOPAL KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 337,
+    "bankName": "GURDASPUR-AMRITSAR KSHETRIYA GRAMIN VIKAS BANK"
+  },
+  {
+    "bankId": 338,
+    "bankName": "APEX CO-OP BANK OF URBAN BANKS OF MAHARASHTRA AND GOA LTD"
+  },
+  {
+    "bankId": 339,
+    "bankName": "BHOPAL NAGRIK SAHAKARI BANK LTD,BHOPAL"
+  },
+  {
+    "bankId": 340,
+    "bankName": "ASTHA MAHILA NAGRIK SAHAKARI BANK MARYADIT,BHOPAL"
+  },
+  {
+    "bankId": 341,
+    "bankName": "MAHANAGAR NAGRIK SAHAKARI BANK MARYADIT,BHOPAL"
+  },
+  {
+    "bankId": 342,
+    "bankName": "VAISHALI URBAN CO-OP BANK LTD, JAIPUR"
+  },
+  {
+    "bankId": 343,
+    "bankName": "CHAROTAR NAGRIK SAHAKARI BANK LTD,ANAND"
+  },
+  {
+    "bankId": 347,
+    "bankName": "SHREE VIKAS CO-OP BANK LTD,SURAT"
+  },
+  {
+    "bankId": 354,
+    "bankName": "UDYAM VIKAS SAHAKARI BANK LTD,PUNE"
+  },
+  {
+    "bankId": 356,
+    "bankName": "JIJAMATA MAHILA SAHAKARI BANK LTD,PUNE"
+  },
+  {
+    "bankId": 357,
+    "bankName": "SHREE SADGURU JANGALI MAHARAJ SAHAKARI BANK LTD,PUNE"
+  },
+  {
+    "bankId": 359,
+    "bankName": "ROPAR CENTRAL CO-OP BANK LTD,ROPAR-CHANDIGARH"
+  },
+  {
+    "bankId": 360,
+    "bankName": "GANDHIBAGH SAHAKARI BANK LTD,NAGPUR"
+  },
+  {
+    "bankId": 362,
+    "bankName": "BANK MUSCAT  SAOG"
+  },
+  {
+    "bankId": 365,
+    "bankName": "SHRIRAM URBAN CO-OP BANK LTD,NAGPUR"
+  },
+  {
+    "bankId": 366,
+    "bankName": "PARMATMA EK SEVAK NAGRIK SAHAKARI BANK LTD,NAGPUR"
+  },
+  {
+    "bankId": 368,
+    "bankName": "MITRA MANDAL SAHAKARI BANK LTD,INDORE"
+  },
+  {
+    "bankId": 370,
+    "bankName": "NASIK PEOPLES CO-OP BANK LTD,NASIK"
+  },
+  {
+    "bankId": 371,
+    "bankName": "NASIK ZILHA MAHILA SAHAKARI BANK LTD,NASIK"
+  },
+  {
+    "bankId": 377,
+    "bankName": "NASIK DISTRICT INDUSTRIAL AND MERCANTILE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 378,
+    "bankName": "SHRIRAM SAHAKARI BANK MARYADIT, NASIK"
+  },
+  {
+    "bankId": 379,
+    "bankName": "LUDHIANA CENTRAL CO-OP BANK LTD,LUDHIANA"
+  },
+  {
+    "bankId": 380,
+    "bankName": "TAPI CO-OP BANK LTD,SURAT"
+  },
+  {
+    "bankId": 381,
+    "bankName": "NASIK JILHA MAHILA VIKAS SAHAKARI BANK LTD,NASIK"
+  },
+  {
+    "bankId": 382,
+    "bankName": "SHREE SINNAR VYAPARI SAHAKARI BANK LTD, SINNAR"
+  },
+  {
+    "bankId": 383,
+    "bankName": "THE CITIZEN CO-OP BANK LTD,NEW DELHI"
+  },
+  {
+    "bankId": 384,
+    "bankName": "TRICHUR URBAN CO-OP BANK LTD, TRICHUR"
+  },
+  {
+    "bankId": 385,
+    "bankName": "INDIAN MERCANTILE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 388,
+    "bankName": "KOLHAPUR JANATA SAHAKARI BANK LTD,KOLHAPUR"
+  },
+  {
+    "bankId": 391,
+    "bankName": "SHRI SHAHU CO-OP BANK LTD, KOLHAPUR"
+  },
+  {
+    "bankId": 392,
+    "bankName": "SHRI BALBHIM CO-OP BANK LTD, KOLHAPUR"
+  },
+  {
+    "bankId": 395,
+    "bankName": "CHOUNDESHWARI CO-OP BANK LTD, KOLHAPUR"
+  },
+  {
+    "bankId": 396,
+    "bankName": "SHRIPATRAO DADA SAHAKARI BANK LTD,KOLHAPUR"
+  },
+  {
+    "bankId": 399,
+    "bankName": "KOLHAPUR MARATHA CO-OP BANK LTD, KOLHAPUR"
+  },
+  {
+    "bankId": 400,
+    "bankName": "THE RAVI CO-OP BANK LTD, KOLHAPUR"
+  },
+  {
+    "bankId": 405,
+    "bankName": "THE ICHALKARANJI URBAN CO-OP BANK LTD,ICHALKARANJI"
+  },
+  {
+    "bankId": 406,
+    "bankName": "JANATA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 410,
+    "bankName": "JAMIA CO-OP BANK LTD, NEW DELHI"
+  },
+  {
+    "bankId": 411,
+    "bankName": "TAMILNADU INDUSTRIAL CO-OP BANK LTD, CHENNAI"
+  },
+  {
+    "bankId": 414,
+    "bankName": "GOAN PEOPLES URBAN CO-OP BANK LTD, PANAJI-GOA"
+  },
+  {
+    "bankId": 419,
+    "bankName": "FINANCIAL CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 423,
+    "bankName": "PANDYAM GRAMA BANK"
+  },
+  {
+    "bankId": 425,
+    "bankName": "SRI SATYA SAI NAGRIK SAHAKARI BANK MARYADIT, BHOPAL"
+  },
+  {
+    "bankId": 426,
+    "bankName": "STERLING URBAN CO-OP BANK LTD,JAIPUR"
+  },
+  {
+    "bankId": 427,
+    "bankName": "MADURAI URBAN CO-OP BANK LTD, MADURAI"
+  },
+  {
+    "bankId": 428,
+    "bankName": "STANDARD CO-OP BANK LTD, AHMEDABAD"
+  },
+  {
+    "bankId": 429,
+    "bankName": "SACHIN INDUSTRIAL CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 430,
+    "bankName": "ADAJAN NAGRIK SAHAKARI BANK LTD, SURAT"
+  },
+  {
+    "bankId": 431,
+    "bankName": "ROYALE CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 432,
+    "bankName": "ADINATH CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 433,
+    "bankName": "SAMATA SAHAKARI BANK LTD, NAGPUR"
+  },
+  {
+    "bankId": 435,
+    "bankName": "THE CENTURY CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 436,
+    "bankName": "THE METRO CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 437,
+    "bankName": "AKHAND ANAND CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 438,
+    "bankName": "THE ANDHRA BANK EMPLOYEES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 439,
+    "bankName": "ROYAL CO-OP BANK LTD, AHMEDABAD"
+  },
+  {
+    "bankId": 440,
+    "bankName": "CITY CO-OP BANK LTD, LUCKNOW"
+  },
+  {
+    "bankId": 442,
+    "bankName": "SHREE DHARTI CO-OP BANK LTD, RAJKOT"
+  },
+  {
+    "bankId": 444,
+    "bankName": "RAJKOT MAHILA NAG. SAH. BANK LTD, RAJKOT"
+  },
+  {
+    "bankId": 446,
+    "bankName": "SREE CHARAN CO-OP BANK LTD, BANGLORE"
+  },
+  {
+    "bankId": 447,
+    "bankName": "UNITED COMMERCIAL CO-OP BANK LTD, KANPUR"
+  },
+  {
+    "bankId": 449,
+    "bankName": "ASSOCIATE CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 450,
+    "bankName": "NAGRIK SAMABAY BANK LTD, GUWAHATI"
+  },
+  {
+    "bankId": 451,
+    "bankName": "THE WOMENS CO-OP BANK LTD, PANJI, GOA"
+  },
+  {
+    "bankId": 452,
+    "bankName": "THE ERNAKULAM DISTRICT CO-OP BANK LTD, ERNAKULAM"
+  },
+  {
+    "bankId": 453,
+    "bankName": "DEVLOPMENT CO-OP BANK LTD, KANPUR"
+  },
+  {
+    "bankId": 455,
+    "bankName": "SREE SUBRAMANYESWARA CO-OP BANK LTD, BANGLORE"
+  },
+  {
+    "bankId": 456,
+    "bankName": "INTEGRAL URBAN CO-OP BANK LTD, JAIPUR"
+  },
+  {
+    "bankId": 457,
+    "bankName": "ANKLESHWAR NAGRIK SAHAKARI BANK LTD. (VADODARA)"
+  },
+  {
+    "bankId": 458,
+    "bankName": "GEORGE TOWN CO-OP BANK LTD, CHENNAI"
+  },
+  {
+    "bankId": 461,
+    "bankName": "AGRA DISTRICT CO-OP BANK LTD, AGRA"
+  },
+  {
+    "bankId": 462,
+    "bankName": "JAMUNA GRAMIN BANK, AGRA"
+  },
+  {
+    "bankId": 463,
+    "bankName": "MALVIYA URBAN CO-OP BANK LTD, JAIPUR"
+  },
+  {
+    "bankId": 464,
+    "bankName": "COIMBATORE DISTRICT CENTRAL CO-OP BANK LTD, COIMBATORE"
+  },
+  {
+    "bankId": 466,
+    "bankName": "THE ALWAYE URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 467,
+    "bankName": "COIMBATORE CITY CO-OP BANK LTD, COIMBATORE"
+  },
+  {
+    "bankId": 468,
+    "bankName": "VIJAY COMMERCIAL CO-OP BANK LTD, RAJKOT"
+  },
+  {
+    "bankId": 469,
+    "bankName": "VISAKHAPATNAM CO-OP BANK LTD,VISAKHAPATNAM"
+  },
+  {
+    "bankId": 471,
+    "bankName": "CITIZENS CO-OP BANK LTD, RAJKOT"
+  },
+  {
+    "bankId": 475,
+    "bankName": "SHREE PARSWANATH CO-OP BANK LTD, RAJKOT"
+  },
+  {
+    "bankId": 476,
+    "bankName": "JILA SAHAKARI KENDRIYA BANK MARYADIT, JABALPUR"
+  },
+  {
+    "bankId": 477,
+    "bankName": "IMPERIAL URBAN CO-OP BANK LTD,JALANDHAR"
+  },
+  {
+    "bankId": 478,
+    "bankName": "TEACHERS CO-OP BANK LTD, MANGALORE"
+  },
+  {
+    "bankId": 479,
+    "bankName": "JILA SAHAKARI CENTRAL BANK MARYADIT, GWALIOR"
+  },
+  {
+    "bankId": 481,
+    "bankName": "THRISSUR DISTRICT CO-OP BANK LTD, THRISSUR"
+  },
+  {
+    "bankId": 482,
+    "bankName": "KSHETRIYA GRAMIN BANK, HOSHANGABAD"
+  },
+  {
+    "bankId": 484,
+    "bankName": "ALLAHABAD KSHETRIYA GRAMIN BANK, ALLAHABAD"
+  },
+  {
+    "bankId": 487,
+    "bankName": "BANARAS MERCANTILE CO-OP BANK LTD, VARANASI"
+  },
+  {
+    "bankId": 489,
+    "bankName": "GWALIOR DATIA KSHETRIYA GRAMIN BANK, GWALIOR"
+  },
+  {
+    "bankId": 490,
+    "bankName": "ALLAHABAD DISTRICT CO-OP BANK LTD, ALLAHABAD"
+  },
+  {
+    "bankId": 492,
+    "bankName": "INDIRA PRIYADARSHINI MAHILA NAG.SAH.BANK MARYADIT"
+  },
+  {
+    "bankId": 494,
+    "bankName": "RAIPUR URBAN MERCANTILE CO-OP BANK LTD, RAIPUR"
+  },
+  {
+    "bankId": 496,
+    "bankName": "NAGRIK SAHAKARI BANK LTD, RAIPUR"
+  },
+  {
+    "bankId": 498,
+    "bankName": "KOZHIKODE DISTRICT CO-OP BANK LTD, KOZHIKODE (CALICUT)"
+  },
+  {
+    "bankId": 499,
+    "bankName": "KERALA MERCANTILE CO-OP BANK LTD, CALICUT"
+  },
+  {
+    "bankId": 5000,
+    "bankName": "ICIICIBANK"
+  },
+  {
+    "bankId": 501,
+    "bankName": "CALICUT CO-OP URBAN BANK LTD, CALICUT"
+  },
+  {
+    "bankId": 5010,
+    "bankName": "ICIICIBANK10"
+  },
+  {
+    "bankId": 5013,
+    "bankName": "ICIICIBANK13"
+  },
+  {
+    "bankId": 5014,
+    "bankName": "ICIICIBANK14"
+  },
+  {
+    "bankId": 5025,
+    "bankName": "ICIICIBANK25"
+  },
+  {
+    "bankId": 505,
+    "bankName": "SHRI GANESH SAHAKARI BANK LTD, NASIK"
+  },
+  {
+    "bankId": 5050,
+    "bankName": "ICIICIBANK"
+  },
+  {
+    "bankId": 506,
+    "bankName": "PADMASHRI DR. VITHALRAO VIKHE PATIL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 509,
+    "bankName": "NASIK ZILLA GIRNA SAHAKARI BANK LTD, NASIK"
+  },
+  {
+    "bankId": 510,
+    "bankName": "JANASEVA CO-OP BANK LTD, NASIK"
+  },
+  {
+    "bankId": 511,
+    "bankName": "DR.BABASAHEB AMBEDKAR SAH. BANK LTD, NASIK"
+  },
+  {
+    "bankId": 515,
+    "bankName": "SRI VISAKHA GRAMEENA BANK, SRIKAKULAM"
+  },
+  {
+    "bankId": 516,
+    "bankName": "THAR ANCHALIK GRAMIN BANK, JODHPUR"
+  },
+  {
+    "bankId": 517,
+    "bankName": "JODHPUR CENTRAL CO-OP BANK LTD, JODHPUR"
+  },
+  {
+    "bankId": 518,
+    "bankName": "PIMPALGAON MERCHANTS CO-OP BANK LTD, NASIK"
+  },
+  {
+    "bankId": 519,
+    "bankName": "THE DISTRICT CO-OP CENTRAL BANK LTD, VISAKHAPATNAM"
+  },
+  {
+    "bankId": 520,
+    "bankName": "FEROKE CO-OP URBAN BANK LTD, CALICUT"
+  },
+  {
+    "bankId": 523,
+    "bankName": "SHRI VITRAG CO-OP BANK LTD, SURAT"
+  },
+  {
+    "bankId": 526,
+    "bankName": "DR. AMBEDKAR NAGRIK  SAHAKARI  BANK MARYADIT, GWALIOR"
+  },
+  {
+    "bankId": 527,
+    "bankName": "THE BAGHAT URBAN CO-OP BANK LTD, H.O. SOLAN(H.P)"
+  },
+  {
+    "bankId": 528,
+    "bankName": "THE KANAKAMAHALAKSHMI CO-OP BANK LTD, VISHAKHAPATNAM"
+  },
+  {
+    "bankId": 529,
+    "bankName": "DURG-RAJNANAGAON GRAMIN BANK, BHILAI"
+  },
+  {
+    "bankId": 530,
+    "bankName": "PRAGATI MAHILA NAGARIK SAHAKARI BANK LTD., BHILAI NAGAR"
+  },
+  {
+    "bankId": 531,
+    "bankName": "BHILAI NAGARIK SAHAKARI BANK LTD.,BHILAI NAGAR"
+  },
+  {
+    "bankId": 533,
+    "bankName": "VIKRAMADITYA NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 534,
+    "bankName": "CITIZEN CO-OP BANK LTD, M.P."
+  },
+  {
+    "bankId": 535,
+    "bankName": "DEENDAYAL NAGARIK SAHAKARI BANK LTD."
+  },
+  {
+    "bankId": 536,
+    "bankName": "UJJAIN PARASPAR SAHAKARI BANK LTD, UJJAIN"
+  },
+  {
+    "bankId": 537,
+    "bankName": "UJJAIN AUDYOGIK VIKAS NAGARIK SAHAKARI BANK LTD, UJJAIN"
+  },
+  {
+    "bankId": 538,
+    "bankName": "BHARAT HEAVY ELECTRICALS EMPLOYEES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 539,
+    "bankName": "ANANDESHWARI NAGARIK SAHAKARI BANK LTD., UJJAIN"
+  },
+  {
+    "bankId": 540,
+    "bankName": "JILA SAHAKARI KENDRIYA BANK LTD"
+  },
+  {
+    "bankId": 541,
+    "bankName": "DEHRADUN DISTRICT CO-OP BANK, DEHRADUN"
+  },
+  {
+    "bankId": 542,
+    "bankName": "URBAN CO-OP BANK, DEHRADUN"
+  },
+  {
+    "bankId": 543,
+    "bankName": "DOON VALLEY URBAN CO-OP BANK, DEHRADUN"
+  },
+  {
+    "bankId": 546,
+    "bankName": "UJJAIN NAGARIK SAHAKARI BANK LTD., UJJAIN"
+  },
+  {
+    "bankId": 547,
+    "bankName": "TRICHIRAPALLI DISTRICT CENTRAL CO-OP BANK LTD, TIRUCHI"
+  },
+  {
+    "bankId": 548,
+    "bankName": "BASTAR KSHETRIYA GRAMIN BANK, JAGDALPUR"
+  },
+  {
+    "bankId": 549,
+    "bankName": "JILA SAHAKRI KENDRIYA BANK, JAGDALPUR"
+  },
+  {
+    "bankId": 550,
+    "bankName": "NAGARIK SAHAKARI BANK, JAGDALPUR"
+  },
+  {
+    "bankId": 551,
+    "bankName": "JILA SAHAKARI KENDRIYA BANK LTD., BETUL (M.P.)"
+  },
+  {
+    "bankId": 552,
+    "bankName": "BETUL NAGARIK SAHAKARI BANK LTD., BETUL (M.P.)"
+  },
+  {
+    "bankId": 553,
+    "bankName": "TRICHIRAPALLI CITY CO-OP BANK LTD, TIRUCHI (TAMIL NADU)"
+  },
+  {
+    "bankId": 555,
+    "bankName": "CUTTACK GRAMYA BANK, CUTTACK"
+  },
+  {
+    "bankId": 556,
+    "bankName": "SHRAMIK NAGARIK SAHAKARI BANK LTD., INDORE"
+  },
+  {
+    "bankId": 557,
+    "bankName": "BILASPUR NAGARIK SAHAKARI BANK, BILASPUR"
+  },
+  {
+    "bankId": 558,
+    "bankName": "BILASA MAHILA NAGARIK SAHAKARI BANK, BILASPUR"
+  },
+  {
+    "bankId": 559,
+    "bankName": "CHOUNDESHWARI CO-OP BANK LTD, ICHALKARANJI, KOLHAPUR (M.S.)"
+  },
+  {
+    "bankId": 560,
+    "bankName": "VASANTDADA SHETKARI SAHAKARI BANK LTD. , SANGLI (M.S.)"
+  },
+  {
+    "bankId": 563,
+    "bankName": "MAHISHMATI NAGARIK SAHAKARI BANK LTD., MANDLA (M.P.)"
+  },
+  {
+    "bankId": 565,
+    "bankName": "MYSORE MERCHANTS CO-OPERATIVE BANK LTD., MYSORE"
+  },
+  {
+    "bankId": 566,
+    "bankName": "SRI KANYAKAPARAMESWARI CO-OP. BANK LTD., MYSORE"
+  },
+  {
+    "bankId": 567,
+    "bankName": "GRADUATE CO-OPERATIVE BANK LTD., MYSORE"
+  },
+  {
+    "bankId": 568,
+    "bankName": "CAUVERY GRAMEENA BANK , MYSORE"
+  },
+  {
+    "bankId": 569,
+    "bankName": "PEOPLES CO-OPERATIVE BANK LTD.HINGOLI,DIST.AURANGABAD (M.S)"
+  },
+  {
+    "bankId": 571,
+    "bankName": "ERODE CO-OP. URBAN BANK LTD., ERODE (TAMILNADU)"
+  },
+  {
+    "bankId": 572,
+    "bankName": "ERODE DIST. CENTRAL CO-OP BANK LTD., ERODE"
+  },
+  {
+    "bankId": 573,
+    "bankName": "MYSORE AND CHAMARAJNAGAR DIST. CO-OP. BANK LTD., MYSORE"
+  },
+  {
+    "bankId": 575,
+    "bankName": "MADHAV NAGARIK SAHAKARI BANK LTD., UDAIPUR"
+  },
+  {
+    "bankId": 576,
+    "bankName": "RAJSAMAND URBAN CO-OP.BANK LTD., UDAIPUR"
+  },
+  {
+    "bankId": 577,
+    "bankName": "UDAIPUR URBAN CO-OP. BANK LTD., UDAIPUR"
+  },
+  {
+    "bankId": 578,
+    "bankName": "UDAIPUR CENTRAL CO-OP. BANK LTD., UDAIPUR"
+  },
+  {
+    "bankId": 579,
+    "bankName": "AURANGABAD DIST. CENTRAL CO-OP.BANK LTD., AURANGABAD (M.S.)"
+  },
+  {
+    "bankId": 580,
+    "bankName": "MEWAR AANCHALIK GRAMIN BANK, UDAIPUR"
+  },
+  {
+    "bankId": 581,
+    "bankName": "UDAIPUR MAHILA URBAN CO-OP. BANK LTD. UDAIPUR"
+  },
+  {
+    "bankId": 585,
+    "bankName": "GAUTAM SAHAKARI BANK LTD., GAUTAMNAGAR(DIST.AHMEDNAGAR)M.S."
+  },
+  {
+    "bankId": 586,
+    "bankName": "SOLAPUR DIST., CENTRAL CO-OP. BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 588,
+    "bankName": "PANDHARPUR URBAN CO-OP. BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 589,
+    "bankName": "SOLAPUR SIDDEHWAR SAHAKARI BANK LTD.,SOLAPUR (M.S)"
+  },
+  {
+    "bankId": 590,
+    "bankName": "SOLAPUR SOCIAL URBAN CO-OP.BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 591,
+    "bankName": "VIKAS SAHAKARI BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 592,
+    "bankName": "VYAPARI SAHAKARI BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 593,
+    "bankName": "BRAHMADEODADA MANE SAHAKARI BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 594,
+    "bankName": "INDIRA SHRAMIK MAHILA NAGARI SAHAKARI BANK SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 595,
+    "bankName": "ARJUN URBAN CO-OP. BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 596,
+    "bankName": "MANORAMA CO-OP. BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 598,
+    "bankName": "MAHESH URBAN CO-OP. BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 599,
+    "bankName": "OSMANABAD JANTA SAHAKARI BANK LTD.SOLAPUR(M.S.)"
+  },
+  {
+    "bankId": 600,
+    "bankName": "NILKANTH URBAN CO-OP. BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 6001,
+    "bankName": "ICIICIBANK1"
+  },
+  {
+    "bankId": 601,
+    "bankName": "VITA MERCHANTS CO-OP. BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 602,
+    "bankName": "VIDYANANAD CO-OP. BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 603,
+    "bankName": "SHRI MAHAVEER URBAN CO-OP. BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 605,
+    "bankName": "KAMALA CO-OP. BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 607,
+    "bankName": "SHARAD NAGARI SAHAKARI BANK LTD., SOLAPUR (M.S.)"
+  },
+  {
+    "bankId": 609,
+    "bankName": "BELGAUM DIST. CENTRAL CO-OP. BANK LTD., BELGAUM (M.S.)"
+  },
+  {
+    "bankId": 610,
+    "bankName": "UDAIPUR MAHILA SAMRIDHI URBAN CO-OP. BANK LTD., UDAIPUR"
+  },
+  {
+    "bankId": 611,
+    "bankName": "NAGAR SAHAKARI BANK LTD., GORAKHPUR (U.P.)"
+  },
+  {
+    "bankId": 612,
+    "bankName": "LAXMI CO-OPERATIVE BANK LTD.,  SOLAPUR"
+  },
+  {
+    "bankId": 613,
+    "bankName": "SOLAPUR NAGRI AUDHYOGIK SAHAKARI BANK"
+  },
+  {
+    "bankId": 614,
+    "bankName": "MANIPUR RURAL BANK, IMPHAL (MANIPUR)"
+  },
+  {
+    "bankId": 616,
+    "bankName": "KOTA CENTRAL CO-OP. BANK LTD., KOTA"
+  },
+  {
+    "bankId": 617,
+    "bankName": "KOTA NAGRIK SAHAKARI BANK LTD., KOTA(RAJASTHAN)"
+  },
+  {
+    "bankId": 618,
+    "bankName": "MEGHALAYA CO-OP. APEX BANK LTD., SHILLONG (MEGHALAYA)"
+  },
+  {
+    "bankId": 620,
+    "bankName": "KA BANK NONGKYNDONG RI KHASI JAINTIA , SHILLONG"
+  },
+  {
+    "bankId": 623,
+    "bankName": "BHILWARA URBAN CO-OP. BANK LTD., BHILWARA"
+  },
+  {
+    "bankId": 624,
+    "bankName": "SALEM DIST. CENTRAL CO-OP. BANK LTD."
+  },
+  {
+    "bankId": 625,
+    "bankName": "SALEM URBAN CO-OP. BANK LTD., SALEM(TAMIL NADU)"
+  },
+  {
+    "bankId": 626,
+    "bankName": "SURAMANIANAGAR CO-OP.URBAN BANK LTD. , SALEM (TAMIL NADU)"
+  },
+  {
+    "bankId": 627,
+    "bankName": "SHEVAPET URBAN CO-OP. BANK LTD. , SALEM (TAMIL NADU)"
+  },
+  {
+    "bankId": 628,
+    "bankName": "AMMAPET URBAN CO-OP. BANK LTD., SALEM (TAMIL NADU)"
+  },
+  {
+    "bankId": 629,
+    "bankName": "TIRUPUR CO-OP. URBAN BANK LTD. , TIRUPUR (TAMIL NADU)"
+  },
+  {
+    "bankId": 630,
+    "bankName": "CENTRAL CO-OP. BANK LTD., BHILWARA"
+  },
+  {
+    "bankId": 631,
+    "bankName": "BHILWARA MAHILA URBAN CO-OP. BANK LTD., BHILWARA"
+  },
+  {
+    "bankId": 632,
+    "bankName": "PONDICHERRY STATE CO-OP. BANK LTD., PONDICHERRY"
+  },
+  {
+    "bankId": 633,
+    "bankName": "PONDICHERRY CO-OP.URBAN BANK LTD., PONDICHERRY"
+  },
+  {
+    "bankId": 634,
+    "bankName": "ELURI CO-OP. URBAN BANK LTD., GUNTUR"
+  },
+  {
+    "bankId": 635,
+    "bankName": "GUNTUR DIST. CO-OP. CENTRAL BANK LTD., TENALI (A.P.)"
+  },
+  {
+    "bankId": 636,
+    "bankName": "NAGALAND STATE CO-OP. BANK LTD., DIMAPUR (NAGALAND)"
+  },
+  {
+    "bankId": 637,
+    "bankName": "TRIPURA STATE CO-OP. BANK LTD., AGARTALA (TRIPURA)"
+  },
+  {
+    "bankId": 638,
+    "bankName": "ARUNNACHAL PRADESH STATE CO-OP. APEX BANK LTD., ITANAGAR"
+  },
+  {
+    "bankId": 640,
+    "bankName": "HINDUSTAN CO-OP. BANK LTD.,LUCKNOW (U.P.)"
+  },
+  {
+    "bankId": 642,
+    "bankName": "JAMMU RURAL BANK, SHAKTI NAGAR, JAMMU"
+  },
+  {
+    "bankId": 643,
+    "bankName": "RANCHI KHUNTI CENTRAL CO-OP. BANK LTD. SHAHEED CHOWK, RANCHI"
+  },
+  {
+    "bankId": 644,
+    "bankName": "ELLAQUAI DEHATI BANK, JAMMU"
+  },
+  {
+    "bankId": 645,
+    "bankName": "THE JAMMU CENTRAL CO-OPERATIVE BANK LTD."
+  },
+  {
+    "bankId": 646,
+    "bankName": "RAILWAY EMPLOYEES CO-OP BANK LTD., JODHPUR"
+  },
+  {
+    "bankId": 648,
+    "bankName": "SINGHBHUM DIST. CENTRAL CO-OP. BANK LTD.,JHARKHAND"
+  },
+  {
+    "bankId": 649,
+    "bankName": "GANDHI CO-OP URBAN BANK LTD., VIJAYAWADA"
+  },
+  {
+    "bankId": 650,
+    "bankName": "KRISHNA DIST CO-OP. CENTRAL BANK LTD., VIJAYAWADA"
+  },
+  {
+    "bankId": 651,
+    "bankName": "DURGA CO-OP. URBAN BANK LTD., VIJAYAWADA"
+  },
+  {
+    "bankId": 652,
+    "bankName": "COASTAL LOCAL AREA BANK LTD."
+  },
+  {
+    "bankId": 654,
+    "bankName": "J AND K STATE CO-OP. BANK LTD., SRINAGAR"
+  },
+  {
+    "bankId": 655,
+    "bankName": "PALLAVAN GRAMA BANK, SALEM"
+  },
+  {
+    "bankId": 656,
+    "bankName": "ANDAMAN AND NICOBAR CO-OP. BANK LTD., PORTBLAIR"
+  },
+  {
+    "bankId": 657,
+    "bankName": "SIKKIM STATE CO-OP. BANK LTD., GANGTOK"
+  },
+  {
+    "bankId": 660,
+    "bankName": "CITIZEN COOPERATIVE BANK ,  JAMMU"
+  },
+  {
+    "bankId": 661,
+    "bankName": "LOKVIKAS NAGARI SAHAKARI BANK LTD."
+  },
+  {
+    "bankId": 663,
+    "bankName": "STATE BANK OF TRIVANDRUM"
+  },
+  {
+    "bankId": 664,
+    "bankName": "SANDUR PATTANA BANK"
+  },
+  {
+    "bankId": 665,
+    "bankName": "HASSAN BANK LTD"
+  },
+  {
+    "bankId": 666,
+    "bankName": "KRISHNA GRAMEENA BANK"
+  },
+  {
+    "bankId": 667,
+    "bankName": "THE AHMEDNAGAR MERCHANTS CO-OP. BANK LTD"
+  },
+  {
+    "bankId": 668,
+    "bankName": "CHHATISGARH GRAMIN BANK"
+  },
+  {
+    "bankId": 669,
+    "bankName": "REWA SIDHI GRAMIN BANK"
+  },
+  {
+    "bankId": 670,
+    "bankName": "LLOYDS TSB"
+  },
+  {
+    "bankId": 671,
+    "bankName": "NATWEST"
+  },
+  {
+    "bankId": 672,
+    "bankName": "THE ROYAL BANK OF SCOTLAND"
+  },
+  {
+    "bankId": 673,
+    "bankName": "ELLAQUAI DEHATI BANK"
+  },
+  {
+    "bankId": 674,
+    "bankName": "SHIVPURI-GUNA KSHETRIYA GRAMEENA BANK HAT ROAD"
+  },
+  {
+    "bankId": 675,
+    "bankName": "SRI VISAKHA GRAMEENA BANK"
+  },
+  {
+    "bankId": 676,
+    "bankName": "JPMORGAN CHASE BANK"
+  },
+  {
+    "bankId": 677,
+    "bankName": "MAHAVEER CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 678,
+    "bankName": "OSUUSPANKKI"
+  },
+  {
+    "bankId": 679,
+    "bankName": "ALIGARH GRAMIN BANK"
+  },
+  {
+    "bankId": 680,
+    "bankName": "ANDHRA PRAGATI GRAMEENA BANK"
+  },
+  {
+    "bankId": 681,
+    "bankName": "ANNASAHEB MAGAR SAH.BANK"
+  },
+  {
+    "bankId": 682,
+    "bankName": "BALASORE BHADRAK CENTRAL CO OP BANK LTD"
+  },
+  {
+    "bankId": 683,
+    "bankName": "BARODA EASTERN UTTAR PRADESH GRAMIN BANK"
+  },
+  {
+    "bankId": 684,
+    "bankName": "BHARAT URBAN CO-OP. BANK LTD."
+  },
+  {
+    "bankId": 685,
+    "bankName": "BHATKAL URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 686,
+    "bankName": "CHAMBAL KSHETRIY GRAMIN BANK"
+  },
+  {
+    "bankId": 687,
+    "bankName": "DEVELOPMENT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 688,
+    "bankName": "DOMBIVALI NAGARI SAH BANK LTD"
+  },
+  {
+    "bankId": 689,
+    "bankName": "GANGA YAMUNA GRAMIN BANK"
+  },
+  {
+    "bankId": 690,
+    "bankName": "GODHRA URBAN CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 691,
+    "bankName": "GONDAL NAGRIK SAH. BANK LTD. (SU MEMBER OF RDCC)"
+  },
+  {
+    "bankId": 692,
+    "bankName": "GORAKHPUR KSHETRIY GRAMIN BANK"
+  },
+  {
+    "bankId": 695,
+    "bankName": "KASHI GOMIT SAMYUT GRAMIN BANK"
+  },
+  {
+    "bankId": 698,
+    "bankName": "NOIDA COMMERCIAL COOP BANK LTD"
+  },
+  {
+    "bankId": 700,
+    "bankName": "PEOPLES URBAN CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 7000,
+    "bankName": "ICIICIBANK"
+  },
+  {
+    "bankId": 701,
+    "bankName": "PRATHAMA BANK"
+  },
+  {
+    "bankId": 702,
+    "bankName": "PRIMARY AGRICULTURE CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 704,
+    "bankName": "RATNAKAR CO-OP BANK LTD."
+  },
+  {
+    "bankId": 705,
+    "bankName": "SANGLI URBAN CO.OP. BANK"
+  },
+  {
+    "bankId": 707,
+    "bankName": "SREE THYAGARAJA CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 708,
+    "bankName": "SULTAN BATHERY CO OP URBAN BANK"
+  },
+  {
+    "bankId": 709,
+    "bankName": "THE ALMORA CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 710,
+    "bankName": "THE DAHOD MERCANTILE CO OP BANK LTD"
+  },
+  {
+    "bankId": 711,
+    "bankName": "THE DAHOD URBAN CO OP BANK LTD"
+  },
+  {
+    "bankId": 712,
+    "bankName": "THE EXCELLENT CO-OP.BANK LTD.(SCO)"
+  },
+  {
+    "bankId": 713,
+    "bankName": "THE GANDHINAGAR NAGARIK CO OP BANK LTD"
+  },
+  {
+    "bankId": 714,
+    "bankName": "THE GOBICHETTIPALAYAM CO OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 715,
+    "bankName": "THE KASARGOD DISTRICT CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 716,
+    "bankName": "THE KODUNGALLUR TOWN CO OP BANK LTD"
+  },
+  {
+    "bankId": 717,
+    "bankName": "THE KURUNDWAD URBAN CO OP BANK LTD"
+  },
+  {
+    "bankId": 718,
+    "bankName": "THE MALAPPURAM SERVICE CO OP BANK LTD"
+  },
+  {
+    "bankId": 719,
+    "bankName": "THE SANGRUR CENTRAL CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 720,
+    "bankName": "THE UMRETH URBAN CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 721,
+    "bankName": "THE VELLORE DISTRICT CENTRAL CO OP BANK LTD"
+  },
+  {
+    "bankId": 722,
+    "bankName": "THE WAI URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 724,
+    "bankName": "THODUPUZHA URBAN CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 726,
+    "bankName": "UNITED MERCANTILE CO-OP. BANK LTD."
+  },
+  {
+    "bankId": 727,
+    "bankName": "PUNJAB GRAMIN BANK"
+  },
+  {
+    "bankId": 728,
+    "bankName": "CHINA TRUST COMMERCIAL BANK"
+  },
+  {
+    "bankId": 729,
+    "bankName": "MIZUHO CORPORATE BANK LTD"
+  },
+  {
+    "bankId": 730,
+    "bankName": "DICGC"
+  },
+  {
+    "bankId": 731,
+    "bankName": "CREDIT AGRICOLE CORPORATE AND INVESTEMENT BANK"
+  },
+  {
+    "bankId": 732,
+    "bankName": "BNP PARIBAS"
+  },
+  {
+    "bankId": 734,
+    "bankName": "NKGSB CO-OP BANK LTD"
+  },
+  {
+    "bankId": 735,
+    "bankName": "THE TAMILNADU STATE APEX COOPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 736,
+    "bankName": "ABN AMRO BANK"
+  },
+  {
+    "bankId": 737,
+    "bankName": "OCBC BANK"
+  },
+  {
+    "bankId": 738,
+    "bankName": "POSBANK"
+  },
+  {
+    "bankId": 739,
+    "bankName": "VASAI JANATA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 741,
+    "bankName": "JALGOAN JANATA CO-OP BANK"
+  },
+  {
+    "bankId": 742,
+    "bankName": "ANNASAHEB JANATA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 743,
+    "bankName": "CO-OPERATIVE BANK OF INDIA"
+  },
+  {
+    "bankId": 744,
+    "bankName": "ABHINANDAN URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 745,
+    "bankName": "ADAYAPAKA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 747,
+    "bankName": "AGRASEN URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 748,
+    "bankName": "AGRASEN NAGARI SAHAKARI CO-OP CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 749,
+    "bankName": "AJANTA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 752,
+    "bankName": "SHRI AKHAND ANAND CO-OP BANK LTD"
+  },
+  {
+    "bankId": 753,
+    "bankName": "ALAVI CO-OP BANK LTD"
+  },
+  {
+    "bankId": 754,
+    "bankName": "ALAPPUZHA DISTRICT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 755,
+    "bankName": "ALIBAG CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 757,
+    "bankName": "ABHINANDAN SAHAKARI BANK NIYAMIT"
+  },
+  {
+    "bankId": 758,
+    "bankName": "ABHIVRUDDHI MAHILA SAHAKARA BANK"
+  },
+  {
+    "bankId": 759,
+    "bankName": "ACCOUNTANT GENERAL OFFICE EMPLOYEES CO-OP BANK"
+  },
+  {
+    "bankId": 760,
+    "bankName": "ADCC BANK"
+  },
+  {
+    "bankId": 762,
+    "bankName": "AGRASEN NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 763,
+    "bankName": "AGROHA CO OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 764,
+    "bankName": "AHMEDNAGAR DIST CENTRAL CO OP BANK LTD"
+  },
+  {
+    "bankId": 766,
+    "bankName": "AJIT SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 767,
+    "bankName": "AJRA URBAN COOP BANK LTD"
+  },
+  {
+    "bankId": 768,
+    "bankName": "AKOT URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 769,
+    "bankName": "AL FATAH CREDIT COOP SOCIETY LTD"
+  },
+  {
+    "bankId": 770,
+    "bankName": "ALAKNANDA GRAMIN BANK"
+  },
+  {
+    "bankId": 771,
+    "bankName": "ALASKA USA FEDERAL CREDIT UNION"
+  },
+  {
+    "bankId": 772,
+    "bankName": "ALIGARH ZILA SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 773,
+    "bankName": "ALWAR URBAN CO OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 774,
+    "bankName": "AMARNATH CO OP BANK LTD"
+  },
+  {
+    "bankId": 775,
+    "bankName": "AMBAJOGAI PEOPLES CO-OP BANK"
+  },
+  {
+    "bankId": 776,
+    "bankName": "AMBALA KURUKSHETRA GRAMIN BANK"
+  },
+  {
+    "bankId": 777,
+    "bankName": "AMBALAPAD SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 778,
+    "bankName": "AMBARNATH JAI HIND COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 779,
+    "bankName": "AMBIKA URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 780,
+    "bankName": "AMCO BANK"
+  },
+  {
+    "bankId": 781,
+    "bankName": "ANAND MERCANTILE COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 782,
+    "bankName": "ANANTAPUR DIST CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 783,
+    "bankName": "ANANYA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 784,
+    "bankName": "ANDARSUL URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 785,
+    "bankName": "ANDHRA PRADESH GRAMEENA VIKAS BANK LTD"
+  },
+  {
+    "bankId": 786,
+    "bankName": "ANJARAKANDY FARMERS SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 787,
+    "bankName": "ANKLESHWAR UDYOGNAGAR CO-OP BANK LTD"
+  },
+  {
+    "bankId": 788,
+    "bankName": "ANNASAHEB PATIL URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 789,
+    "bankName": "ANYONYA CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 790,
+    "bankName": "AP RAJA RAJESHWARI MAHILA CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 791,
+    "bankName": "APPASAHEB BIRNALE SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 792,
+    "bankName": "ARBAN BANK"
+  },
+  {
+    "bankId": 793,
+    "bankName": "AREA CODE SERVICE CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 794,
+    "bankName": "ARIHANT URBAN CO-OP CREDIT SOCIETY LTD"
+  },
+  {
+    "bankId": 795,
+    "bankName": "ARIHANT URBAN SOUHARDA CREDIT SAHAKARI LTD"
+  },
+  {
+    "bankId": 796,
+    "bankName": "ARUNA KANTILAL SAHAKARI BANK"
+  },
+  {
+    "bankId": 797,
+    "bankName": "ARYAVART GRAMIN BANK"
+  },
+  {
+    "bankId": 798,
+    "bankName": "ASHOK NAGAR CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 799,
+    "bankName": "ASHTA PEOPLES CO-OP BANK LTD"
+  },
+  {
+    "bankId": 8000,
+    "bankName": "TMB Bank"
+  },
+  {
+    "bankId": 813,
+    "bankName": "BALASORE CO-OPERATIVE URBAN BANK LTD"
+  },
+  {
+    "bankId": 817,
+    "bankName": "BANASKANTHA DIST CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 818,
+    "bankName": "BANGALORE CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 819,
+    "bankName": "BANGALORE SOUHARDA CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 820,
+    "bankName": "BANGIYA GRAMIN VIKASH BANK"
+  },
+  {
+    "bankId": 821,
+    "bankName": "BANK INTERNASIONAL INDONESIA"
+  },
+  {
+    "bankId": 824,
+    "bankName": "BANK ONE N.A."
+  },
+  {
+    "bankId": 825,
+    "bankName": "BANKURA DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 826,
+    "bankName": "BAPUJI CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 829,
+    "bankName": "BARDHAMAN GRAMIN BANK"
+  },
+  {
+    "bankId": 830,
+    "bankName": "BAREILLY KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 832,
+    "bankName": "BARODA GUJARAT GRAMIN BANK"
+  },
+  {
+    "bankId": 833,
+    "bankName": "BARODA U P GRAMIN BANK"
+  },
+  {
+    "bankId": 834,
+    "bankName": "BARODA ZILA SAHAKARI BANK"
+  },
+  {
+    "bankId": 837,
+    "bankName": "BELGAUM INDUSTRIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 838,
+    "bankName": "BELLAD BAGEWADI URBAN SOUHARDA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 839,
+    "bankName": "BELLARY DISTRICT CO-OP CENTRAL BANK LTD"
+  },
+  {
+    "bankId": 844,
+    "bankName": "BHAGALPUR BANKA KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 845,
+    "bankName": "BHAGAT URBAN CO OP BANK LTD"
+  },
+  {
+    "bankId": 847,
+    "bankName": "BHAILALBHAI CONTRACTOR SAMRAK CO-OP BANK"
+  },
+  {
+    "bankId": 848,
+    "bankName": "BHAIRAVESHWARA CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 853,
+    "bankName": "BHARATIYA SAHAKARA BANK NIYAMITHA"
+  },
+  {
+    "bankId": 854,
+    "bankName": "BHARATIYA STATE BANK"
+  },
+  {
+    "bankId": 855,
+    "bankName": "BHARUCH DIST CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 856,
+    "bankName": "BHATPARA NAIHATI CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 857,
+    "bankName": "BHAVANI SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 858,
+    "bankName": "BHAVNAGAR DISTRICT CO-OP BANK"
+  },
+  {
+    "bankId": 859,
+    "bankName": "BHILWARA AJMER KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 860,
+    "bankName": "BHIMAVARAM CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 862,
+    "bankName": "BHUJ MERCANTILE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 863,
+    "bankName": "BHUPATHIRAJU CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 864,
+    "bankName": "BHUSAWAL PEOPLES CO-OP BANK"
+  },
+  {
+    "bankId": 865,
+    "bankName": "BIHAR KSHETRIYA GRAMIN BANK LTD"
+  },
+  {
+    "bankId": 866,
+    "bankName": "BIJAPUR DISTRICT CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 868,
+    "bankName": "BIJAPUR MAHALAXMI URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 869,
+    "bankName": "BIJAPUR SAHAKARI BANK"
+  },
+  {
+    "bankId": 870,
+    "bankName": "BOLANGIR ANCHALIK GRAMIN BANK"
+  },
+  {
+    "bankId": 871,
+    "bankName": "BORAL UNION CO-OP BANK LTD"
+  },
+  {
+    "bankId": 872,
+    "bankName": "BRAHMAWART COMMERCIAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 873,
+    "bankName": "BULDANA URBAN CO-OP CREDIT SOCIETY"
+  },
+  {
+    "bankId": 874,
+    "bankName": "BZRC MAHILA BANK"
+  },
+  {
+    "bankId": 875,
+    "bankName": "C G BANK"
+  },
+  {
+    "bankId": 878,
+    "bankName": "C K P COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 879,
+    "bankName": "C RANJANA CATHOLIC SYRIAN BANK"
+  },
+  {
+    "bankId": 880,
+    "bankName": "C S B BANK"
+  },
+  {
+    "bankId": 881,
+    "bankName": "CALICUT CITY SERVICE CO-OP BANK"
+  },
+  {
+    "bankId": 882,
+    "bankName": "CANNANORE CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 883,
+    "bankName": "CENTRAL BANK GULBARGA"
+  },
+  {
+    "bankId": 884,
+    "bankName": "CENTRAL BANK OF COMMERCE"
+  },
+  {
+    "bankId": 885,
+    "bankName": "CENTRAL BANK OF PUNJAB LTD"
+  },
+  {
+    "bankId": 886,
+    "bankName": "CHAITANYA CREDIT CO-OP BANK LTD"
+  },
+  {
+    "bankId": 887,
+    "bankName": "CHAITANYA GODAVARI GRAMEENA BANK"
+  },
+  {
+    "bankId": 888,
+    "bankName": "CHAITANYA GRAMEENA BANK"
+  },
+  {
+    "bankId": 889,
+    "bankName": "CHAMBAL GWALIOR KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 890,
+    "bankName": "CHANGANACHERRY NORTH SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 891,
+    "bankName": "CHARA PADA MINI BANK"
+  },
+  {
+    "bankId": 892,
+    "bankName": "CHARTERED SAHAKARI BANK NIYAMITHA"
+  },
+  {
+    "bankId": 894,
+    "bankName": "CHATREE GRAMEEN BANK"
+  },
+  {
+    "bankId": 895,
+    "bankName": "CHEMBUR NAGARIK SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 896,
+    "bankName": "CHENGALAM SERVICE CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 897,
+    "bankName": "CHENNAI CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 898,
+    "bankName": "CHETNA SAHAKARI BANK NIYAMITA"
+  },
+  {
+    "bankId": 899,
+    "bankName": "CHHATRASAL GRAMIN BANK"
+  },
+  {
+    "bankId": 900,
+    "bankName": "CHHINDWARA-SEONI KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 901,
+    "bankName": "CHIDAMBARAM CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 902,
+    "bankName": "CHIKHLI URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 904,
+    "bankName": "CHIKMAGALUR KODAGU GRAMEENA BANK"
+  },
+  {
+    "bankId": 905,
+    "bankName": "CHIKMAGALUR PATTANA SAHAKARI BANK NIYAMITHA"
+  },
+  {
+    "bankId": 906,
+    "bankName": "CHIKO BANK"
+  },
+  {
+    "bankId": 907,
+    "bankName": "CHIKO GRAMEENA BANK"
+  },
+  {
+    "bankId": 908,
+    "bankName": "CHIKODI URBAN COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 909,
+    "bankName": "CHITANVIS PURA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 910,
+    "bankName": "CHITRADURGA GRAMEENA BANK"
+  },
+  {
+    "bankId": 911,
+    "bankName": "CHOPDA URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 912,
+    "bankName": "CITY PATTINA SAHAKARI SANGHA NIYAMI"
+  },
+  {
+    "bankId": 913,
+    "bankName": "CLARKSTON STATE BANK"
+  },
+  {
+    "bankId": 914,
+    "bankName": "CONTAI COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 915,
+    "bankName": "COOPERATIVE URBAN BANK LIMITED"
+  },
+  {
+    "bankId": 916,
+    "bankName": "CUDDALORE DISTRICT CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 917,
+    "bankName": "CUTTACK CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 918,
+    "bankName": "D G G B BANK"
+  },
+  {
+    "bankId": 919,
+    "bankName": "D H V CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 920,
+    "bankName": "DADASAHEB RAWAL CO-OP BANK"
+  },
+  {
+    "bankId": 921,
+    "bankName": "DAHOD MERCANTILE CO OP CREDIT SOC LTD"
+  },
+  {
+    "bankId": 922,
+    "bankName": "DAIVADNYA SAHAKARI BANK NIYAMIT"
+  },
+  {
+    "bankId": 923,
+    "bankName": "DAIVAJNA CREDIT CO-OP SOCIETY LTD"
+  },
+  {
+    "bankId": 924,
+    "bankName": "DAMOH PANNA SAGAR KSHETRIYA GRAMIN BANK LTD"
+  },
+  {
+    "bankId": 925,
+    "bankName": "DARUSSALAM CO-OP BANK"
+  },
+  {
+    "bankId": 926,
+    "bankName": "DATTATRAY MAHARAJ KALAMBE JAOLI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 927,
+    "bankName": "DAVANGERE DISTRICT CENTRAL CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 928,
+    "bankName": "DAVANGERE HARIHAR URBAN SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 929,
+    "bankName": "DAVANGERE HARIHARA URBAN CO-OP BANK"
+  },
+  {
+    "bankId": 930,
+    "bankName": "DAVANGERE URBAN CO-OPERATIVE BANK LIMITED"
+  },
+  {
+    "bankId": 931,
+    "bankName": "DECCAN GRAMEENA BANK"
+  },
+  {
+    "bankId": 932,
+    "bankName": "NAGARI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 933,
+    "bankName": "DEVGIRI CO-OP BANK"
+  },
+  {
+    "bankId": 934,
+    "bankName": "DEVIPATAN KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 935,
+    "bankName": "DEWAS SHAJAPUR KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 936,
+    "bankName": "DHAKURIA COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 937,
+    "bankName": "DHARMAPURI DISTRICT CENTRAL CO-OP BANK"
+  },
+  {
+    "bankId": 938,
+    "bankName": "DHARMVEER SAMBHAJI URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 939,
+    "bankName": "DHENKANAL GRAMIN BANK"
+  },
+  {
+    "bankId": 940,
+    "bankName": "DHULE DISTRICT COOPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 941,
+    "bankName": "DHULE VIKAS SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 942,
+    "bankName": "DHULE ZILLA MADHYAVARTI SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 943,
+    "bankName": "DINDIGUL CENTRAL CO-OP BANK LTD"
+  },
+  {
+    "bankId": 944,
+    "bankName": "DISTRICT CENTRAL COOPERATIVE BANK"
+  },
+  {
+    "bankId": 945,
+    "bankName": "DISTT CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 946,
+    "bankName": "DPSRRB"
+  },
+  {
+    "bankId": 947,
+    "bankName": "DR PUNJABRAO DESHMUKH URBAN CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 948,
+    "bankName": "DRGB"
+  },
+  {
+    "bankId": 949,
+    "bankName": "DURGAPUR STEEL PEOPLES CO-OP BANK"
+  },
+  {
+    "bankId": 950,
+    "bankName": "E D C C BANK"
+  },
+  {
+    "bankId": 951,
+    "bankName": "EAST ELERI SERVICE CO-OP BANK LTD"
+  },
+  {
+    "bankId": 952,
+    "bankName": "EENADU CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 953,
+    "bankName": "ETAH GRAMIN BANK"
+  },
+  {
+    "bankId": 954,
+    "bankName": "ETAWAH DIST CO-OP BANK LTD"
+  },
+  {
+    "bankId": 955,
+    "bankName": "ETAWAH KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 956,
+    "bankName": "ETAWAH ZILA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 957,
+    "bankName": "EUROPEAN CENTRAL BANK"
+  },
+  {
+    "bankId": 958,
+    "bankName": "FAIZABAD KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 959,
+    "bankName": "FARMERS CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 960,
+    "bankName": "FARRUKHABAD GRAMIN BANK"
+  },
+  {
+    "bankId": 961,
+    "bankName": "FATIMA NAGAR CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 962,
+    "bankName": "FAZILKA CENTRAL COOPERATIVE BANK"
+  },
+  {
+    "bankId": 963,
+    "bankName": "G C U BANK"
+  },
+  {
+    "bankId": 964,
+    "bankName": "G D C C BANK"
+  },
+  {
+    "bankId": 965,
+    "bankName": "G K G BANK"
+  },
+  {
+    "bankId": 966,
+    "bankName": "G N C B LTD"
+  },
+  {
+    "bankId": 967,
+    "bankName": "G T C BANK"
+  },
+  {
+    "bankId": 968,
+    "bankName": "GADA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 969,
+    "bankName": "GAN NAGARIK CO-OP BANK"
+  },
+  {
+    "bankId": 970,
+    "bankName": "GANDHIDHAM CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 971,
+    "bankName": "GANDHIDHAM GRAMIN COOP BANK"
+  },
+  {
+    "bankId": 972,
+    "bankName": "GANDHIDHAM MERCANTILE CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 973,
+    "bankName": "GANGANAGAR KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 974,
+    "bankName": "GARHA CO-OP BANK LTD"
+  },
+  {
+    "bankId": 975,
+    "bankName": "GHAZIABAD ZILA SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 976,
+    "bankName": "GHAZIPUR URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 977,
+    "bankName": "GHOTI MERCHANTS CO-OP BANK LIMITED"
+  },
+  {
+    "bankId": 978,
+    "bankName": "GODAVARI LAXMI CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 979,
+    "bankName": "GOLCONDA GRAMEENA BANK"
+  },
+  {
+    "bankId": 980,
+    "bankName": "GOMTI GRAMIN BANK"
+  },
+  {
+    "bankId": 981,
+    "bankName": "GOOTY CO-OPERATIVE BANK"
+  },
+  {
+    "bankId": 982,
+    "bankName": "GOUR GRAMIN BANK"
+  },
+  {
+    "bankId": 983,
+    "bankName": "GOZARIA NAGRIK SAHAKARI BANK LIMITED"
+  },
+  {
+    "bankId": 984,
+    "bankName": "GRAMEENA BANK"
+  },
+  {
+    "bankId": 985,
+    "bankName": "GUDIVADA CO-OP URBAN BANK LTD"
+  },
+  {
+    "bankId": 986,
+    "bankName": "GUJARAT AMBUJA CO-OPERATIVE BANK LTD"
+  },
+  {
+    "bankId": 987,
+    "bankName": "GUJARAT MERCANTILE CO-OP BANK"
+  },
+  {
+    "bankId": 988,
+    "bankName": "GULBARGA DIST CO-OP CENTRAL BANK LTD"
+  },
+  {
+    "bankId": 989,
+    "bankName": "GULSHAN MERCANTILE URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 990,
+    "bankName": "GUNA KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 991,
+    "bankName": "GUNA NAGARIK SAHAKARI BANK"
+  },
+  {
+    "bankId": 992,
+    "bankName": "GURGAON GRAMIN BANK LTD"
+  },
+  {
+    "bankId": 993,
+    "bankName": "GURU NITYANANDA CREDIT CO-OPERATIVE SOCIETY LTD"
+  },
+  {
+    "bankId": 994,
+    "bankName": "GUTTHIGEDARAR CREDIT CO-OP SOCIETY"
+  },
+  {
+    "bankId": 995,
+    "bankName": "HADOTI KSHETRIYA GRAMIN BANK"
+  },
+  {
+    "bankId": 996,
+    "bankName": "HALOL URBAN CO-OP BANK LTD"
+  },
+  {
+    "bankId": 997,
+    "bankName": "HAMIRPUR DISTT CO-OP BANK"
+  },
+  {
+    "bankId": 998,
+    "bankName": "HARIHARESHWAR SAHAKARI BANK LTD"
+  },
+  {
+    "bankId": 999,
+    "bankName": "HARYANA GRAMIN BANK"
+  },
+  {
+    "bankId": 9999,
+    "bankName": "ashok"
+  }
+]

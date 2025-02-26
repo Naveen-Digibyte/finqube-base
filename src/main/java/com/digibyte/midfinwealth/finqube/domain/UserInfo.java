@@ -93,7 +93,7 @@ public class UserInfo {
     private int pinCode;
     
     @Column(name = "dfp_003_holdingType")
-    private HoldingType holdingType;
+    private String holdingType;
 
     @OneToOne
     @JoinColumn(name = "dfp_003_user", referencedColumnName = "crm_001_user_id")

@@ -1,0 +1,117 @@
+[
+  {
+    "canId": "14157AKA01",
+    "clientID": "IN30302923188719",
+    "depositoryID": "NSDL"
+  },
+  {
+    "canId": "14157AKA02",
+    "clientID": "IN80602923192719",
+    "depositoryID": "NSDL"
+  },
+  {
+    "canId": "14157AKA03",
+    "clientID": 1234567891234567,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "14157AZA01",
+    "clientID": 2134234234234234,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "14157AZA01",
+    "clientID": "IN23456789012345",
+    "depositoryID": "NSDL"
+  },
+  {
+    "canId": "14162ANA02",
+    "clientID": 2102909006173242,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "14162ANA02",
+    "clientID": "IN40602923129182",
+    "depositoryID": "NSDL"
+  },
+  {
+    "canId": "14163AKA01",
+    "clientID": 5654463543456456,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "14167AZA01",
+    "clientID": 8888888888888888,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "14167AZA01",
+    "clientID": "IN99999999999999",
+    "depositoryID": "NSDL"
+  },
+  {
+    "canId": "14188AMA06",
+    "clientID": 3012532062444444,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "14188BAA01",
+    "clientID": 3012325366222111,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "14189AMA02",
+    "clientID": 1301930090000002,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "14189AMA02",
+    "clientID": "IN30009590000001",
+    "depositoryID": "NSDL"
+  },
+  {
+    "canId": "14206BAA01",
+    "clientID": 9876543210987654,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "14206BAA01",
+    "clientID": "IN12345678901234",
+    "depositoryID": "NSDL"
+  },
+  {
+    "canId": "15014BAA03",
+    "clientID": 9898989898989898,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "15014BAA03",
+    "clientID": "IN12345678123456",
+    "depositoryID": "NSDL"
+  },
+  {
+    "canId": "16056BAA01",
+    "clientID": "IN12345678912345",
+    "depositoryID": "NSDL"
+  },
+  {
+    "canId": "16056BAA02",
+    "clientID": 6789012345678901,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "16056BAA02",
+    "clientID": "IN56789012345678",
+    "depositoryID": "NSDL"
+  },
+  {
+    "canId": "17017BAA01",
+    "clientID": 24680023113579,
+    "depositoryID": "CDSL"
+  },
+  {
+    "canId": "17017BAA01",
+    "clientID": "IN13579923182468",
+    "depositoryID": "NSDL"
+  }
+]

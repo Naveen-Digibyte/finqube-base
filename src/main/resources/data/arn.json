@@ -1,0 +1,79 @@
+[
+  {
+    "taxStatus": "Individual",
+    "arnCode": "ARN-5001",
+    "arnName": "A. Rajagopalan",
+    "euinCode": "E032984",
+    "euinName": "A. Rajagopalan"
+  },
+  {
+    "taxStatus": "Individual",
+    "arnCode": "ARN-6001",
+    "arnName": "Virendra Kumar Arya",
+    "euinCode": "E033498",
+    "euinName": "Virendra Kumar Arya"
+  },
+  {
+    "taxStatus": "Company",
+    "arnCode": "ARN-6091",
+    "arnName": "Indexarb Securities (Pvt) Ltd",
+    "euinCode": "E019966",
+    "euinName": "Mukund T.Bhammer"
+  },
+  {
+    "taxStatus": "Individual",
+    "arnCode": "ARN-7004",
+    "arnName": "Md. Ayub Alam",
+    "euinCode": "E109898",
+    "euinName": "Md. Ayub Alam"
+  },
+  {
+    "taxStatus": "Individual",
+    "arnCode": "ARN-7005",
+    "arnName": "Papia Alam",
+    "euinCode": "E109632",
+    "euinName": "Papia Alam"
+  },
+  {
+    "taxStatus": "Individual",
+    "arnCode": "ARN-7006",
+    "arnName": "Pradeep Kumar Verma",
+    "euinCode": "E074820",
+    "euinName": "Pradeep Kumar Verma"
+  },
+  {
+    "taxStatus": "Company",
+    "arnCode": "ARN-7007",
+    "arnName": "Three Cheers",
+    "euinCode": "E075988",
+    "euinName": "Sangeeta Vaidyanathan"
+  },
+  {
+    "taxStatus": "Individual",
+    "arnCode": "ARN-8001",
+    "arnName": "Pavan Manikchand Shah",
+    "euinCode": "E034671",
+    "euinName": "Pavan Manikchand Shah"
+  },
+  {
+    "taxStatus": "Company",
+    "arnCode": "ARN-0137",
+    "arnName": "DSFS Advisory Services (P) Ltd",
+    "euinCode": "E029341",
+    "euinName": "Nilesh Ajitbhai Rana"
+  },
+  {
+    "taxStatus": "Company",
+    "arnCode": "ARN-0137",
+    "arnName": "DSFS Advisory Services (P) Ltd",
+    "euinCode": "E030499",
+    "euinName": "Joshi Bhavin J"
+  },
+  {
+    "taxStatus": "Company",
+    "arnCode": "ARN-0137",
+    "arnName": "DSFS Advisory Services (P) Ltd",
+    "euinCode": "E098784",
+    "euinName": "Ajay Bharatkumar Patel"
+  }
+]

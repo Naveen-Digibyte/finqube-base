@@ -1,0 +1,1253 @@
+[
+  {
+    "canId": "14157AKA01",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065002,
+    "ifsc": "ABHY0065002",
+    "accountNo": 1234656789,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AKA02",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 11111111111111110000,
+    "accountType": "PSB"
+  },
+  {
+    "canId": "14157AKA02",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065018,
+    "ifsc": "ABHY0065018",
+    "accountNo": 1000000000,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AKA03",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065002,
+    "ifsc": "ABHY0065002",
+    "accountNo": 987654321,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "010",
+    "bankName": "ALLAHABAD BANK",
+    "micr": 440010004,
+    "ifsc": "ALLA0210191",
+    "accountNo": 1000121,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "011",
+    "bankName": "ANDHRA BANK",
+    "micr": 560011005,
+    "ifsc": "ANDB0000093",
+    "accountNo": "009311100003235",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "013",
+    "bankName": "BANK OF INDIA",
+    "micr": 110013001,
+    "ifsc": "BKID0006100",
+    "accountNo": 234567890,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 1213,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 12345,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 1234567890,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 5678901234,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "036",
+    "bankName": "STANDARD CHARTERED BANK",
+    "micr": 360036002,
+    "ifsc": "SCBL0036064",
+    "accountNo": 1234567353,
+    "accountType": "CA"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "036",
+    "bankName": "STANDARD CHARTERED BANK",
+    "micr": 400036008,
+    "ifsc": "SCBL0036052",
+    "accountNo": 1234567654132425,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "036",
+    "bankName": "STANDARD CHARTERED BANK",
+    "micr": 360036002,
+    "ifsc": "SCBL0036064",
+    "accountNo": 1234567890,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "036",
+    "bankName": "STANDARD CHARTERED BANK",
+    "micr": 560036002,
+    "ifsc": "SCBL0036073",
+    "accountNo": 21345675432,
+    "accountType": "OD"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 211,
+    "bankName": "AXIS BANK LTD",
+    "micr": 560211016,
+    "ifsc": "UTIB0000558",
+    "accountNo": 913010038337725,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240012,
+    "ifsc": "HDFC0000090",
+    "accountNo": 50200013404502,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 259,
+    "bankName": "IDBI LTD",
+    "micr": 411259019,
+    "ifsc": "IBKL0000677",
+    "accountNo": 12345,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 259,
+    "bankName": "IDBI LTD",
+    "micr": 695180018,
+    "ifsc": "IBKL0046T54",
+    "accountNo": 12345,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162ANA02",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 2500,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162ANA02",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 333,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162ANA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 411229017,
+    "ifsc": "ICIC0006450",
+    "accountNo": 125,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162ANA02",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 400240003,
+    "ifsc": "HDFC0000001",
+    "accountNo": 50100015780210,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162AZA01",
+    "bankId": "010",
+    "bankName": "ALLAHABAD BANK",
+    "micr": 110010002,
+    "ifsc": "ALLA0210835",
+    "accountNo": 1212012301,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162AZA01",
+    "bankId": "015",
+    "bankName": "CANARA BANK",
+    "micr": 673015006,
+    "ifsc": "CNRB0002385",
+    "accountNo": 254545,
+    "accountType": "CA"
+  },
+  {
+    "canId": "14162AZA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 100000000000000000000,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162AZA01",
+    "bankId": "072",
+    "bankName": "DEVELOPMENT CREDIT BANK",
+    "micr": 600072002,
+    "ifsc": "DCBL0000060",
+    "accountNo": 5420102,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162AZA01",
+    "bankId": 211,
+    "bankName": "AXIS BANK LTD",
+    "micr": 522211302,
+    "ifsc": "UTIB0000475",
+    "accountNo": 888889885888,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162AZA01",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 411229017,
+    "ifsc": "ICIC0006450",
+    "accountNo": 12222222222222221000,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162AZA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 400240003,
+    "ifsc": "HDFC0000001",
+    "accountNo": 50100015780210,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162AZA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240140,
+    "ifsc": "HDFC0001220",
+    "accountNo": 5555,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162AZA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 682240026,
+    "ifsc": "HDFC0001222",
+    "accountNo": 77899898,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14162AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 171532002,
+    "ifsc": "YESB0000091",
+    "accountNo": 54545,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163AKA01",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065013,
+    "ifsc": "ABHY0065013",
+    "accountNo": 1234,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": "012",
+    "bankName": "BANK OF BARODA",
+    "micr": 110012001,
+    "ifsc": "BARB0SERDEL",
+    "accountNo": 12345678990,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 12345,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 1234567890,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 12345678901234567000,
+    "accountType": "CLSB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": "072",
+    "bankName": "DEVELOPMENT CREDIT BANK",
+    "micr": 110072006,
+    "ifsc": "DCBL0000092",
+    "accountNo": 1234567890,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": "096",
+    "bankName": "AHMEDNAGAR SAHAKARI BANK LTD,BOMBAY",
+    "micr": 400096004,
+    "ifsc": "MCBL0960004",
+    "accountNo": 1234567891230120,
+    "accountType": "OD"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 118,
+    "bankName": "AHMEDABAD DIST.CO-OP BANK LTD",
+    "micr": 380118321,
+    "ifsc": "HDFC0CGNCBL",
+    "accountNo": 1234567890,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240140,
+    "ifsc": "HDFC0001220",
+    "accountNo": 123456,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240029,
+    "ifsc": "HDFC0000248",
+    "accountNo": 1234567,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 400240003,
+    "ifsc": "HDFC0000001",
+    "accountNo": 423423423432432,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14167AZA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 1,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14167AZA01",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065002,
+    "ifsc": "ABHY0065002",
+    "accountNo": 654321,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14188AMA06",
+    "bankId": 211,
+    "bankName": "AXIS BANK LTD",
+    "micr": 411211017,
+    "ifsc": "UTIB0000862",
+    "accountNo": 2345606266,
+    "accountType": "SNRA"
+  },
+  {
+    "canId": "14188AMA06",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 560229011,
+    "ifsc": "ICIC0006252",
+    "accountNo": 4001234241,
+    "accountType": "FCNR"
+  },
+  {
+    "canId": "14188AMA06",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 560240056,
+    "ifsc": "HDFC0001746",
+    "accountNo": 3001245360,
+    "accountType": "SNRR"
+  },
+  {
+    "canId": "14188BAA01",
+    "bankId": 211,
+    "bankName": "AXIS BANK LTD",
+    "micr": 411211017,
+    "ifsc": "UTIB0000862",
+    "accountNo": 3025255555,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14188BAA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 403240020,
+    "ifsc": "HDFC0001221",
+    "accountNo": 234564621313,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14188BAA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 825240102,
+    "ifsc": "HDFC0001742",
+    "accountNo": 25302525555,
+    "accountType": "CA"
+  },
+  {
+    "canId": "14189AMA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 411229017,
+    "ifsc": "ICIC0006450",
+    "accountNo": 1234567896,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189AMA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 570229003,
+    "ifsc": "ICIC0006255",
+    "accountNo": 1234567897,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189AMA02",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240140,
+    "ifsc": "HDFC0001220",
+    "accountNo": 1234567895,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189BAA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240140,
+    "ifsc": "HDFC0001220",
+    "accountNo": 12345,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14189BAA04",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 411229017,
+    "ifsc": "ICIC0006450",
+    "accountNo": 123789,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14189BAA04",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240140,
+    "ifsc": "HDFC0001220",
+    "accountNo": 12346789,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14189BAA05",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065002,
+    "ifsc": "ABHY0065002",
+    "accountNo": 1122334455,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14189BIA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 695229002,
+    "ifsc": "ICIC0006262",
+    "accountNo": 1234567888,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189BIA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 560229009,
+    "ifsc": "ICIC0006254",
+    "accountNo": 1234567896,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189BIA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 800229001,
+    "ifsc": "ICIC0006259",
+    "accountNo": 9999999992,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189BIA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 800229001,
+    "ifsc": "ICIC0006259",
+    "accountNo": 9999999993,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189BIA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 411229017,
+    "ifsc": "ICIC0006450",
+    "accountNo": 9999999994,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189BIA02",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240140,
+    "ifsc": "HDFC0001220",
+    "accountNo": 8888888881,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189BIA02",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240140,
+    "ifsc": "HDFC0001220",
+    "accountNo": 9999999991,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14190BAA01",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 411229017,
+    "ifsc": "ICIC0006450",
+    "accountNo": "0208",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14190BAA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240140,
+    "ifsc": "HDFC0001220",
+    "accountNo": "0208",
+    "accountType": "CA"
+  },
+  {
+    "canId": "14190BEA01",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065002,
+    "ifsc": "ABHY0065002",
+    "accountNo": 3453245,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14190BIA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 560240056,
+    "ifsc": "HDFC0001746",
+    "accountNo": "0208",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14195AZA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 1234,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14213AJA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 1111,
+    "accountType": "CLSB"
+  },
+  {
+    "canId": "14213AJA01",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065013,
+    "ifsc": "ABHY0065013",
+    "accountNo": 88888,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14213AMA01",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065010,
+    "ifsc": "ABHY0065010",
+    "accountNo": 123456,
+    "accountType": "SB"
+  },
+  {
+    "canId": "16056BAA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 12345678,
+    "accountType": "SB"
+  },
+  {
+    "canId": "16056BAA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 142240006,
+    "ifsc": "HDFC0002893",
+    "accountNo": 23456789,
+    "accountType": "SB"
+  },
+  {
+    "canId": "16056BAA02",
+    "bankId": "019",
+    "bankName": "INDIAN BANK",
+    "micr": 110019003,
+    "ifsc": "IDIB000D008",
+    "accountNo": 3456789012,
+    "accountType": "OD"
+  },
+  {
+    "canId": "16056BAA02",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 123456899,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 485,
+    "bankName": "KOTAK MAHINDRA BANK LTD",
+    "micr": 411485017,
+    "ifsc": "KKBK0001756",
+    "accountNo": 9711610515,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 222,
+    "bankName": "A.P. VARDHAMAN (MAHILA) CO-OP BANK LTD",
+    "micr": 500222009,
+    "ifsc": "HDFC0CVB009",
+    "accountNo": 1234567,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 123450000000001,
+    "accountType": "CC"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 123456,
+    "accountType": "OTH"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240001,
+    "ifsc": "HDFC0000003",
+    "accountNo": 1234562,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": "072",
+    "bankName": "DEVELOPMENT CREDIT BANK",
+    "micr": 110072003,
+    "ifsc": "DCBL0000062",
+    "accountNo": 1234561,
+    "accountType": "PSB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240013,
+    "ifsc": "HDFC0000093",
+    "accountNo": 78896846540101,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 211,
+    "bankName": "AXIS BANK LTD",
+    "micr": 636211999,
+    "ifsc": "UTIB0000716",
+    "accountNo": 1234567890,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 600229024,
+    "ifsc": "ICIC0000275",
+    "accountNo": "027501536864",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 600532002,
+    "ifsc": "YESB0000005",
+    "accountNo": "012345",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163BEA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 635532302,
+    "ifsc": "YESB0000293",
+    "accountNo": 1234567890,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 400240035,
+    "ifsc": "HDFC0000182",
+    "accountNo": "01821160000169",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240002,
+    "ifsc": "HDFC0000011",
+    "accountNo": 123456,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": "036",
+    "bankName": "STANDARD CHARTERED BANK",
+    "micr": 110036002,
+    "ifsc": "SCBL0036020",
+    "accountNo": 12345,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AKA02",
+    "bankId": 485,
+    "bankName": "KOTAK MAHINDRA BANK LTD",
+    "micr": 411485017,
+    "ifsc": "KKBK0001756",
+    "accountNo": 9711610515,
+    "accountType": "PSB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 110532002,
+    "ifsc": "YESB0000003",
+    "accountNo": 124551,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 110532002,
+    "ifsc": "YESB0000003",
+    "accountNo": 38374922,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 110532002,
+    "ifsc": "YESB0000003",
+    "accountNo": 2345673,
+    "accountType": "CA"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 110532003,
+    "ifsc": "YESB0000002",
+    "accountNo": 7342342,
+    "accountType": "CA"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 110532003,
+    "ifsc": "YESB0000002",
+    "accountNo": 4534562,
+    "accountType": "CA"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 110532002,
+    "ifsc": "YESB0000003",
+    "accountNo": 4221233,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 110532002,
+    "ifsc": "YESB0000003",
+    "accountNo": 634277,
+    "accountType": "CA"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 110532002,
+    "ifsc": "YESB0000003",
+    "accountNo": 8327344,
+    "accountType": "CA"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 110532002,
+    "ifsc": "YESB0000003",
+    "accountNo": 95674565,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AKA01",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 395229042,
+    "ifsc": "ICIC0007506",
+    "accountNo": 750601500069,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 799532002,
+    "ifsc": "YESB0000155",
+    "accountNo": "025199000006066",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14157AZA01",
+    "bankId": 532,
+    "bankName": "YES BANK LTD",
+    "micr": 799532002,
+    "ifsc": "YESB0000155",
+    "accountNo": "025199000006067",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14163AKA01",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065013,
+    "ifsc": "ABHY0065013",
+    "accountNo": 1234,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14175AYA05",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 560240056,
+    "ifsc": "HDFC0001746",
+    "accountNo": "0005019602577",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14188AMA06",
+    "bankId": 211,
+    "bankName": "AXIS BANK LTD",
+    "micr": 411211017,
+    "ifsc": "UTIB0000862",
+    "accountNo": 2345606266,
+    "accountType": "SNRA"
+  },
+  {
+    "canId": "14188AMA06",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 560229011,
+    "ifsc": "ICIC0006252",
+    "accountNo": 4001234241,
+    "accountType": "FCNR"
+  },
+  {
+    "canId": "14188AMA06",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 560240056,
+    "ifsc": "HDFC0001746",
+    "accountNo": 3001245360,
+    "accountType": "SNRR"
+  },
+  {
+    "canId": "14189AMA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 411229017,
+    "ifsc": "ICIC0006450",
+    "accountNo": 1234567896,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189AMA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 570229003,
+    "ifsc": "ICIC0006255",
+    "accountNo": 1234567897,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14189AMA02",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240140,
+    "ifsc": "HDFC0001220",
+    "accountNo": 1234567895,
+    "accountType": "NRE"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "013",
+    "bankName": "BANK OF INDIA",
+    "micr": 400013099,
+    "ifsc": "BKID0000105",
+    "accountNo": 1604,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "013",
+    "bankName": "BANK OF INDIA",
+    "micr": 523013002,
+    "ifsc": "BKID0005610",
+    "accountNo": 1911,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "014",
+    "bankName": "BANK OF MAHARASHTRA",
+    "micr": 400014013,
+    "ifsc": "MAHB0000119",
+    "accountNo": "0508",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "015",
+    "bankName": "CANARA BANK",
+    "micr": 452015011,
+    "ifsc": "CNRB0003199",
+    "accountNo": "001",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "015",
+    "bankName": "CANARA BANK",
+    "micr": 695015026,
+    "ifsc": "CNRB0002968",
+    "accountNo": "0208",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "015",
+    "bankName": "CANARA BANK",
+    "micr": 400015028,
+    "ifsc": "CNRB0000129",
+    "accountNo": 1604,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "016",
+    "bankName": "CENTRAL BANK OF INDIA",
+    "micr": 400016018,
+    "ifsc": "CBIN0280600",
+    "accountNo": "0508",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "018",
+    "bankName": "DENA BANK",
+    "micr": 390018012,
+    "ifsc": "BKDN0210559",
+    "accountNo": 1805,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 700027154,
+    "ifsc": "UTBI0MAYA30",
+    "accountNo": 3108,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": "000000000",
+    "ifsc": "UTBI0AHP273",
+    "accountNo": "A001",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": "065",
+    "bankName": "ABHYUDAYA CO-OP BANK",
+    "micr": 400065013,
+    "ifsc": "ABHY0065013",
+    "accountNo": 1805,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": 146,
+    "bankName": "KARNATAKA STATE CO-OP APEX BANK LTD,BANGLORE",
+    "micr": 560226001,
+    "ifsc": "KSCB0000001",
+    "accountNo": "0208",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": 211,
+    "bankName": "AXIS BANK LTD",
+    "micr": 400211012,
+    "ifsc": "UTIB0000063",
+    "accountNo": "0208",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 560229009,
+    "ifsc": "ICIC0006254",
+    "accountNo": "008",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 411229017,
+    "ifsc": "ICIC0006450",
+    "accountNo": 3108,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 403240020,
+    "ifsc": "HDFC0001221",
+    "accountNo": "006",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 110240140,
+    "ifsc": "HDFC0001220",
+    "accountNo": 1911,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14206BAA01",
+    "bankId": 269,
+    "bankName": "ABU DHABI COMMERCIAL BANK",
+    "micr": 560269002,
+    "ifsc": "ADCB0000002",
+    "accountNo": 11,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14216BAA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 560229009,
+    "ifsc": "ICIC0006254",
+    "accountNo": "0121110251251",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14216BAA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 411229017,
+    "ifsc": "ICIC0006450",
+    "accountNo": 121400012542,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14231AZA09",
+    "bankId": "027",
+    "bankName": "UNITED BANK OF INDIA",
+    "micr": 123456789,
+    "ifsc": "UTBI0BEC135",
+    "accountNo": 45325,
+    "accountType": "CA"
+  },
+  {
+    "canId": "14231AZA09",
+    "bankId": 211,
+    "bankName": "AXIS BANK LTD",
+    "micr": 683211052,
+    "ifsc": "UTIB0000803",
+    "accountNo": "0035647888999",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14231AZA09",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 800229001,
+    "ifsc": "ICIC0006259",
+    "accountNo": "00124512162535",
+    "accountType": "SB"
+  },
+  {
+    "canId": "14238BAA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 388229120,
+    "ifsc": "ICIC0000085",
+    "accountNo": 3512253131,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14238BAA02",
+    "bankId": 229,
+    "bankName": "ICICI BANK LTD",
+    "micr": 411229017,
+    "ifsc": "ICIC0006450",
+    "accountNo": 987654321,
+    "accountType": "SB"
+  },
+  {
+    "canId": "14238BAA02",
+    "bankId": 240,
+    "bankName": "HDFC BANK LTD",
+    "micr": 143240503,
+    "ifsc": "HDFC0001369",
+    "accountNo": 987654,
+    "accountType": "CA"
+  }
+]
